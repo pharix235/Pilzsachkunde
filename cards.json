@@ -1,0 +1,2772 @@
+[
+  {
+    "id": 1,
+    "question": "001 Nennen Sie jeweils eine Pilzart mit deutlich erkennbaren Resten einer Gesamthülle, Teilhülle, Gesamt- und Teilhülle sowie eine Art ohne Hüllreste.    (4)",
+    "answer": "a) Gesamthülle: Rotbrauner Scheidenstreifling \nb) Teilhülle: Wiesen-Champignon \nc) Gesamt- und Teilhülle: Grüner Knollenblätterpilz \nd) Ohne Hüllreste: Frauentäubling"
+  },
+  {
+    "id": 2,
+    "question": "002 Welche Funktion erfüllt eine Teilhülle? Wie lautet der Fachbegriff dafür? Nennen Sie ein Beispiel für einen Pilz mit Teilhülle.   (3)",
+    "answer": "Sie schützt die Lamellen oder Röhren. \nVelum partiale, \nWiesenchampignon, Fliegenpilz"
+  },
+  {
+    "id": 3,
+    "question": "003 Woran erkennt man einen Pilz mit Teilhülle? Wie lautet der Fachbegriff dafür? Bitte nennen Sie ein Beispiel.   (3)",
+    "answer": "Man erkennt ihn am Ring, als Rest des Velum partiale,\nChampignons, alle Amanitaarten,"
+  },
+  {
+    "id": 4,
+    "question": "004 Woran erkennt man einen Pilz mit Gesamthülle? Wie lautet der Fachbegriff dafür? Bitte nennen Sie ein Beispiel.   (3)",
+    "answer": "An den Velumresten sowohl an der Knolle als auch in vielen Fällen am Stiel oder auch als abwischbare Reste auf der Hutoberseite.\nVelum universale, \nFuchsiger Scheidenstreifling, alle Amanitaarten,."
+  },
+  {
+    "id": 5,
+    "question": "005 Welcher Täubling (Russula sp.) hat keine spröden, splitternden Lamellen?   (1)",
+    "answer": "Frauentäubling, Grasgrüne Täubling."
+  },
+  {
+    "id": 6,
+    "question": "006 Was ist das wesentliche Merkmal aller essbaren Reizker-Arten?   (1)",
+    "answer": "Roter oder orangener Milchsaft."
+  },
+  {
+    "id": 7,
+    "question": "007 Erklären Sie den Begriff \"Anastomosen\".   (1)",
+    "answer": "Überwiegend tieferliegende Quer-Verbindungen zwischen den Lamellen (Rosablättriger Helmling)."
+  },
+  {
+    "id": 8,
+    "question": "008 Erklären Sie den Begriff \"Cortina\".   (1)",
+    "answer": "Cortina=Schleier. Es handelt sich um spinngewebsartige Verbindungen zwischen Stiel und Hut zum Schutze der Lamellen in denen bei Cortinarien sich das  Sporenpulver ansammelt."
+  },
+  {
+    "id": 9,
+    "question": "009 Was ist unter der \"Teilhülle\" zu verstehen und wie heißt der wissenschaftliche Begriff dafür?   (2)",
+    "answer": "Es ist eine Schutzhülle für das Hymenium zwischen Hut und Stiel im Frühstadium. Velum partiale."
+  },
+  {
+    "id": 10,
+    "question": "010 Was ist unter der \"Gesamthülle\" zu verstehen und wie heißt der wissenschaftliche Begriff dafür?   (2)",
+    "answer": "Eine umschließende Hülle zum Schutz des jungen Pilzes, insbesondere, wenn er unter der Erde heranwächst. Velum universale."
+  },
+  {
+    "id": 11,
+    "question": "011 Was ist ein Myzel und wie entsteht es?   (2)",
+    "answer": "Ein Pilz besteht aus Pilzfäden (Hyphen). Diese verbinden sich zu einem gemeinsamen Myzel, welches einem unterirdischen Wurzelgeflecht ähnelt, aber u.U. auch einen oberirdisch sichtbaren Fruchtkörper bilden kann."
+  },
+  {
+    "id": 12,
+    "question": "012 Was ist ein Sklerotium? Nennen Sie zwei Pilzarten, die ein solches bilden.   (3)",
+    "answer": "Ein Sklerotium ist sehr widerstandfähiges Myzel - eine Dauerform, die Kälte und Trockenheit widersteht- aus der sich bei günstigen Lebensbedingungen ein neuer Pilz bilden kann, z.B. Mutterkorn, Sklerotien-Porling"
+  },
+  {
+    "id": 13,
+    "question": "013 Was versteht man unter der Bezeichnung \"hygrophan\"? Nennen Sie zwei Pilzarten mit diesem Merkmal.   (3)",
+    "answer": "Hygrophanität bezeichnet die Eigenschaft einiger Hutoberflächen, bei Verlust oder Aufnahme von Wasser die Farbe zu ändern. (Es handelt sich auch um ein wichtiges Bestimmungsmerkmal). Stockschwämmchen. Blauender Kahlkopf."
+  },
+  {
+    "id": 14,
+    "question": "014 Was ist Mykorrhiza? Nennen Sie zwei Mykorrhiza bildende Pilzarten.   (3)",
+    "answer": "Eine Symbiose zwischen Pilz und Baum – aber auch mit anderen Pflanzen. Der Pilz umwächst die Baumwurzel und bildet eine Pilzwurzel (= Mykorrhiza). Er liefert Wasser und Nährsalze und bekommt vom Baum organische Substanzen, die durch Fotosynthese entstanden sind. Beispiele sind Röhrlinge (ohne den Parasitischen Röhrling), Täublinge, Schleierlinge..."
+  },
+  {
+    "id": 15,
+    "question": "015 Was ist ein \"Kollar\"? Nennen Sie zwei Gattungen, in denen es Pilze mit Kollar gibt.   (3)",
+    "answer": "In diesem Fall sind die Lamellen nicht mit dem Stiel verbunden, sondern mit einem Ring. Riesenschirmlinge und Schwindlinge (Z.B. Halsbandschwindling)."
+  },
+  {
+    "id": 16,
+    "question": "016 Was versteht man unter Amyloidität?   (1)",
+    "answer": "Blau/blaugraues Verfärben bestimmter Pilzteile (z.B. Sporen) auf die Behandlung mit Melzers Reagenz."
+  },
+  {
+    "id": 17,
+    "question": "017 Was versteht man unter Dextrinoidität?   (1)",
+    "answer": "Rot / braun Verfärben bestimmter Pilzteile (z.B. Sporen) auf die Behandlung mit Melzers Reagenz."
+  },
+  {
+    "id": 18,
+    "question": "018 Was sind Rhizomorphen und bei welcher Pilzart kommen sie beispielsweise vor?   (2)",
+    "answer": "Ein widerstandsfähiges, wurzelartiges Myzelgeflecht. Hallimasch!"
+  },
+  {
+    "id": 19,
+    "question": "019 Was ist eine Hyphe?   (1)",
+    "answer": "Ein Pilzfaden, der aus einzelnen Zellen besteht."
+  },
+  {
+    "id": 20,
+    "question": "020 Nennen Sie zwei Pilzarten, die eine Teilhülle ausbilden.   (2)",
+    "answer": "Karbolchampignon, Parasolpilz \nAlle Champignons, Riesenschirmlinge, Amanitaarten, Schirmlinge ."
+  },
+  {
+    "id": 21,
+    "question": "021 Nennen Sie zwei Pilzarten, die eine Gesamthülle ausbilden.   (2)",
+    "answer": "Alle Amanitaarten,"
+  },
+  {
+    "id": 22,
+    "question": "022 Was ist der Hauptbestandteil der Zellwände von Pilzen?   (1)",
+    "answer": "Chitin - wie die Insekten."
+  },
+  {
+    "id": 23,
+    "question": "023 Was sind Konidien?   (1)",
+    "answer": "Sporen, die auf ungeschlechtliche Weise - durch Zellteilung - entstanden sind und nicht durch einen geschlechtlichen Vorgang wie bei den Meiosporen - wie das normalerweise der Fall ist."
+  },
+  {
+    "id": 24,
+    "question": "024 Nennen Sie je eine Pilzart zu folgenden Gerüchen, die bei Pilzen auftreten können: Anis, Honig, Knoblauch, Kartoffel, Marzipan.   (5)",
+    "answer": "Anis - Anistrichterling,\nHonig - Honigschleimfuß, \nKnoblauch - Knoblauchschwindling, \nKartoffel - gelbe Knollenblätterpilz,\nMarzipan - wohlriechende Schneckling"
+  },
+  {
+    "id": 25,
+    "question": "025 Beschreiben Sie die Lamellenfarbe von Champignons (Agaricus) und Knollenblätterpilzen (Amanita) von ganz jung bis alt.   (4)",
+    "answer": "Agaricus: erst rosa, dann dunkelbraun, \nAmanita: immer weiß."
+  },
+  {
+    "id": 26,
+    "question": "026 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Dickschaligen Kartoffelbovists (Scleroderma citrinum).   (5)",
+    "answer": "1. Kartoffelähnlicher Bauchpilz mit dicker Peridie, \n2. schuppige, raue, grob gefelderte, ockerbräunlich-beige Oberfläche, \n3. mamorierte Fruchtmasse, die nur kurzzeitig weiß und später grauviolett wird, \n4. kein Stiel \n5. metallischer, unangenehmer Geruch."
+  },
+  {
+    "id": 27,
+    "question": "027 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Spitzschuppigen Schirmlings (Lepiota aspera).   (3)",
+    "answer": "1. Hut anfangs geschlossen braun, dann hell aufreißend, \n2. pyramidenförmige, dunkle Hutschuppen, abwischbar, \n3. helle, sehr eng stehende, freiblättrige Lamellen, \n4. festgewachsener, hängender Ring\n5. Geruch unangenehm, gasartig\n6. Stielbasis knollig verdickt"
+  },
+  {
+    "id": 28,
+    "question": "028 Durch welche Gerüche unterscheiden Sie Gelben Knollenblätterpilz (Amanita citrina), Grünen Knollenblätterpilz (Amanita phalloides) und Pantherpilz (Amanita pantherina)?   (3)",
+    "answer": "Gelber Knollenblätterpilz: Kartoffelkeller, \nGrüner Knollenblätterpilz: jung süßlich, honigartig, alt wiederlich nach Tierkäfig, \nPantherpilz: leicht rettichartig oder geruchlos."
+  },
+  {
+    "id": 29,
+    "question": "029 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Gallenröhrlings (Tylopilus felleus).   (3)",
+    "answer": "1. Geschmack bitter \n2. Die Röhrenporen verfärben sich von weiß nach rosa, \n3. Die Porenschicht ist später nach unten gewölbt, \n4. Dunkles Netz am Stiel"
+  },
+  {
+    "id": 30,
+    "question": "030 Nennen Sie drei wichtige bestimmungsrelevante Merkmale der Stinkmorchel (Phallus impudicus).   (3)",
+    "answer": "1. Der Pilz entsteht aus einem weißen Hexenei mit Gallerthülle durch Streckenwachstum. \n2. Der Kopf enthält eine stinkende, insektenanlockende, olivbraune Sporenmasse, die relativ schnell verschwindet.\n3. Der Stiel ist weiß, filigran, zerbrechlich und mit Poren versehen."
+  },
+  {
+    "id": 31,
+    "question": "031 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Falschen Pfifferlings (Hygrophoropsis aurantiaca agg.).   (3)",
+    "answer": "1. farbintensiv orange, \n2. er besitzt herablaufende, engstehende, z.T. gegabelte Lamellen \n3. Die Lamellen sind abschiebbar wie bei Paxillus."
+  },
+  {
+    "id": 32,
+    "question": "032 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Keulenfußtrichterlings (Ampulloclitocybe clavipes).   (3)",
+    "answer": "1. Der Hut ist gelb- bis graubräunlich mit scharfkantigem Rand, \n2. Die leicht gelblichen Lamellen sind herablaufend wie bei Clitocybe, Weißsporer, \n3. Die Stielbasis ist keulenförmig verdickt, \n4. Der Stiel ist nicht hohl sondern schwammig,"
+  },
+  {
+    "id": 33,
+    "question": "033 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Schwefelritterlings (Tricholoma sulphureum).   (3)",
+    "answer": "1. Der Pilz weist alle Ritterlingsmerkmale auf: er ist kompakt, mit ausgebuchtet angewachsenen Lamellen und weißem Sporenpulver, Mykorrhizapilz. \n2. Er ist überall schwefelgelb, \n3. er riecht nach Schwefelwasserstoff (faule Eier) oder Karbol. \n4. Die Lamellen sind dick und weit entfernt"
+  },
+  {
+    "id": 34,
+    "question": "034 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Violetten Rettichhelmlings (Mycena pura agg.).   (3)",
+    "answer": "1. Der Pilz weist alle Helmlingsmerkmale auf, er ist relativ klein, von zerbrechlicher Form, mit helmartigem Hut, bauchigen, durchscheinigen Lamellen, so dass der Hut wie gerippt aussieht. Die Lamellen sind angewachsen, Weißsporer, der Stiel ist hohl, Saprophyt, \n2. Der Hut ist violett, grau oder gar weiß, er verformt sich leicht, \n3. Die Lamellen weisen einen violetten Reflex auf, \n4. Geruch ist rettichartig."
+  },
+  {
+    "id": 35,
+    "question": "035 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Riesenrötlings (Entoloma sinuatum).   (3)",
+    "answer": "1. H. graucreme, beige, blass-graubräunlich, tonfarben, seidig glänzend, eingewachsen faserig, Rand lange eingebogen\n2. Auffallend großer ritterlingsähnlicher Pilz\n3. Anfangs gelblichen Lamellen, arttypisch lange rosagelb bis lachsfarben"
+  },
+  {
+    "id": 36,
+    "question": "036 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Gelben Knollenblätterpilzes (Amanita citrina).   (3)",
+    "answer": "1. Der Geruch - speziell in der Knolle - riecht nach Kartoffelkeller \n2. Die Knolle ist gerandet mit leicht gelblichem Rand \n3. Bei A. citrina platzt das V. universale in der Mitte auf, so dass relativ grobschlächtige, bräunliche Velumreste auf der zitronengelben Hutoberfläche verbleiben,"
+  },
+  {
+    "id": 37,
+    "question": "037 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Karbolegerlings (Agaricus xanthodermus).   (3)",
+    "answer": "1. Geruch: Karbol, Tinte\n2. Fleisch gilbt bei Reibung/Schnitt, speziell in der Knolle, die Verfärbung geht relativ schnell wieder zurück,\n3. Der Hut ist weiß und sehr häufig im jungen Zustand kantig, häufig mit einer leichten Braunfärbung"
+  },
+  {
+    "id": 38,
+    "question": "038 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Faltentintlings (Coprinopsis atramentaria).   (3)",
+    "answer": "1. Der Hut ist graubräunlich und eingefaltet (Faltentintling), \n2. Die Lamellen sind grau und angeheftet, sie verfärben sich im Alter schwarz  \n3. Der Stiel ist weißlich mit einer knotigen Verdickung an der Basis,.\n4. Sporenpulverfarbe: schwarz"
+  },
+  {
+    "id": 39,
+    "question": "039 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Ziegelroten Schwefelkopfes (Hypholoma lateritium).   (3)",
+    "answer": "1. Der Hut ist kräftig gebaut und in der Mitte ziegelrot. \n2. Sporenpulverfarbe dunkelbraun-lila\n3. Der Stiel ist oben weiß bis hellgelb, unten stark überfasert und braun, mit faseriger Ringzone. \n4. Der Geschmack ist bitter,"
+  },
+  {
+    "id": 40,
+    "question": "040 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Sparrigen Schüpplings (Pholiota squarrosa).   (3)",
+    "answer": "1. Sparrig geschuppter Hut - Schuppen zeigen in alle Richtungen \n2. Der Hut ist beige -orange-gelbbraun und trocken. \n3. Der Stiel ist unterhalb der zerrissenen Ringzone mit sparrigen Schuppen versehen. \n4. Im Querschnitt ist der Stiel oben blassgelb und unten braun.\n5. Sporenpulverfarbe rostbraun"
+  },
+  {
+    "id": 41,
+    "question": "041 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Speitäublings (Russula emetica agg.).   (3)",
+    "answer": "1. Der Hut ist kräftig blutrot glänzend, unter der Haut rosenrot, im älteren Stadium ockerfleckig ausblassend mit gerieftem Rand, \n2. Der Stiel ist reinweiß, später cremeweiß, \n3. Der Geruch ist obstartig, \n4. Der Geschmack brennend scharf"
+  },
+  {
+    "id": 42,
+    "question": "042 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Breitblattrüblings (Clitocybula platyphylla).   (3)",
+    "answer": "1. Sehr großer (Mega!)Rübling. \n2. Der graubraune Hut verflacht sehr schnell, er ist radialstreifig und dünnfleischig, trocken. \n3. Die Lamellen sind weißlich, chremefarben, breit und ausgebuchtet angewachsen.\n4. Der Stiel ist weiß, ähnelt in dem Farbton  dem Hut, längsriefig, mit Mycelsträngen an der Basis."
+  },
+  {
+    "id": 43,
+    "question": "043 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Riesenbovists (Calvatia gigantea).   (3)",
+    "answer": "1. Fussballgroße, mehr oder weniger runde Fruchtkörper, \n2. Der Pilz ist außen glatt, später blättert die “Haut” (=Peridie) eierschalig ab. \n3. Der Bauchpilz ist anfangs innen reinweiß, mit festem Fleisch, später wird er gelblich und weich, dann bräunlich und schlussendlich entsteht eine olivbraune, wasserabweisende (=hygrophobe) Sporenmasse. \n4. Unangenehm, alt urinartig"
+  },
+  {
+    "id": 44,
+    "question": "044 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Pfefferröhrlings (Chalciporus piperatus agg.).   (3)",
+    "answer": "Brauner Pilz (Hut, Poren, Stiel); pfeffrig scharfer Geschmack; Stiel(-fleisch) unten chromgelb\n1. Der Hut ist zimt- bis orangebräunlich, convex. \n2. Die Poren sind grob, orange- bis zimtbraun.\n3. Der Stiel ist mehr oder weniger schlank, zylindrisch und entspricht farblich dem Hut. \n4. Das Fleisch ist blassgelb, an der Stielbasis chromgelb. \n5. Pfeffrig scharf"
+  },
+  {
+    "id": 45,
+    "question": "045 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Schönfußröhrlings (Caloboletus calopus agg.).   (3)",
+    "answer": "1. Der Hut ist dick, polsterförmig, steingrau bis lederfarben, \n2. die Poren der Röhren sind gelb, olivebraune Sporen, \n3. der Stiel ist oben gelb, unten rhabarberrot, mit braun-rötlichem Netz, \n4. das Fleisch blaut, \n5. der Geschmack ist bitter"
+  },
+  {
+    "id": 46,
+    "question": "046 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Satansröhrlings (Rubroboletus satanas).   (3)",
+    "answer": "1. Weißer, chremegrauer Hut, \n2. rote Poren und Röhren, \n3. roter, dicker Stiel (Boletusform), genauer gesagt oben orange unten karminrot, \n4. schwach blauend, \n5. Geruch aasartig, \n6. oberer Teil mit rötlichem Netz"
+  },
+  {
+    "id": 47,
+    "question": "047 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Wurzelnden Bitterröhrlings (Caloboletus radicans).   (3)",
+    "answer": "1. Der Hut ist grauweiß, lederfarbig, polsterförmig, \n2. die Röhrenporen sind gelb, olivebraune Sporen, \n3. der Stiel ist dickbauchig mit wurzelnder Basis, primelgelb, mit feinem, gleichfarbigen Netz, \n4. das Fleisch blaut, \n5. der Geschmack ist bitter,"
+  },
+  {
+    "id": 48,
+    "question": "048 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Samtfußkremplings (Tapinella atrotomentosa).   (3)",
+    "answer": "1. Der Hut ist bis zu 20 cm groß, oliv/rotbraun, feinsamtig. \n2. Die Lamellen sind gelblich, auf Druck bräunend, herablaufend und ablösbar (Boletales). \n3. Der Stiel ist braunsamtig wie der Hut und sitzt seitlich \n4. Das Fleisch ist gelb und zäh."
+  },
+  {
+    "id": 49,
+    "question": "049 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Kuhmauls (Gomphidius glutinosus).   (3)",
+    "answer": "1. Die weißen Lamellen, die später dunkel werden, sind dicklich, entfernt stehend herablaufend, das Sporenpulver ist schwarzbraun/olivgrün. \n2. Der Hut ist stahlgrau/fleischbräunlich, mit Schleimschicht. \n3. Der Stiel ist weiß, unten chromgelb."
+  },
+  {
+    "id": 50,
+    "question": "050 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Violetten Lacktrichterlings (Laccaria amethystea).   (3)",
+    "answer": "1. Der Hut ist lila/ violett , blasst schnell aus, der Rand ist durchscheinend gerieft, die Huthaut kahl oder feinschorfig. \n2. Die Lamellen sind dicklich, entfernt stehend, breit angewachsen und violett, die Sporen weiß. \n3. Der Stiel ist wie der Hut gefärbt"
+  },
+  {
+    "id": 51,
+    "question": "051 Nennen Sie drei wichtige bestimmungsrelevante Merkmale der Nebelkappe (Clitocybe nebularis).   (3)",
+    "answer": "Hutfarbe und -Form; Lamellen; Geruch\n1. Der Hut des kompakten Pilzes ist grau (typisch) gebuckelt und kahl bereift. \n2. Die Lamellen sind weißlich, cremefarben, gedrängt herablaufende und verschiebbar. \n3. Der Stiel ist kompakt und verfärbt sich von weiß nach grau. \n4. Der Geruch ist aufdringlich süßlich/ mehlartig. \n5. Dieser Saprophyt erscheint spät im Jahr in Hexenringen."
+  },
+  {
+    "id": 52,
+    "question": "052 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Dunklen Hallimasches (Armillaria ostoyae).   (3)",
+    "answer": "1. Der Hut ist fleischfarben, besitzt mehr oder minder dunkle, abwaschbare Schuppen. \n2. Die Lamellen sind ebenfalls fleischfarben, mit Zahn herablaufend, Weißsporer. \n3. Der Stiel ist unten oft gelblich, längsfaserig mit dicklichem Ring, unterhalb schuppig. \n4. Der Pilz wächst saprophytisch bis parasitisch büschelig auf Holz."
+  },
+  {
+    "id": 53,
+    "question": "053 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Rötlichen Holzritterlings (Tricholomopsis rutilans agg.).   (3)",
+    "answer": "1. Hut: rötlich geschuppt mit gelblicher Grundfarbe\n2. Die Lamellen sind auffällig gelb gefärbt, mit flockiger Schneide. \n3. Der Stiel ist purpurfilzig mit abgesetzter, gelber Spitze.  \n4. Der Pilz kommt auf Nadelholz vor."
+  },
+  {
+    "id": 54,
+    "question": "054 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Maipilzes (Calocybe gambosa).   (3)",
+    "answer": "1. Der Hut ist mehr oder minder weiß/gelblich, dickfleischig. \n2. Die Lamellen sind anfangs weiß, später cremefarben, inamyloider Weißsporer. \n3. Der Stiel ist weiß und kompakt. \n4. Geruch und Geschmack sind ranzig, süßlich, mehlartig."
+  },
+  {
+    "id": 55,
+    "question": "055 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Violetten Rötelritterlings (Lepista nuda).   (3)",
+    "answer": "1. Der Hut ist mehr oder minder violett/bräunlich \n2. Die Lamellen sind mehr oder weniger violett, ausgebuchtet angewachsen, verschiebbar. Sporenpulver mykologenrosa\n3. Das Fleisch ist mehr oder weniger violett.\n4. Der Geruch ist parfümiert, fruchtig."
+  },
+  {
+    "id": 56,
+    "question": "056 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Büschelraslings (Lyophyllum decastes).   (3)",
+    "answer": "1. Der Hut ist graubraun, trocken und kahl. \n2. Die Lamellen sind mehr oder minder weißlich. \n3. Der Stiel ist schmutzig weißlich, von der Basis her nachdunkelnd, büschelig wachsend. \n4. Kommt oft auf Wegen/Wegesränder vor\n5. Sporenpulverfarbe weiß"
+  },
+  {
+    "id": 57,
+    "question": "057 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Gelbstieligen Muschelseitlings (Panellus serotinus).   (3)",
+    "answer": "1. Der Hut ist muschel bis spatelförmig und braunoliv, die Haut ist trocken, die Unterschicht gelantinös. \n2. Die gedrängt stehenden Lamellen sind blass gelblich, herablaufend. \n3. Der gelbe Stiel ist fein geschuppt, sehr kurz, seitlich sitzend. \n4. Der Pilz kommt auf totem Laubholz vor."
+  },
+  {
+    "id": 58,
+    "question": "058 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Nelkenschwindlings (Marasmius oreades).   (3)",
+    "answer": "1. Der Hut ist hygrophan, lederfarben und besitzt einen gekerbten Rand. \n2. Die Lamellen stehen entfernt und sind dicklich, mit Lamelletten, Weißsporer. \n3. Der ringlose Stiel ist sehr zäh. \n4. Der Geruch ist aromatisch nach Bittermandel \n5. Die Schwindlinge bilden Hexenringe"
+  },
+  {
+    "id": 59,
+    "question": "059 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Wurzelschleimrüblings (Xerula radicata).   (3)",
+    "answer": "1. Der Hut ist gelbbräunlich/rotbraun, schleimig, glatt bis runzelig. \n2. Die Lamellen sind weißlich, ausgebuchtet angewachsen, dicklich, Weißsporer \n3. Der Stiel ist wie der Hut gefärbt, oben etwas heller und verdreht, tief spindelartig wurzelnd. \n4. Vorkommen im Laubwald, Folgerzersetzer."
+  },
+  {
+    "id": 60,
+    "question": "060 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Rosablättrigen Helmlings (Mycena galericulata).   (3)",
+    "answer": "1. Der Hut ist blass, hornbräunlich, runzelig. \n2. Die Lamellen sind weißlich, älter mit Rosaton, ausgebuchtet angewachsen, queradrig verbunden (Anastomosen)\n3. Der Stiel ist wie der Hut gefärbt, sehr hart und zäh\n4. Geruch nach Gurke"
+  },
+  {
+    "id": 61,
+    "question": "061 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Mehlräslings (Clitopilus prunulus agg.).   (3)",
+    "answer": "Rosafärbung der Lamellen durch rosa Spp; typischer Mehlgeruch; stark herablaufende, abschiebbare Lamellen\n\n1. Der Hut ist weiß, mit trockener Haut, sehr selten etwas klebrig. \n2. Die herablaufenden Lamellen sind anfangs weiß, später rosa, rosa Sporenpulverfarbe\n3. Der Stiel ist weiß, er verjüngt sich zur Basis. \n4. Der Geruch ist mehlartig"
+  },
+  {
+    "id": 62,
+    "question": "062 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Rehbraunen Dachpilzes (Pluteus cervinus agg.).   (3)",
+    "answer": "1.Er ist ein freiblättriger Rosasporer \n2. Der Hut ist gelb/kastanienbraun/rehbraun/rußbraun. \n3. Der Stiel ist schmutzig weißlich, faserig netzig, \n4. Er kommt überwiegend auf Laubholz vor."
+  },
+  {
+    "id": 63,
+    "question": "063 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Fuchsigen Scheidenstreiflings (Amanita fulva).   (3)",
+    "answer": "1. Deutliche Scheide in der Stielbasis, innen bräunlich, außen weiß, rostfleckig\n2. Der Hut ist fuchsig braun und am Rand gerieft. \n3. Die weißen Lamellen sind frei, Weißsporer wie alle Amanitaarten. \n4. Der Stiel ist hohl, ringlos und zerbrechlich. \n5. Dieser Mykorrhizapilz liebt sauren Boden bei Birken und Kiefern."
+  },
+  {
+    "id": 64,
+    "question": "064 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Narzissengelben Wulstlings (Amanita gemmata).   (3)",
+    "answer": "1. Dieser Wulstlig weist alle Amanitakennzeichen auf wie Velum universale, Velum partiale, freie Lamellen, Mykorrhizapilz, hier besonders mit Kiefern auf dem Sandboden, weiße Sporen, \n2. Der Hut ist wachsgelb bis gelbocker, mit weißen mehr oder weniger flächigen bis pustelförmigen Velumresten, der Rand ist etwas gerieft \n3. Der Stiel ist weiß, mit sehr vergänglichem Ring, schlanker Knolle mit wulstigem Velumrest und Flockengürtel"
+  },
+  {
+    "id": 65,
+    "question": "065 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Stinkschirmlings (Lepiota cristata).   (3)",
+    "answer": "1. Der Hut, des kleinen Pilzes, weist eine rotbraune Deckschicht auf, die sich in konzentrischen Schuppen auflöst, \n2. die Lamellen sind weiß, frei (Lepiota) und eng stehend, Weißsporer, \n3. der allerdings sehr flüchtige Ring ist fest (aufsteigend) mit dem Stiel verbunden \n4. Der ursprünglich fruchtige Geruch wird sehr schnell stinkend/ leuchtgasartig."
+  },
+  {
+    "id": 66,
+    "question": "066 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Wiesenegerlings (Agaricus campestris agg.).   (3)",
+    "answer": "1. Freiblättler, Lamellen zuerst rosa und später kakaobraun. Sporenpulverfarbe kakaobraun.\n2. Der Stiel ist schlank, mit zugespitzter Basis, der Ring ist nur schwach ausgebildet. \n3. Der Geruch ist angenehm pilzartig - ohne Karbolgeruch, die Stielbasis gilbt nicht, wenn man sie aufschneidet."
+  },
+  {
+    "id": 67,
+    "question": "067 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Schopftintlings (Coprinus comatus agg.).   (3)",
+    "answer": "1. Sporenpulver ist schwarzbraun und zerfließt zur Reifezeit mit dem Hutfleisch zur Tinte, Folgezersetzer. \n2. Hut walzenförmig, reinweiß, mit sparrig abstehenden Schuppen \n3. Die Lamellen sind engstehend,  zuerst weiß dann rötlich und schließlich schwarz.  \n4. Der Geruch ist angenehm würzig."
+  },
+  {
+    "id": 68,
+    "question": "068 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Frühlingsackerlings (Agrocybe praecox agg.).   (3)",
+    "answer": "1. Der Hut ist strohgelb, breit gebuckelt, mit trockener Huthaut. \n2. Die Lamellen sind blass- bis tabakbraun, ausgebuchtet angewachsen, Sporenpulver grau- bis tabakbraun. \n3. Der Stiel ist blass-weißlich-gelblich mit häutigem, vergänglichem Ring. \n4. Der Geruch ist ranzig-mehlig"
+  },
+  {
+    "id": 69,
+    "question": "069 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Riesenträuschlings (Stropharia rugosoannulata).   (3)",
+    "answer": "1. Der Hut ist grau-rotbraun, fast trocken, schuppig aufbrechend, \n2. Die breit angewachsenen Lamellen weisen einen violetten Farbton auf, das Sporenpulver ist schwarz-violett. \n3. Der Stiel ist blass mit auffallend grobgezähneltem, oberseits gerieftem Ring, \n4. Strophariageruch nach Heu."
+  },
+  {
+    "id": 70,
+    "question": "070 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Grünspanträuschlings (Stropharia aeruginosa).   (3)",
+    "answer": "1. Der relativ kleine Hut ist dunkel-blaugrün-grünspanfarbig, später gelblich ausblassend, schleimig mit weißen Flöckchen überwiegend am Rand, die Haut lässt sich leicht abziehen. \n2. Die Lamellen sind violettbraun (violetter Farbton, der typisch für Stropharia ist) mit weißer Schneide, breit angewachsen. \n3. Die Stielfarbe entspricht der des Hutes, unterhalb des Ringes ist der Stiel schuppig. \n4. Strophariageruch nach Heu."
+  },
+  {
+    "id": 71,
+    "question": "071 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Grünblättrigen Schwefelkopfs (Hypholoma fasciculare).   (3)",
+    "answer": "1. Der Hut beträgt 2-6cm, er ist fahl-gelblich, schwefelgelb oder gelbgrünlich, am Scheitel mehr oder weniger fuchsig, am Hutrand befinden sich häufig Velumreste,\n2. die Lamellen sind zuerst gelb-grün, später dunkel-olivbraun, \n3. der Stiel ist grün-gelblich, schwach überfasert. \n4. der Pilz wächst büschelig auf Laub- und Nadelholz, \n5. Der Geschmack ist stark bitter,"
+  },
+  {
+    "id": 72,
+    "question": "072 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Graublättrigen Schwefelkopfs (Hypholoma capnoides).   (3)",
+    "answer": "1. Der Hutdurchmesser beträgt 2-6cm, er ist fahl-gelblich, schwefelgelb, am Scheitel mehr oder weniger fuchsig, am Hutrand befinden sich häufig Velumreste, der Hut weist keine Grünbestandteile auf. \n2. Die Lamellen sind grau -ohne Grünanteile. \n3. Der Geschmack ist mild. \n4. Der Pilz kommt nur an Nadelholzstümpfen vor\n5. Büschelig wachsend."
+  },
+  {
+    "id": 73,
+    "question": "073 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Stockschwämmchens (Kuehneromyces mutabilis).   (3)",
+    "answer": "1. Der relativ kleine Hut (2-6 cm) ist olivgelb/ocker/rötlich bräunlich, häufig mit hygrophanem Hut, 2. Die Lamellen sind fleischfarben/rötlich/bräunlich, breit angewachsen, die Sporenfarbe ist rostbraun \n3. Der Stiel ist gelblich, nach unten hin bräunlicher, unterhalb des Ringes schuppig-flockig, die Schuppen können leicht entfernt werden. \n4. Der Saprophyt wächst büschelig auf Laubholz."
+  },
+  {
+    "id": 74,
+    "question": "074 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Fichtenreizkers (Lactarius deterrimus).   (3)",
+    "answer": "1. Die Milch verfärbt sich innerhalb von 15 Minuten von karotten- nach weinrot, um Stunden später grün zu werden. \n3. Der Hut ist orangerot, lachsfarben, trichterförmig, im Alter mit zunehmenden Grünanteilen. \n4. Die Lamellenfarbe entspricht der des Hutes. \n5. Die Stielfarbe entspricht der des Hutes, ohne Grübchen ."
+  },
+  {
+    "id": 75,
+    "question": "075 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Wolligen Milchlings (Lactarius vellereus   (3)",
+    "answer": "1. Heller großer Pilz mit weißer Milch, die ockerfarbig fleckt. \n2. Der Hut ist kalkweiß, trichterartig vertieft, im Hut sammelt sich beim Wachstum Erde an, daher Erdschieber, die Huthaut ist wollig-filzig. \n3. Die weißen Lamellen verfärben sich im Alter braun bis ockerfarben. \n4. Der Geschmack ist scharf"
+  },
+  {
+    "id": 76,
+    "question": "076 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Dickblättrigen Schwärztäublings (Russula nigricans).   (3)",
+    "answer": "1. Zuerst rötet das weiße Fleich, dann wird es graubraun und schwarz, es handelt sich um sehr kompakte Formen. \n2. Die Lamellen sind dick und stehen entfernt. \n3. Das Fleisch ist sehr hart, so dass die schwarzen “Leichen” noch lange erhalten bleiben. \n4. Der Geschmack ist mild, nur in den Lamellen scharf, keine Speisepilz."
+  },
+  {
+    "id": 77,
+    "question": "077 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Frauentäublings (Russula cyanoxantha).   (3)",
+    "answer": "1. Die Farbe des Hutes ist violett, aber mehrfarbig untermischt, die Huthaut lässt sich nur bruchstückartig (amorph) von der Hutoberfläche abziehen. \n2. Die weißen Lamellen sind sehr biegsam - also keine Sprödblättler. \n3. Der Stiel ist spröde und ringlos. \n4. Geschmack mild"
+  },
+  {
+    "id": 78,
+    "question": "078 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Zitronenblättrigen Täublings (Russula sardonia).   (3)",
+    "answer": "1. Der Hut ist weinrötlich, grünlich untermischt. \n2. Die Lamellen sind erst blass, dann zitronengelb. \n3. Der Stiel ist violettrötlich bis violettrosa, er wird auch als Säufernase bezeichnet. \n4. Der Geruch ist angenehm obstartig, der Geschmack jedoch sehr scharf"
+  },
+  {
+    "id": 79,
+    "question": "079 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Austernseitlings (Pleurotus ostreatus).   (3)",
+    "answer": "1. Der Hut ist grau/braun/stahlblau, glatt, ohne gelantinöse Schicht wie beim Gelbstieligen Muschelseitling, ostreatus=austernförmig, die Fruchtkörper sind austernförmig übereinander geschichtet. \n2. Die Lamellen laufen am Stiel herab, Weißsporer. \n3. Der Stiel ist seitlich (Seitling) und sehr kurz. \n4. Vorkommen an toten und lebenden Laubholz."
+  },
+  {
+    "id": 80,
+    "question": "080 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Samtfußrüblings (Flammulina velutipes agg.).  (3)",
+    "answer": "1. Der Hut ist dünnfleischig, klebrig, gelantinös. \n2. Die weißgelblichen Lamellen sind angewachsen. \n3. Der ringlose Stiel ist so zäh wie bei Rüblingen, er ist oben braun und unten schwarz samtig\n4. Er kommt büschelig auf Laubholz, besonders auf Weiden, vor."
+  },
+  {
+    "id": 81,
+    "question": "081 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Schuppigen Porlings (Polyporus squamosus).   (3)",
+    "answer": "1. Der Hut ist 10-40cm breit, bräunlich mit konzentrisch anliegenden Schuppen. \n2. Die Poren sind weißlich, eckig, fest mit dem Fleisch verbunden und laufen am Stiel herab. \n3. Der Stiel ist seitlich, kurz und am unteren Ende schwarz. \n4. Geruch: Gurke, Mehl, Honig\n5. Sporenpulverfarbe: weiß"
+  },
+  {
+    "id": 82,
+    "question": "082 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Birkenporlings (Fomitopsis betulina).   (3)",
+    "answer": "1. Der Fruchkörper wächst eiförmig und weiß aus dem Birkenholz heraus, um sich schließlich konsolenförmig10-30 cm zu entwickeln, dabei wird die Oberfläche grauweißlich/bräunlich/stumpf, \n2. Die weißen Poren lassen sich leicht vom Fleisch trennen \n3. Das Fleisch ist einheitlich kompakt weiß und lässt sich gut schneiden, \n4. Es handelt sich um einen einjährigen Folgezersetzer,"
+  },
+  {
+    "id": 83,
+    "question": "083 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Schwefelporlings (Laetiporus sulphureus).   (5)",
+    "answer": "1. Der Hut ist leuchtend  dottergelb bis orange, fächerartig, unregelmäßig verwachsen. \n2. Die Porenschicht ist zitronengelb.\n3. Das Fleich ist jung saftreich und gut schneidbar, alt jedoch käsig und brüchig. \n4. Der Pilz ist ein Parasit meist an Laubbäumen, der Braunfäule hervorruft. \n5. Ohne Stiel am Stamm konsolenartig angewachsen.\n6. Sporenpulverfarbe: weiß"
+  },
+  {
+    "id": 84,
+    "question": "084 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale der Schmetterlingstramete (Trametes versicolor).   (5)",
+    "answer": "1. Der Hut ist konsolen-rosettenförmig, bunt gezont, braun/oliv/seidig \n2. Sporenpulverfarbe: hellgelbich\n2. Die Poren sind eng mit dem Hutfleisch verbunden\n3. Das Fleisch ist sehr dünn und weißlich. \n4. Überwiegend an Laub, weniger Nadelholz."
+  },
+  {
+    "id": 85,
+    "question": "085 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Zunderschwamms (Fomes fomentarius).   (5)",
+    "answer": "1.  Der Hut ist sehr breit, von wildlederartiger Struktur, er ist zuerst hellgrau, dann bräunlich und schließlich schwarz. \n2. Die Poren sind weiß und beschreibbar, später braun, Jahresringe sind im Querschnitt erkennbar. \n3. Der Pilz ist konsolenartig angewachsen. \n4. Kommt an geschwächten Laubhölzern, speziell Buchen und Birken vor, \n5. Fomes=Zunder – mit Salpetersäure getränkt, kann ein Funken hier leicht Feuer entfachen."
+  },
+  {
+    "id": 86,
+    "question": "086 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Rotrandigen Baumschwamms (Fomitopsis pinicola).   (5)",
+    "answer": "1. Dreifarbiger “Deutschlandpilz”: schwarz, rot, gelb (Zuwachsbereich). \n2. Konsolenförmig. \n3. Die Porenschicht ist weiß/chremfarbig, neigt zur Guttation. \n4. Das Fleisch ist holzfarbig und extrem hart. \n5. Braunfäuleauslöser an totem Nadelholz (gerne Fichte)"
+  },
+  {
+    "id": 87,
+    "question": "087 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Habichtspilzes (Sarcodon imbricatum agg.).   (5)",
+    "answer": "1. Der Hut ist grau/rotbraun, mit dunklen, groben, mehr oder weniger konzentrischen Schuppen, habichtsartiges Aussehen, der Hut ist trichterartig vertieft. \n2. Das Hymenium besteht aus Stacheln, grauweißlich, herablaufend. , Sporenpulverfarbe dunkelbraun\n3. Der Stiel ist zentral, heller als der Hut. \n4. Kommt im gebirgigen Süddeutschland vor, auf Kalk und Mergelböden. \n5. Mykorrhizapilz (überwiegend mit der Fichte)."
+  },
+  {
+    "id": 88,
+    "question": "088 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Semmelstoppelpilzes (Hydnum repandum).   (5)",
+    "answer": "1. Der unregelmäßig geformte Hut ist semmelfarbig, es gibt allerdigs auch hellere und dunklere Varietäten. \n2. Das Hymenium besteht aus Stoppeln, die z.T. am Stiel herablaufen, weißes Sporenpulver. \n3. Der Stiel ist zentral und ringlos, fest mit dem Hut verbunden. \n4. Das Fleisch ist spröde , brüchig \n5. Mykorrhizapilz mit Laub- und Nadelbäumen, kalkliebend."
+  },
+  {
+    "id": 89,
+    "question": "089 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Ästigen Stachelbarts (Hericium coralloides).   (5)",
+    "answer": "Korallenartiger Pilz\nAufwärtgerichtete Äste vom gemeinsamen Strunk ausgehend, jung aufrecht, alt hängend. Mit bartartigen Stoppeln am Ende \nSporenpulverfarbe: weiß\nFleisch: weißlich, weich, alt zäh \nGeruch: angenehm bis leicht rettichartig\nVorkommen: Laubholz, gerne Buche"
+  },
+  {
+    "id": 90,
+    "question": "090 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Leberreischlings (Fistulina hepatica).   (5)",
+    "answer": "1. Der Fruchkörper ist zungenförmig, fleischrosa, mit rauher Oberfläche, die beweglich ist wie die Lederhaut beim Menschen, im jungem Zustand blutrote Tropfen ausscheidend. \n2. Die Röhren sind weiß/chremgelb, sie sind voneinander getrennt\n3. Konsolenförmig. \n4. Das Fleisch ist längsgemasert und erinnert an der Querschnitt einer Ochsenzunge. \n5. Vorkommen auf lebenden oder toten Eichenholz/Edelkastanie.\n6. Braunfäuleauslöser"
+  },
+  {
+    "id": 91,
+    "question": "091 Nennen Sie drei wichtige bestimmungsrelevante Merkmale des Judasohrs (Auricularia auricula-judae).   (3)",
+    "answer": "1. Ohrförmig, braun mit Adern durchzogen, galertartig\n2. Mit filziger Oberseite und glatter Unterseite, Sporenpulverfarbe: weiß, cremegelblich\n3. Stiel kurz oder fehlend"
+  },
+  {
+    "id": 92,
+    "question": "092 Nennen Sie drei wichtige bestimmungsrelevante Merkmale der Speisemorchel (Morchella esculenta agg.).   (3)",
+    "answer": "1. Der Hut weist eine unregelmäßig angeordnete, wabenartige Struktur auf, beige/braun/scharze Färbung. \n2. Die Sporen sind chremeweiß bis gelblich. \n3. Hut und Stiel sind im Inneren hohl und ungekammert. \n4. Das Fleisch ist brüchig . \n5. Vorkommen in Auwäldern, Parkanlagen und Gärten. \n6. Saprophyt."
+  },
+  {
+    "id": 93,
+    "question": "093 Nennen Sie drei wichtige bestimmungsrelevante Merkmale der Herbstlorchel (Helvella crispa).   (3)",
+    "answer": "1. Der Hut ist kraus, unregelmäßig mehr oder weniger gelappt, weiß bis bräunlich\n2. Der Stiel ist weiß und tief längsrippig.\n3. Hut und Stiel sind im Inneren gekammert\n4. Brüchige Konsistenz\n5. Weißes Sporenpulver."
+  },
+  {
+    "id": 94,
+    "question": "094 Nennen Sie drei gattungsspezifische Merkmale von Schnecklingen (Hygrophorus).   (3)",
+    "answer": "1. Hut fast immer schmierig, \n2. Dicklich, entferntstehende, wachsartige Lamellen, angewachsen bis herablaufend, Weißsporer,\n3. Mykorrhizapilz."
+  },
+  {
+    "id": 95,
+    "question": "095 Nennen Sie drei gattungsspezifische Merkmale von Rötlingen (Entoloma).   (3)",
+    "answer": "1. Der Stiel ist fest mit dem Hut verwachsen,\n2. Lamellen angewachsen\n3. Braunrosa Sporenpulver, eckige Sporenform, \n4. zentral gestielt, ohne Ring,"
+  },
+  {
+    "id": 96,
+    "question": "096 Nennen Sie drei gattungsspezifische Merkmale von Dachpilzen (Pluteus).   (3)",
+    "answer": "1. Hut oft dachartig abgeflacht, durch eine präformierte Bruchstelle leicht vom Stiel trennbar.\n2. Lamellen bei der Reife rötlich und frei, Lachsrosasporer, \n3. Holzbewohnende Saprophyten."
+  },
+  {
+    "id": 97,
+    "question": "097 Nennen Sie drei gattungsspezifische Merkmale von Schüpplingen (Pholiota).   (3)",
+    "answer": "1. Hutoberfläche mehr oder weniger schuppig, anfangs konvex später ebener, \n2. Lamellen sind ausgebuchtet angewachsen, fast immer mit leichtem Gelbton. Braunsporer.  \n3. Der Stiel ist zentral und mehr oder weniger beringt und unterhalb des Ringes schuppig, \n4. Vorkommen: Holzzersetzer, z. T. aber auch als Parasit lebende Bäume befallend."
+  },
+  {
+    "id": 98,
+    "question": "098 Nennen Sie drei gattungsspezifische Merkmale von Röttelritterlingen (Lepista).   (3)",
+    "answer": "1. Die Lamellenschicht ist leicht vom Hut verschiebbar, \n2. Lamellen ausgebuchtet angewachsen oder herablaufend\n3. Sporen weiß bis fleischrosa,\n4. Saprophyten."
+  },
+  {
+    "id": 99,
+    "question": "099 Nennen Sie drei gattungsspezifische Merkmale von Schirmlingen (Lepiota).   (3)",
+    "answer": "1. Kleine bis mittelgroße Pilze. \n2. Der Hut meist in konzentrische Schüppchen aufbrechend, Mitte geschlossen bleibend,\n3. Die Lamellen sind frei, Weißsporer. Stiel und Hutfleisch sind leicht trennbar. \n4. Sofern Ring vorhanden ist dieser nicht beweglich. \n5. Saprophyten."
+  },
+  {
+    "id": 100,
+    "question": "100 Nennen Sie drei Arten mit gasteroidem Fruchtkörper.   (3)",
+    "answer": "Kartoffelbovist\nFlaschenstäubling\nRötender Erdstern"
+  },
+  {
+    "id": 101,
+    "question": "101 Nennen Sie zwei Arten mit resupinatem Fruchtkörper.   (2)",
+    "answer": "Dunkelbrauner Resupinat-Stacheling und Grauweißer Resupinatporling"
+  },
+  {
+    "id": 102,
+    "question": "102 Nennen Sie drei Arten mit becherförmigem Fruchtkörper.   (3)",
+    "answer": "Gewöhnlicher Orangebecherling, \nGrünspanbecherling, \nBlasiger Becherling"
+  },
+  {
+    "id": 103,
+    "question": "103 Nennen Sie drei Arten mit clavaroidem Fruchtkörper.   (3)",
+    "answer": "Hercules Keule \nRöhrige Keule \nAbgestutzte Keule"
+  },
+  {
+    "id": 104,
+    "question": "104 Nennen Sie drei Arten mit pileatem Fruchtkörper.   (3)",
+    "answer": "Pileus=Hut, es handelt sich also um Pilze mit Hüten. Alle Ritterlingsartigen, Champignonsartigen, Röhrlingsartigen..."
+  },
+  {
+    "id": 105,
+    "question": "105 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale des Tigerritterlings (Tricholoma pardinum agg.).   (5)",
+    "answer": "Nach Gminder: Robuste Statur, schuppiger Hut, Mehlgeruch, Wassertropfen an Stielspitze, Fehlen von Verfärbung\n1. Der Hut ist stahlgrau-bräunlich mit konzentrischer, dunkler Schuppung, \n2. die Lamellen sind weiß, jung tränend, ausgebuchtet angewachsen, Weißsporer, \n3. der Stiel ist zentral und ringlos, \n4. das Fleisch ist faserig, es bleibt weiß, gilbt oder rötet nicht, riecht nach Mehl\n5. Mykorrhiza mit Laub- und Nadelbäumen. Gerne auf kalkreichen Böden."
+  },
+  {
+    "id": 106,
+    "question": "106 Nennen Sie zwei Merkmale, an denen Sie Steinpilz (Boletus edulis) und Gallenröhrling (Tylopilus felleus) unterscheiden können.   (2)",
+    "answer": "Porenschicht: SP: Weiß/gelbe/olivgrüne  // GR: weiß/rosa/später polsterförmig\nSporenpulver: SP: olivbraun // GR: fleischrosa, \nGeschmack: SP: nicht bitter // GR:  bitter."
+  },
+  {
+    "id": 107,
+    "question": "107 Nennen Sie zwei Merkmale, an denen Sie Orangefuchsigen Raukopf (Cortinarius orellanus) und Pfifferling (Cantharellus cibarius agg.) unterscheiden können.   (2)",
+    "answer": "Hymenium: Raukopf: Lamellenpilz // Pfifferling: Leistenpilz, \nFarbe: Raukopf: Orangefuchsig // Pfifferling: eigelbfarbig.\nSporenpulverfarbe: Raukopf: rostbraun // Pfifferling: weiß"
+  },
+  {
+    "id": 108,
+    "question": "108 Nennen Sie zwei Merkmale, an denen Sie Knollenblätterpilze (Amanita) von Egerlingen (Agaricus) unterscheiden können.   (2)",
+    "answer": "Lamellen: Knollenblätterpilz: weiß // Egerling: rosa-später dunkelbraune\nSorenpulverfarbe: K: Weißsporer // E: Dunkelbraunsporer.\nKnolle: K: vorhanden // E: keine"
+  },
+  {
+    "id": 109,
+    "question": "109 Nennen Sie zwei Merkmale, an denen Sie Falsche Pfifferlinge (Hygrophoropsis aurantiaca) von Echten Pfifferlingen (Cantharellus cibarius agg.) unterscheiden können.   (2)",
+    "answer": "Hymenium: falsch: verschiebbare Lamellen // echt: Leistenpilz,\nFleisch: falsch: flexibel // echt: spröde, \nGeschmack: falsch: geschmacklos // echt Pfeffergeschmack.\nFarbe:falsch:gelborange//echt:dottergelb"
+  },
+  {
+    "id": 110,
+    "question": "110 Nennen Sie zwei Merkmale, an denen Sie den Pantherpilz (Amanita pantherina) und Perlpilz (Amanita rubescens) unterscheiden können.   (2)",
+    "answer": "Knolle: Pantherpilz mit wulstartigem Abschluss, Bergsteigersöckchen // Perlpilz: Stielbasis rübenförmig, \nRing: Pantherpilz oberseits ungerieft //  Perlpilz: gerieft \nFarbe: Pantherpilz: keine rosa Verfärbung // Perlpilz: Rosaverfärbung speziell an der Stielbasis."
+  },
+  {
+    "id": 111,
+    "question": "111 Nennen Sie zwei Merkmale, an denen Sie Porphyr-Wulstling (Amanita porphyria) und Grauen Wulstling (Amanita excelsa) unterscheiden können.   (2)",
+    "answer": "Knolle: Porphyr: gerandete  // Grauer: rübenförmige\nStiel: Porphyr: genattert, faserig  // Grauer:  ungenattert, weiß,"
+  },
+  {
+    "id": 112,
+    "question": "112 Nennen Sie zwei Merkmale, an denen Sie Parasol (Macrolepiota procera agg.)und Safranschirmling (Chlorophyllum olivieri) unterscheiden können.",
+    "answer": "Farbe: Parasol: Nichtfärbend // Safranschirmling: safranrötlich verfärbend\nGeruch: Parasol: geruchlos-nussig (oder Tintenkiller?) // Safranschirmling: stinkend nach saurem Kompott, \nStiel: Parasol: genattert // Safranschirmling: ungenattert"
+  },
+  {
+    "id": 113,
+    "question": "113 Auf welchen Substraten wächst der Gifthäubling (Galerina marginata agg.) und wie ist er vom Stockschwämmchen (Kuehneromyces mutabilis) zu unterscheiden?   (5)",
+    "answer": "G. marginata wächst überwiegend auf Nadelholz aber auch auf Laubholz,der Hut ist fast identisch, nur am Stiel ist eine sichere Unterscheidung möglich, G. marginata weist einen weißlich-faserigen Stiel auf, einen mehlartigen Geruch, während K.mutabilis stärker beringt ist und unter dem Ring braune Schuppen aufweist."
+  },
+  {
+    "id": 114,
+    "question": "114 Nennen Sie zwei Merkmale, an denen Sie Kartoffelbovist (Scleroderma citrinum) und Flaschenstäubling (Lycoperdon perlatum) unterscheiden können.  (2)",
+    "answer": "Geruch: K: nach Metall // FS: geruchlos, \nInnenmasse:  K: auch jung nicht reinweiß,  // FS:lange reinweiß\nSteriler Fußteil: K: ohne // FS: mit"
+  },
+  {
+    "id": 115,
+    "question": "115 Nennen Sie zwei Merkmale, an denen Sie Stinkmorchel (Phallus impudicus) und Hundsrute (Mutinus caninus) unterscheiden können.   (2)",
+    "answer": "Stinkmorchel: 10-20 cm aufrecht // Hundsrute: 5 -10 cm häufig verbogen\nStiel: Stinkmorchel: weißlich // Hundsrute rötlich \nFarbe Stielspitze unter Gleba: Stinkmorchel: weiß // Hundsrute: rötlich"
+  },
+  {
+    "id": 116,
+    "question": "116 Nennen Sie zwei Merkmale, an denen Sie Strubbelkopfröhrling (Strobilomyces strobilaceus) und Düsteren Röhrling (Porphyrellus porphyrosporus) unterscheiden können.   (2)",
+    "answer": "Hut: Strubbelkopf: Hellgrauer Hut, mit dunkleren abstehenden Schuppen bedeckt // Düsteren Röhrling.: glatt, düster olivbraun,\nPoren: Strubbelkopf: schmutzig grau // Düsteren Röhrling.: rötlich graubraun,\nVelum: Strubbelkopf: bei  junge Fruchtkörper vorhanden // Düsteren Röhrling.: kein Velum"
+  },
+  {
+    "id": 117,
+    "question": "117 Nennen Sie zwei Merkmale, an denen Sie Butterpilz (Suillus luteus) und Goldröhrling (Suillus grevillei) unterscheiden können.   (2)",
+    "answer": "Hut: Butterpilz: schokoladenbraun // Goldröhrling: Hut gelb bis orange, \nRing: Butterpilz: violettweißer // Goldröhrling: gelber, \nSymbiose: Butterpilz mit Kiefern // Goldröhrling mit Lärchen."
+  },
+  {
+    "id": 118,
+    "question": "118 Nennen Sie zwei Merkmale, an denen Sie Kuhröhrling (Suillus bovinus) und Sandröhrling (Suillus variegatus) unterscheiden können.   (2)",
+    "answer": "Poren: Kuhröhrling: Rhombische, weite Poren // Sandröhrling: sehr kleine, dunklere Poren,\nFleisch: Kuhröhrling: nicht blauendes Fleisch (wird pink mit heißem Wasser) // Sandröhrling: schwach blauend in der Stielspitze."
+  },
+  {
+    "id": 119,
+    "question": "119 Nennen Sie zwei Merkmale, an denen Sie Ziegenlippe (Xerocomus subtomentosus) und Rotfußröhrling (Xerocomellus chrysenteron agg.) unterscheiden können.   (2)",
+    "answer": "Röhrenschicht: Ziegenlippe: Leuchtend gelb // Rotfußröhrling: stumpf gelb, \nHut: Ziegenlippe: glatt // Rotfußröhrling: feldrig einreißend, \nFraßstellen: // Rotfußröhrling: rot umrandet"
+  },
+  {
+    "id": 120,
+    "question": "120 Nennen Sie zwei Merkmale, an denen Sie Satanspilz (Rubroboletus satanas) und Schönfußröhrling (Caloboletus calopus) unterscheiden können.   (2)",
+    "answer": "Geruch: Satanspilz: stinkend,aasartig // Schönfußröhrling: unauffällig\nRöhrenschicht: Satanspilz rot // Schönfußröhrling: gelb, \nGeschmack: // Schönfußröhrling: bitter."
+  },
+  {
+    "id": 121,
+    "question": "121 Nennen Sie zwei Merkmale, an denen Sie Kahlen Krempling (Paxillus involutus agg.) und Samtfußkrempling (Tapinella atrotomentosa) unterscheiden können.   (2)",
+    "answer": "Stiel: Kahler Krempling: zentral, nicht samtig // Samtfußkremling:oft seitlich, samtig, \nHut: Kahler Krempling: rundlich // Samtfußkremling: muschel oder nierenförmig,"
+  },
+  {
+    "id": 122,
+    "question": "122 Nennen Sie zwei Merkmale, an denen Sie Nebelkappe (Clitocybe nebularis) und Keulenfußtrichterling (Ampulloclitocybe clavipes) unterscheiden können.   (2)",
+    "answer": "Stiel: Nebelkappe: kompakt // Keulenfußtrichterling: an der Basis schwammig aufgeblasen, \nLamellen: Nebelkappe: verschiebbar // Keulenfußtrichterling: angewachsen."
+  },
+  {
+    "id": 123,
+    "question": "123 Nennen Sie zwei Merkmale, an denen Sie den Dunklen Hallimasch (Armillaria ostoyae) und Sparrigen Schüppling (Pholiota squarrosa) unterscheiden können.   (2)",
+    "answer": "Sporenpulver: Dunklen Hallimasch: weiß // Sparrigen Schüppling: braun, \nHut: Dunklen Hallimasch: rotbraun, abwischbare braune Schüppchen//  Sparrigen Schüppling:  sparrige, abstehende nicht abwischbare Schuppen"
+  },
+  {
+    "id": 124,
+    "question": "124 Nennen Sie zwei Merkmale, an denen Sie Maipilz (Calocybe gambosa) und Ziegelroten Risspilz (Inosperma erubescens) unterscheiden können.   (2)",
+    "answer": "Geruch: Maipilz: Mehl // Ziegelroten Risspilz: jung obstartig, alt spermatisch, \nHut: Maipilz: kompakt,konvex // Ziegelroten Risspilz: dünner,kegelig, später radial aufreißend, \nFleisch: Maipilz; nicht rötend // Ziegelroten Risspilz: rötend besonders an verletzten Stellen.\nSporenfarbe: Maipilz:weiß // Ziegelroter Risspilz: erdbraun"
+  },
+  {
+    "id": 125,
+    "question": "125 Nennen Sie zwei Merkmale, an denen Sie Violetten Rötelritterling (Lepista nuda) und Lila Dickfuß (Cortinarius traganus) unterscheiden können.   (2)",
+    "answer": "Lamellen: VR: verschiebbar // LD: nicht verschiebbar, \nFuß: VR: normal// LD: verdickt, \nSporenfarbe: VR: fleischrosa// LD: rostbraun."
+  },
+  {
+    "id": 126,
+    "question": "126 Nennen Sie zwei Merkmale, an denen Sie Laubfreundtrichterling (Clitocybe phyllophila) und Mehlräsling (Clitopilus prunulus agg.) unterscheiden können.   (2)",
+    "answer": "Sporenfarbe: LFT: weiß // MR: rosa (Lamellen weisen später rosa Farbton auf) \nGeruch: LFT: süßsäuerlich // MR: mehlartig,"
+  },
+  {
+    "id": 127,
+    "question": "127 Nennen Sie zwei Merkmale, an denen Sie Frühlingsgiftrötling (Entoloma vernum) und Schildrötling (Entoloma clypeatum agg.) unterscheiden können.   (2)",
+    "answer": "Gestalt: FGR: viel kleiner, nicht so kompakt, rüblingsartig // SR: größer, kompakt,\nGeruch: FGR: neutral nicht mehlig // SR: mehlartig, gurkenartig\nFarbe: FGR: kastanienbraun // SR: graubräunlich."
+  },
+  {
+    "id": 128,
+    "question": "128 Nennen Sie zwei Merkmale, an denen Sie Anisegerling (Agaricus arvensis agg.) und Karbolegerling (Agaricus xanthodermus) unterscheiden können.   (2)",
+    "answer": "Geruch: AE: anisartig// KE: karbolartig, \nVerfärbung: AE: gilbt nur außen, nicht im Fleisch// KE: Druckstellen chromgelb verfärbend,speziell in der Stielbasis.\nBeim Karbolegerling verschwindet Verfärbung wieder beim Anisegerling nicht"
+  },
+  {
+    "id": 129,
+    "question": "129 Nennen Sie zwei Merkmale, an denen Sie Schopftintling (Coprinus comatus agg.) und Faltentintling (Coprinopsis atramentaria) unterscheiden können.   (2)",
+    "answer": "Hutform: Schopftintling: walzenförmig, abstehende Schuppen // Faltentintling: kegelig, glockenförmig,gefaltet  \nLamelleverfärbung: ST: weiß>rosa>schwarz FT: weiß>schwarz."
+  },
+  {
+    "id": 130,
+    "question": "130 Nennen Sie zwei Merkmale, an denen Sie Grünblättrigen Schwefelkopf (Hypholoma fasciculare) und Graublättrigen Schwefelkopf (Hypholoma capnoides) unterscheiden können.   (2)",
+    "answer": "Lamellenfarbe: Grünblättrig: gräulich mit grüngelben Farbtönen// Graublättrig: grau, ohne Grüntöne, \nGeschmack: Grünblättrig: bitter// Graublättrig: mild."
+  },
+  {
+    "id": 131,
+    "question": "131 Nennen Sie zwei Merkmale, an denen Sie Ockertäubling (Russula ochroleuca)und Gallentäubling (Russula fellea) unterscheiden können.   (2)",
+    "answer": "Beim Ockertäubling besteht ein deutlicher Farbunterschied zwischen dem ockergelben Hut (ochro) und den weißen Lamellen (leuca),beim Gallentäubling sind die Lamellen ebenfalls ockerfarbig, wodurch der Farbgegensatz verschwindet, \nDer Gallentäubling, der auffallend nach Obst riecht, ist scharf und schmeckt leicht bitter, der Ockertäubling in der Regel jedoch nicht."
+  },
+  {
+    "id": 132,
+    "question": "132 Nennen Sie zwei Merkmale, an denen Sie Speisetäubling (Russula vesca) und Speitäubling (Russula emetica agg.) unterscheiden können.   (2)",
+    "answer": "Beim Speisetäubling ist die Huthaut am Rand zurückgezogen, er schmeckt mild. \nDer Kirschrote Speitäubling ist an der Hutoberfläche kirschrot, während das übrige Fleisch reinweiß ist. Hierdurch entsteht ein starker Kontrast. Der Geschmack ist sehr scharf."
+  },
+  {
+    "id": 133,
+    "question": "133 Nennen Sie zwei Merkmale, an denen Sie Birkenblättling (Lenzites betulina) und Eichenwirrling (Daedalea quercina) unterscheiden können.   (2)",
+    "answer": "Oberfläche: BB: grauweißlich//EW: beigebräunlich, \nFruchtkörper: BB: dünn und flach// EW: ziemlich dick,"
+  },
+  {
+    "id": 134,
+    "question": "134 Nennen Sie zwei Merkmale, an denen Sie Judasohr (Auricularia auricula judae) und Gezonten Ohrlappenpilz (Auricularia mesenterica) unterscheiden können.",
+    "answer": "Konsistenz: JO: gallertig// GO: sehr zäh, \nZonung: JO: fehlt// GO:hell-dunkel."
+  },
+  {
+    "id": 135,
+    "question": "135 Nennen Sie zwei Merkmale, an denen Sie Speisemorchel (Morchella esculenta agg.) und Frühjahrslorchel (Gyromitra esculenta agg.) unterscheiden können.   (2)",
+    "answer": "Hutoberfläche: Morcheln: wabenförmig, beige bis schwarz // Lorcheln: hirnartig, kastanienbraun,\nKammerung: bei Morcheln nicht vorhanden // Lorcheln: sowohl beim Stiel als auch im Hutbereich nachweisbar."
+  },
+  {
+    "id": 136,
+    "question": "136 Nennen Sie zwei Merkmale, an denen Sie Sommertrüffel (Tuber aestivum) und Hirschtrüffel (Elaphomyces granulatus) unterscheiden können.   (2)",
+    "answer": "Innenschicht: ST: schwarz mit weißlichen Adern, marmoriert// HT: bräunlich, später dunkelbraun watteähnlich, nicht marmoriert,\nAußenschicht: ST: schwarz, höckerig// HT: feinwarzige Rinde"
+  },
+  {
+    "id": 137,
+    "question": "137 Nennen Sie zwei Merkmale, an denen Sie Nelkenschwindling (Marasmius oreades) und Waldfreundrübling (Gymnopus dryophilus agg.) unterscheiden können.   (2)",
+    "answer": "Lamellen: NS: dicklich, entfernt stehend// WFR: enger stehend, \nHutrand: NS: gekerbt// WFR: glatt,"
+  },
+  {
+    "id": 138,
+    "question": "138 Nennen Sie zwei Merkmale, an denen Sie den Violetten Rettichhelmling (Mycena pura agg.) und Violetten Lacktrichterling (Laccaria amethystina) unterscheiden können.   (2)",
+    "answer": "Hutform: RH: helmlingsartig // VLT: genabelt, \nGeruch: RH: rettichartig // VLT: fehlt, \nLamellen: RH: bauchig // VLT: dicklich, entfernt stehend."
+  },
+  {
+    "id": 139,
+    "question": "139 Nennen Sie zwei Merkmale, an denen Sie Fichtenreizker (Lactarius deterrimus) und Birkenreizker (Lactarius torminosus) unterscheiden können.   (2)",
+    "answer": "Milch: F: orange, nach 15 Minuten blutrot // BR: unveränderlich weiß, \nHutrand: F: glatt // BR: fransig, wollig"
+  },
+  {
+    "id": 140,
+    "question": "140 Nennen Sie zwei Merkmale, an denen Sie Safranschirmpilz (Chlorophyllum olivieri) und Gartenschirmpilz (Chlorophyllum brunneum) unterscheiden können.   (2)",
+    "answer": "SS: dunkle Hutschuppen auf gleichfarbenen dunklem Hutgrund // GS: dunkle Hutschuppen auf hellerem Grund\nSS: Kräftiger Ring // GS: schmächtiger Ring\nSS: vorwiegend Fichtenwald // GS: Gärten, Kompost, Gewächshaus, Ruderalstellen\n\nHut: Safranschirmling hat weniger Farbkontrast als Gartenschirmling (hat dunkle Schuppen). \nS: konzentrisch angeordnete Schuppen // G: zusammenhängende Schuppen (Rest der Hutschicht), \nGeruch: - // unangenehm, \nVorkommen: S: überwiegend im Wald. // G.: im Garten,Gewächshaus"
+  },
+  {
+    "id": 141,
+    "question": "141 Nennen Sie zwei Merkmale, an denen Sie Muschelseitling (Panellus serotinus) und Austernseitling (Pleurotus ostreatus) unterscheiden können.   (2)",
+    "answer": "Hut: MS: olivbräunlich// AS: graubraun, cremebraun, stahlblau, \nStiel: MS: gelb gefärbt// AS: weißliche Lamellen laufen am weißen Stiel herab."
+  },
+  {
+    "id": 142,
+    "question": "142 Nennen Sie zwei Merkmale, an denen Sie Waldegerling (Agaricus silvaticus) und Riesenegerling (Agaricus augustus) unterscheiden können.   (2)",
+    "answer": "Verfärbung: WE: blutrot verfärbend (Flavescentes) // RE: schwach gilbend, \nGröße: WE: 4-8cm // RE: 8-20 cm\nStiel: WE: weißlich vom Rand rötend // RE: bräunlich, unterhalb des Rings braunschuppig.\nGeruch: WE: neutral angenehm // RE: Anis- bis bittermandelartig"
+  },
+  {
+    "id": 143,
+    "question": "143 Nennen Sie zwei Merkmale, an denen Sie Stadtegerling (Agaricus bitorquis) und Salzwiesenegerling (Agaricus bernardii) unterscheiden können.   (2)",
+    "answer": "Ring: SE: Doppelring, oberer Ring oben gerieft nach oben stehend, unterer Ring oft nur angedeutet SWE: einfach vorhanden, \nGeruch: SE: mandelartig // SWE: urinartig/fischartig stinkend"
+  },
+  {
+    "id": 144,
+    "question": "144 Nennen Sie zwei Merkmale, an denen Sie Dünnschaligen Kartoffelbovist (Scleroderma verrucosum) und Eierbovist (Bovista nigrescens) unterscheiden können.   (2)",
+    "answer": "Innere: DKB: frühzeitig violett gefärbt// EB: weiß, später bräunlich mit leichtem Lilastich\nÄußere: DKB:grobgefeldert// EB: weiß, später schwärzend, Haut blättert wie Eierschale ab,"
+  },
+  {
+    "id": 145,
+    "question": "145 Nennen Sie zwei Merkmale, an denen Sie Zunderschwamm (Fomes fomentarius) und Rotrandigen Baumschwamm (Fomitopsis pinicola) unterscheiden können.   (2)",
+    "answer": "Pilzoberseite: Zunderschwamm: grau// Rotrandigen Baumschwamm: schwarz, rot, gelblich (Zuwachszone) (Deutschlandpilz),\nGuttation: Zunderschwamm: - // Rotrandigen Baumschwamm: bei jungen Fruchtkörpern \nZunderschwamm hat eine Randzone mit mehreren Wulsten.\nbei Rotrandigem Baumschwamm schmelzbare und KOH-lösliche kruste"
+  },
+  {
+    "id": 146,
+    "question": "146 Nennen Sie zwei Merkmale, an denen Sie Flaschenstäubling (Lycoperdon perlatum) und Birnenstäubling (Apioperdon pyriforme) unterscheiden können.   (2)",
+    "answer": "Vorkommen: F: Laub- und Nadelstreu // B: wächst immer auf Holz, \nFruchtkörper: F: mit abwischbaren Stacheln - umgekehrt birnenförmig // B: glatte Außenseite, mit dunkelbraunen kleinen kleiigen Warzen, kopfig gestielt."
+  },
+  {
+    "id": 147,
+    "question": "147 Nennen Sie zwei Merkmale, an denen Sie eine Koralle (Ramaria sp.) und Klebrigen Hörnling (Calocera viscosa) unterscheiden können.   (2)",
+    "answer": "Konsistenz: Koralle: brüchig, gedämpfte Farben // Hörnling: gummiartig, orangegelb, \nVorkommen: Koralle: Streuschicht // Hörnling: auf Holz."
+  },
+  {
+    "id": 148,
+    "question": "148 Nennen Sie zwei Merkmale, an denen Sie Hohlfußröhrling (Boletinus cavipes) und Goldröhrling (Suillus grevillei) unterscheiden können.   (2)",
+    "answer": "Hut: Hohlfußröhrling: Schuppig filzig, rostbraun // Goldröhrling: schmierig hellgelb\nStiel: Hohlfußröhrling: hohl. // Goldröhrling: nicht hohl, schmierig"
+  },
+  {
+    "id": 149,
+    "question": "149 Nennen Sie zwei Merkmale, an denen Sie Satanspilz (Rubroboletus satanas) und Flockenstieligen Hexenröhrling (Neoboletus erythropus agg.) unterscheiden können.   (2)",
+    "answer": "Stiel: S: braunrotes Netz // H: flockig, \nGeruch: S: aasartig // H: angenehm pilzartig, \nHut: S: weißlich bis chremegrau // H: dunkelbraun, feinfilzig."
+  },
+  {
+    "id": 150,
+    "question": "150 Nennen Sie zwei Merkmale, an denen Sie Satanspilz (Rubroboletus satanas) und Wurzelnden Bitterröhrling (Caloboletus radicans) unterscheiden können.   (2)",
+    "answer": "Röhren, Poren, Stiel: S: rot // WB: gelb, \nStielbasis: S: rundlich // WB: wurzelnd, \nS: unangenehm riechend // WB: bitter schmeckend."
+  },
+  {
+    "id": 151,
+    "question": "151 Nennen Sie zwei Merkmale, an denen Sie Flockenstieligen Hexenröhrling (Neoboletus erythropus agg.) und Netzstieligen Hexenröhrling (Suillellus luridus) unterscheiden können.   (2)",
+    "answer": "Stiel: F: rot gepustelt// N: grobes, rotes Netz, \nLinie zwischen Röhren und Hutfleisch: F:  keine rote Linie// N: rote Linie."
+  },
+  {
+    "id": 152,
+    "question": "152 Nennen Sie zwei Merkmale, an denen Sie Gemeinen Birkenpilz (Leccinum scabrum agg.) und Gallenröhrling (Tylopilus felleus) unterscheiden können.   (2)",
+    "answer": "Röhren und Poren: B. schmutziggrau // G: erst weiß, dann fleischrosa, \nStiel: B: schwärzliche Schuppen // G: braunes Netz."
+  },
+  {
+    "id": 153,
+    "question": "153 Nennen Sie zwei Merkmale, an denen Sie Weißen Rasling (Leucocybe connata) und Büschelrasling (Lyophyllum decastes) unterscheiden können.   (2)",
+    "answer": "Hut: WR: weiß, glatt, etwas firnisartig // BR: dunkelbraun, glatt, etwas knorpelig, \nGeruch: WR: nach Lärchensporn // BR: Neutral bis etwas mehlartig\nEisensulfat: WR: violette Verfärbung // BR: keine Verfärbung."
+  },
+  {
+    "id": 154,
+    "question": "154 Nennen Sie zwei Merkmale, an denen Sie den Maipilz (Calocybe gambosa) und den Schlehenrötling (Entoloma sepium agg.) unterscheiden können.   (2)",
+    "answer": "Sporenpulverfarbe: MP: weiß // SR: rosa\nBei Verletzungen: MP:  keine Verfärbung bei Verletzung // SR: orange/rotbraun verfärbend"
+  },
+  {
+    "id": 155,
+    "question": "155 Wozu dient die Fruchtschicht der Pilze? Beschreiben Sie drei verschiedene Typen der Fruchtschicht mit jeweils einer Pilzart als Beispiel.   (7)",
+    "answer": "Dort erfolgt durch einen geschlechtlichen Vorgang die Sporenentwicklung. \nRöhren-, Lamellen-, Stachel-, Leisten-, \nEchter Steinpilz, Frauentäubling, Semmelstoppelpilz, Pfifferling"
+  },
+  {
+    "id": 156,
+    "question": "156 Nennen Sie drei Pilzarten mit eindeutig ungestielten Fruchtkörpern.   (3)",
+    "answer": "Zunderschwamm..., Schichtpilze…, Hausschwamm…, Boviste."
+  },
+  {
+    "id": 157,
+    "question": "157 Nennen Sie drei Pilzarten mit seitlich/dezentral gestielten Fruchtkörpern.   (3)",
+    "answer": "Alle Pleurotus Arten, z. B. Austernseitling, Berindeter Seitling aber auch Samtfusskrempling, Ohrlöffelstacheling"
+  },
+  {
+    "id": 158,
+    "question": "158 Nennen Sie drei Pilzarten mit schleimiger Huthaut.  (3)",
+    "answer": "Kuhmaul, Buchenschleimrübling, Goldröhrling, Butterpilz, Frostschneckling, Honigschleimfuß"
+  },
+  {
+    "id": 159,
+    "question": "159 Nennen Sie drei Pilzarten mit schuppiger Huthaut.  (3)",
+    "answer": "Fast alle Schüpplinge: Sparriger Schüppling, Pappelschüppling... \nHabichtspilz, Strubbelkopfröhrling, Tiger-Ritterling, Bärtiger Ritterling..."
+  },
+  {
+    "id": 160,
+    "question": "160 Nennen Sie drei Pilzarten mit flockigem Stiel.   (3)",
+    "answer": "Flockenstieliger Hexenröhrling, Birkenpilz, Espenrotkappe"
+  },
+  {
+    "id": 161,
+    "question": "161 Nennen Sie drei Pilzarten mit genattertem Stiel.   (3)",
+    "answer": "Grüner Knollenblätterpilz, Parasolpilz, Spitzgebuckelter Raukopf,\nNatternstieliger Schneckling, Natternstieligen Schleimfuß"
+  },
+  {
+    "id": 162,
+    "question": "162 Nennen Sie drei Pilzarten mit Velumresten auf der Huthaut.   (3)",
+    "answer": "Fliegenpilz, Gelber Knollenblätterpilz, Pantherpilz."
+  },
+  {
+    "id": 163,
+    "question": "163 Nennen Sie drei Pilzarten mit Velumresten am Stiel.   (3)",
+    "answer": "Reste vom Gesamtvelum beim Scheidenstreifling (Stielbasis) // bei Schleierlingen als farbige Gürtel natterstieligem Schleimfuß (Stiel) // Reste vom Teilvelum beim Champignon (als Ring)"
+  },
+  {
+    "id": 164,
+    "question": "164 Beschreiben Sie fünf verschiedene Fruchtkörperformen.  (5)",
+    "answer": "gasteroid (Bauch), resupinat (Schichtpilze), becherförmig, clavaroid (Keule), pileat (Pileus=Hut)"
+  },
+  {
+    "id": 165,
+    "question": "165 Beschreiben Sie drei verschiedene Fruchtkörperformen mit je einer Pilzart als Beispiel.   (3)",
+    "answer": "gasteroid - Kartoffelbovist,\nbecherförmig - Grünspanbecherling,\nclavaroid - Herkuleskeule"
+  },
+  {
+    "id": 166,
+    "question": "166 Beschreiben Sie drei Varianten des Lamellenansatzes am Stiel von Blätterpilzen mit je einer Pilzart als Beispiel dazu.   (6)",
+    "answer": "Freiblättrig: Wiesenchampignon, \nausgebuchtet angewachsen: Schwefelritterling, \nherablaufend angewachsen: Großer Gelbfuss."
+  },
+  {
+    "id": 167,
+    "question": "167 Wie lautet der Fachbegriff für Fruchtschicht?   (1)",
+    "answer": "Hymenium."
+  },
+  {
+    "id": 168,
+    "question": "168 Nennen Sie fünf wichtige Bestimmungskriterien für die Artbestimmung von Pilzen.   (5)",
+    "answer": "Lamellen/Röhren/.. - Form, Hutform, Stielform, Velum/Teilvelum vorhanden, Geruch, Sporenpulverfarbe"
+  },
+  {
+    "id": 169,
+    "question": "169 Nennen Sie zwei wichtige bestimmungsrelevante Merkmale der Gattung Schleierlinge (Cortinarius) und eine Beispielart.   (3)",
+    "answer": "1. Haarschleier (Cortina)\n2. Sporen: rostbraun-zimtfarbig,\nSchleiereule."
+  },
+  {
+    "id": 170,
+    "question": "170 Nennen Sie drei wichtige Merkmale für die Bestimmung der Gattung Knollenblätterpilzverwandte (Amanita).   (3)",
+    "answer": "1. Velum universale- unten mit Knolle und Velumresten,\n2. Velum partiale führt zur Ringbildung, (nicht bei Scheidenstreiflingen), \n3. Stiel vom Hutfleisch leicht trennbar, Freiblättler \n4. Weißsporer \n5. Mykorrhizapilze."
+  },
+  {
+    "id": 171,
+    "question": "171 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Champignon (Agaricus).   (3)",
+    "answer": "Hh. komplett abziehbar; Lamellenfarbe (rosa bis dunkelbraun); Spp. dunkelbraun; L. frei\n\n1. Freiblättler, Hut und Stiel leicht trennbar, \n2. Lamellen färben sich von rosa nach schwarzbraun, Sporenpulver schwarzbraun. \n3. Kein Velum universale, Velum partiale fast immer als Ring später sichtbar."
+  },
+  {
+    "id": 172,
+    "question": "172 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Saftlinge (Hygrocybe s.l.).   (3)",
+    "answer": "1. Hut intensiv gefärbt, glasig wirkend, häufig kegelig oder mit spitzen Buckel,\n2. Wachsartig, entfernt stehende Lamellen, angewachsen Weißsporer, \n3. Dünnes, zerbrechliches Fleisch, \n4. Ringloser Stiel, \n5. Vorkommen auf Magerwiesen."
+  },
+  {
+    "id": 173,
+    "question": "173 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Trichterlinge (Clitocybe s.l.).   (3)",
+    "answer": "1. Hut mehr oder weniger trichterförmig, \n2. Lamellen mehr oder weniger weit herablaufend, angewachsen, \n3. inamyloider Weißsporer, \n4. Ringloser Stiel,"
+  },
+  {
+    "id": 174,
+    "question": "174 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Ritterlinge (Tricholoma).   (3)",
+    "answer": "1. Kompakte Gestalt mit mehr oder weniger dickem Hutfleisch, zuerst konvex später eben\n2. Lamellen sind ausgebuchtet angewachsen, (Burggraben), inamyloides, weißes Sporenpulver, \n3. Stiel fast immer unberingt, \n4. Mykorrhizapilz,"
+  },
+  {
+    "id": 175,
+    "question": "175 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Helmlinge (Mycena).   (3)",
+    "answer": "1. Kleine Pilze mit helmartigem Hut, (Mycena=Helm), die Lamellen können so durchscheinenscheinen, so dass der Hut gerieft wirkt, \n2. schmale, bauchige, angewachsene Lamellen, \n3. inamyloider Weißsporer, \n4. der Stiel ist zumeist hohl und und wie das Fleisch zerbrechlich, \n5. Saprophyten,"
+  },
+  {
+    "id": 176,
+    "question": "176 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Rötlinge (Entoloma).   (3)",
+    "answer": "1. Der Stiel ist im Gegensatz zu den Dachpilzähnlichen (Pluteus) fest mit dem Hut verwachsen, das gilt ebenfalls für die Lamellen.\n2. Rötliches/rosa Sporenpulver, eckige Sporenform, \n3. zentral gestielt, ohne Ring,"
+  },
+  {
+    "id": 177,
+    "question": "177 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Schüpplinge (Pholiota).   (3)",
+    "answer": "1. Hutoberfläche mehr oder weniger schuppig, anfangs konvex später ebener, \n2. Lamellen sind ausgebuchtet angewachsen, fast immer mit leichtem Gelbton. Braunsporer.  \n3. Der Stiel ist zentral und mehr oder weniger beringt und unterhalb des Ringes schuppig, \n4. Vorkommen: Holzzersetzer, z. T. aber auch als Parasit lebende Bäume befallend."
+  },
+  {
+    "id": 178,
+    "question": "178 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Risspilze (Inocybe s.l.).   (3)",
+    "answer": "1. Der Hut ist radialfaserig, häufig gebuckelt,\n2. erdbraune Sporen, \n3. Geruch nach Sperma, Erde oder unreifem Obst, \n4. Mykorrhizapilz."
+  },
+  {
+    "id": 179,
+    "question": "179 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Milchlinge (Lactarius/Lactifluus).   (3)",
+    "answer": "1. Gehört zur Familie der Sprödblättler (Russulaceae) und besitzt daher sprödes Fleisch, \n2. Milchsaft führende Hyphen.\n3. Ringloser, zylindrischer Stiel,"
+  },
+  {
+    "id": 180,
+    "question": "180 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Täublinge (Russula).   (3)",
+    "answer": "Spp. weiß bis dottergelb; keine Milch\n1. Brüchiges Fleisch und brüchige Lamellen (nur beim Frauentäubling und beim Grasgrünen Täubling nicht), \n2. Huthaut: häufig lebhaft gefärbt, bruchstückartig abziehbar,\n3. Ringloser, zylindrischer Stiel, \n4. Mykorrhizapilz,"
+  },
+  {
+    "id": 181,
+    "question": "181 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Pfifferlinge und deren Verwandte (Cantharellus, Craterellus).   (3)",
+    "answer": "1. Der Hut ist wellig verbogen, mehr oder weniger trichterförmig, \n2. dicklich, entfernt stehende, leistenähnliche Adern, mehr oder weniger runzelig und gegabelt, leistenförmig am Stiel herablaufend, und nicht ablösbar wie beim Falschen Pfifferling und nicht so biegsam, \n3. mehr oder weniger zentral gestielt, ohne Ring, \n4. Mykorrhiza mit Laub- und Nadelbäumen,"
+  },
+  {
+    "id": 182,
+    "question": "182 Nennen Sie fünf wichtige bestimmungsrelevante Merkmale für die Gattung der Dickröhrlinge (Boletus s.l.).   (5)",
+    "answer": "1. Kompakte Pilze mit dickbäuchigem Stiel,\n2. Hut: halbkugelig und dickfleischig\n3. Hutobefläche: trocken, glatt bis feinfilzig,\n4. Sporenpulverfarbe: olivbraun, \n5. Stiel: unberingt mit feinem bis grobem Netz\n6. Mykorrhizapilze."
+  },
+  {
+    "id": 183,
+    "question": "183 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Rauhfußröhrlinge (Leccinum).   (3)",
+    "answer": "1. Rauschuppiger, flockiger Stiel,\n2. Hutoberfläche: samtig, filzig, überwiegend bräunlich oder rot, \n3. Röhren ausgebuchtet angewachsen, Sporen gelb bis olivbraun,\n4. Röhrenschicht leicht ablösbar,\n5. Mykorrhizapilze."
+  },
+  {
+    "id": 184,
+    "question": "184 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Echte Trüffel (Tuber).   (3)",
+    "answer": "1. Hypogäische Knolle, Rinde glatt bis grobwarzig-höckerig, im Inneren marmoriert, \n2. Mykorrhizapilz kalkreicher Laubböden, \n3. Geruch mit Reife zunehmend.\n4. Ascomycet"
+  },
+  {
+    "id": 185,
+    "question": "185 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Morcheln (Morchella).   (3)",
+    "answer": "1. Wabenförmige Hutoberfläche mit Hymenium, chremefarbenes Sporenpulver, \n2. ungekammerter, hohler Stiel, im Gegensatz zu Lorcheln, \n3. brüchiges Fleisch, \n4. Frühjahrspilz, ab April in kalkreichen Auwäldern, Saprophyt,"
+  },
+  {
+    "id": 186,
+    "question": "186 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Stäublinge (Lycoperdon s.l.).   (3)",
+    "answer": "1. Mehr oder weniger umgekehrt birnenförmige Struktur, \n2. Bauchpilz, der im Inneren die ursprünglich weißen, später olivgrünen Sporen bildet.\n3. Die Außenhaut ist zunächst weiß dann später olivbraun, \n4. Im Gegensatz zu den Bovisten existiert immer eine sterile Fussbasis, \n5. Mehr oder weniger abwischbare, stachelige Warzen auf der Peridie."
+  },
+  {
+    "id": 187,
+    "question": "187 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung der Trameten (Trametes).   (3)",
+    "answer": "1. Im Gegensatz zu den Schichtpilzen (Stereum) lassen sich im Querschnitt keine klaren Abgrenzungen (Schichten) erkennen. Hymenium und Trama zusammengewachsen, lassen sich nicht trennen.\n2. Weißes, zähes Fleisch, flach, konsolenförmig, mit unterschiedlich tief eingesenkten Röhren. \n3. Saprophyt, Weißfäule auslösend\n4. Oberfläche meist zoniert"
+  },
+  {
+    "id": 188,
+    "question": "188 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Korallen (Ramaria, Clavulina).   (3)",
+    "answer": "1. Korallenförmige Struktur mit dichotomer Gabelung, \n2. überwiegend gelbrötliche Färbung/ Sporenfarbe gelbocker, \n3. zerbrechlicher Folgezersetzer"
+  },
+  {
+    "id": 189,
+    "question": "189 Nennen Sie drei wichtige bestimmungsrelevante Merkmale für die Gattung Bodenporlinge (Albatrellus).   (3)",
+    "answer": "1. Der Hut ist unregelmäßig verbogen,\n2. Fleisch dick, sehr trocken, brüchig\n3. mit schwer ablösbarer Röhrenschicht, die am kurzen Stiel herabläuft, \n4. Sporen weiß, inamyloid,"
+  },
+  {
+    "id": 190,
+    "question": "190 Nennen Sie drei Merkmale, in denen sich die Hüte des Grünen Speisetäublings (Russula heterophylla) und des Grünen Knollenblätterpilzes (Amanita phalloides) voneinander unterscheiden.   (3)",
+    "answer": "Huthaut: ST: lässt sich bruchstückartig abziehen // KBP: tortenstückartig abziehen, \nKonsistenz des Fleisches: ST: spröde // KBP: faserig, \nHut: ST: glatt // KBP: eingewachsen, radialfaserig."
+  },
+  {
+    "id": 191,
+    "question": "191 Nennen Sie je einen Speise- und einen Giftpilz, die einen Mehlgeruch aufweisen.   (2)",
+    "answer": "Speisepilze: Mairitterling, Mehlräsling, \nGiftpilz: Riesenrötling, Tigerritterling"
+  },
+  {
+    "id": 192,
+    "question": "192 Nennen Sie je einen Speise- und einen Giftpilz, die einen Anisgeruch aufweisen.   (2)",
+    "answer": "Speisepilz: Anischampignon\nGiftpilz: Weißer Anistrichterling"
+  },
+  {
+    "id": 193,
+    "question": "193 In welchem wesentlichen Merkmal unterscheiden sich giftige Rötlinge (Entoloma) vom Mai-Ritterling (Calocybe gambosa)?   (1)",
+    "answer": "Lamellen: Rötlinge: jung gelblich, später lachsrosa – wie die Sporen// Mairitterling: weiß- wie die Sporen, (Mehlgeruch kommt bei beiden vor.)"
+  },
+  {
+    "id": 194,
+    "question": "194 Worin unterscheiden sich weiße Formen des Grünen Knollenblätterpilzes (Amanita phalloides) von weißen Formen des Gelben Knollenblätterpilzes (Amanita citrina)?   (3)",
+    "answer": "Knolle: Grün: rund mit abstehender Volva// Gelb: gerandete Knolle\nGeruch: Grün: jung honigartig,alt nach Raubtierkäfig// Gelb: Kartoffelkeller \nVelumreste:Grün:  am Hut kaum vorhanden// Gelb: deutliche Hüllreste,"
+  },
+  {
+    "id": 195,
+    "question": "195 Nennen Sie jeweils ein wesentliches Merkmal in dem sich Pantherpilz (Amanita pantherina), Grauer Wulstling (Amanita excelsa) und Perlpilz (Amanita rubescens) unterscheiden.   (3)",
+    "answer": "Manschette: Panther: oberseits ungerieft // Grau: gerieft // Perl: gerieft, \nFarbe: Panther und Grau: keine Rottöne // Perl: mit Rottönen, besonders an Fraßstellen\nKnolle: Panther: wulstartiger Abschluss, eingepropft // Grau: warzen-rübenförmig // Perl: warzen-rübenförmig"
+  },
+  {
+    "id": 196,
+    "question": "196 Erläutern Sie die Unterschiede zwischen Stockschwämmchen (Kuehneromyces mutabilis) und Gifthäubling (Galerina marginata agg.). Welches makroskopische Merkmal ist das einzige, wirklich verlässliche zur Unterscheidung der beiden Arten?   (3)",
+    "answer": "Vorkommem:S: überwiegend Laubholz// G: überwiegend Nadelholz, \nGeruch: S: pilzig// G: mehlartig,\nEinziges verlässliches makroskopisches Merkmal zur Unterscheidung:\nStiel (unterhalb des Ringes): S: braun schuppig// G: weißlich faserig."
+  },
+  {
+    "id": 197,
+    "question": "197 Nennen Sie zwei wichtige Gattungsmerkmale der Risspilze (Inocybe s.l.).   (2)",
+    "answer": "1. Der Hut ist radialfaserig, häufig gebuckelt, \n2. Erdbraune Sporen, \n3. Geruch nach Sperma, Erde oder unreifem Obst, \n4. Mykorrhizapilz."
+  },
+  {
+    "id": 198,
+    "question": "198 Nennen Sie fünf verschiedene Formen der Fruchtschicht-Ausbildung mit je einer Pilzart als Beispiel dazu.   (10)",
+    "answer": "Röhren: Steinpilz, \nLamellen: Champignon, \nStacheln: Semmelstoppelpilz, \nBauchpilze: Bovist\nPorling : Winterporling, \nLeisten: Echter Pfifferling."
+  },
+  {
+    "id": 199,
+    "question": "199 Nennen Sie zwei Pilzarten mit herablaufenden Lamellen.   (2)",
+    "answer": "Fast alle Trichterlinge - Feinschuppiger Trichterling\nViele Ellerlinge  - Wiesenellerling \nSamtfuß-Krempling\nFalscher Pfifferling"
+  },
+  {
+    "id": 200,
+    "question": "200 Welches Merkmal trennt Täublinge und Milchlinge von allen anderen Blätterpilzen? Wie werden diese deshalb auch genannt?   (2)",
+    "answer": "Sie haben sprödes Fleisch (Kugelzellen), das keine faserigen Bruchstellen bildet: Sprödblättler."
+  },
+  {
+    "id": 201,
+    "question": "201 Nennen Sie je zwei Beispiele für Schlauchpilze und Ständerpilze.   (4)",
+    "answer": "Schlauchpilze: Alle Morcheln, Lorchel, Verpel  und Becherlinge\nStänderpilze: Champignons, Täublinge, Röhrlinge.."
+  },
+  {
+    "id": 202,
+    "question": "202 Was verstehen Sie unter resupinat? Nennen Sie ein Beispiel.   (2)",
+    "answer": "Fruchtkörper liegt flächig ausgebreitet auf dem Wirt oder Substrat, zum Beispiel: Gemeiner Hausschwamm\n(Dunkelbrauner Resupinat-Stacheling)"
+  },
+  {
+    "id": 203,
+    "question": "203 Was ist eine Peridie und bei welchen Pilzen findet man sie?   (2)",
+    "answer": "Unter einer Peridie versteht man die die Wand eines geschlossenen Sporenbehälters z.B. äußere Hülle von Bauchpilzen. Sie kann einfach oder auch mehrschichtig sein. Erdstern, Kartoffelbovist"
+  },
+  {
+    "id": 204,
+    "question": "204 An manchen Fruchtkörpern, z. B. bei Porlingen, finden Sie tropfenförmige Sekretausscheidungen. Wie bezeichnet man den Vorgang, bei dem diese entstehen? Nennen Sie eine Pilzart, wo dies beispielsweise auftritt.   (3)",
+    "answer": "Guttation, beim Tränenden Saumpilz, Rotrandiger Baumschwamm, scharfer Korkstacheling"
+  },
+  {
+    "id": 205,
+    "question": "205 Nennen Sie drei verschiedene Möglichkeiten, wie Hutoberflächen von Pilzen beschaffen sein können und dazu jeweils ein Pilzbeispiel.   (6)",
+    "answer": "Schleimige Hutoberfläche: Goldröhrling \nSchuppige Hutoberfläche: Sparriger Schüppling \nHut mit abwaschbaren Velumresten: Gelber-Knollenblätterpilz \nFeinfilzig: flockenstieleiger Hexenröhrling"
+  },
+  {
+    "id": 206,
+    "question": "206 Skizzieren Sie 5 Hutformen und benennen Sie diese.   (10)",
+    "answer": "Konvex, glockig, gebuckelt, exzentrisch, trichterförmig\nKugelig, halbkugelig, stumpf gebuckelt, spitz gebuckelt, walzenförmig, trichterförmig"
+  },
+  {
+    "id": 207,
+    "question": "207 Nennen Sie drei Pilzarten, bei denen sich Hut und Stiel leicht trennen lassen.   (3)",
+    "answer": "Rehbrauner Dachpilz \nParasolpilz \nScheidenstreifling\nSchopftintling"
+  },
+  {
+    "id": 208,
+    "question": "208 Was sind Peridiolen und bei welchen Pilzarten findet man sie (bitte zwei Beispiele nennen)?   (3)",
+    "answer": "Das sind rundliche oder linsenförmige Körperchen (Sporenbehälter) in denen bei Teuerlingen, zum Beispiel beim Gestreiften Teuerling und Nestlingen (Vollgestopfter Nestling) die Sporen gebildet werden."
+  },
+  {
+    "id": 209,
+    "question": "209 Nennen Sie drei Pilzarten, die aus sogenannten Hexeneiern schlüpfen. In welche Ordnung gehören sie?   (4)",
+    "answer": "Tintenfischpilz, Stinkmorchel, Hundsrute - Blumenpilze (Phallales)"
+  },
+  {
+    "id": 210,
+    "question": "210 Nennen Sie 5 Pilzarten, bei denen sich die Fruchtschicht leicht wegschieben, bzw. ablösen lässt.   (5)",
+    "answer": "Kahler Krempling, Marone, Violetter Rötelritterling, Nebelkappe,  Fuchsigen Rötelritterling, Kuhmaul, Birkenpilz"
+  },
+  {
+    "id": 211,
+    "question": "211 Was sind epigäische Pilzarten?   (1)",
+    "answer": "Oberirdische Pilze. (epi = oben, gäisch = Erde)"
+  },
+  {
+    "id": 212,
+    "question": "212 Wie sieht ein boletoider Pilz aus?   (2)",
+    "answer": "Er hat Röhren wie Boletus.\nHalbkugeliger Hut, Röhren, Dicker bauchiger Stiel"
+  },
+  {
+    "id": 213,
+    "question": "213 Wie sieht ein pleurotoider Pilz aus?   (2)",
+    "answer": "Er hat einen kurzen seitlichen Stiel wie Pleurotus"
+  },
+  {
+    "id": 214,
+    "question": "214 Was versteht man unter Trama?   (1)",
+    "answer": "\"Fleisch\" eines Pilzes, d.h. das sterile Hyphengeflecht."
+  },
+  {
+    "id": 215,
+    "question": "215 Wie sieht ein clavaroider Pilz aus?   (2)",
+    "answer": "Keulenförmig wie Clavaria."
+  },
+  {
+    "id": 216,
+    "question": "216 Was ist eine Basidie?   (1)",
+    "answer": "Eine Zelle mit zwei oder vier 'Ständern' an denen Sporen hängen."
+  },
+  {
+    "id": 217,
+    "question": "217 Was ist ein Hymenium?   (1)",
+    "answer": "Die sporenproduzierende Fruchtschicht."
+  },
+  {
+    "id": 218,
+    "question": "218 Was versteht man unter Anamorphe?   (1)",
+    "answer": "Nebenfruchtform – wobei die Sporenbildung ungeschlechtlich erfolgt. Häufig bei Ascomyceten, seltener bei Basidiomyceten."
+  },
+  {
+    "id": 219,
+    "question": "219 Was versteht man unter Teleomorphe?   (1)",
+    "answer": "Hauptfruchtform. Hierbei erfolgt die Sporenbildung geschlechtlich. Das ist bei den meisten Pilzen der Normalfall."
+  },
+  {
+    "id": 220,
+    "question": "220 Wie sieht ein agaricoider Pilz aus?   (2)",
+    "answer": "H. stets in weißlicher Grundtönung; L. hell/rosa bis alt dunkelbraun; S. zylindrisch; F. weiß\nEr hat Lamellen wie Agaricus."
+  },
+  {
+    "id": 221,
+    "question": "221 Was bezeichnet man als Hexenring? Wodurch entsteht er und bei welcher Pilzart kommt er z.B. vor?   (3)",
+    "answer": "Pilze, die kreisförmig angeordnet sind. Der Kreis entsteht indem das unterirdische Mycel sich von einem Punkt aus radial verbreitet. Nebelkappe"
+  },
+  {
+    "id": 222,
+    "question": "222 Nennen Sie drei Gattungen, die zumindest im Jugendstadium eine Cortina aufweisen.   (3)",
+    "answer": "Schleierlinge, Fälblinge, Risspilze, Häublinge"
+  },
+  {
+    "id": 223,
+    "question": "223 Anhand welcher Merkmale können die heimischen Arten der Gattung Hallimasch (Armillaria) unterschieden werden? Nennen Sie drei.   (3)",
+    "answer": "Hutfarbe: gelb, braun, fleischrosa \nRing: Unterseite gelb, weißlich oder bräunlich gefärbt\nUnterhalb Ring Flocken am Stiel: gelb, braun oder weißlich"
+  },
+  {
+    "id": 224,
+    "question": "224 Beschreiben oder skizzieren Sie die Stielbasis von Perlpilz (Amanita rubescens), Pantherpilz (Amanita pantherina), Gelbem Knollenblätterpilz (Amanita citrina), Fuchsigem Scheidenstreifling (Amanita fulva) und Grünem Knollenblätterpilz (Amanita phalloides)   (5)",
+    "answer": "Perlpilz: Rübenförmig mit warzigen Hüllresten, \nPantherpilz Knolle mit wulstartigem Abschluss, ohne Scheide, eingepfropft, Bersteigersöckchen\nGelber Knollenblätterpilz: rundknollige Stielbasis,gerandet, \nFuchsiger Scheidenstreifling: schmalknollig, mit sackartiger Volva, \nGrüner Knollenblätterpilz: runde Stielbasis mit abstehender Volva, deutliche große Knolle"
+  },
+  {
+    "id": 225,
+    "question": "225 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Grünen Knollenblätterpilz (Amanita phalloides), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: jung eiförmig, völlig mit weißer Volva eingehüllt, dann kegelig bis konvex. Oberfläche trocken seidig glänzend, feucht etwas klebrig, fein radialfasrig blass gelbgrün. Huthaut lässt sich tortenartig abziehen\nStiel: zylindrisch und schwach bis deutlich grünlich genattert, Basis knollenartig verdickt mit lappiger Volva. Ring häutig weißlich hängend und oberseits gerieft.\nLamellen: weiß und frei, +/- fein angewachsen, Sporen weiß\nFleisch: weiß, unter der Huthaut gelblich. Geruch süßlich, alt aasartig.\nÖkologie: Mykorrhizapilz, meist mit Laub-, seltener Nadelbäumen."
+  },
+  {
+    "id": 226,
+    "question": "226 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Pantherpilz (Amanita pantherina), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: halbkugelig bis abgeflacht. Oberfläche feucht etwas schmierig,trocken seidig glänzend, hellbraun bis dunkelbraun mit +/- konzentrisch gleichmässig angeordneten weißen Velumresten. Rand lange heruntergebogen und gerieft.\nStiel: zylindrisch an Basis in gerandete Knolle eingepfropft - Bergsteigersöckchen. Ring hautig hängend oberfläche glatt/ungerieft\nLamellen: weiß, Sporen weiß\nFleisch:  weiß auch unter Huthaut.Geruch schwach rettichartig.\nÖkologie: Mykorrhizapilz mit Laub-  und Nadelbäume."
+  },
+  {
+    "id": 227,
+    "question": "227 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Kahlen Krempling (Paxillus involutus agg.), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: Hutoberfläche glatt, teils etwas höckerig, Farbe Olivbraun, an Druckstellen dunkel fleckend. Rand stark und lange eingerollt.\nStiel: Zylindrisch, ähnlich, wie Hut gefärbt, auf Druck braun fleckend.\nLamellen: schmal ockergelb. Auf Druck braun fleckend. Viele Lamellen gegabelt am Stiel herablaufend, ablösbar und mit Anastomosen.  Sporenfarbe braun\nFleisch: hellgelb bis bräunlich gelb, im Schnitt braun verfärbend. Geruch unbedeutend . \nÖkologie: Mykorrhizapilz in Laub und Nadelwälder, bevorzugt saure Böden."
+  },
+  {
+    "id": 228,
+    "question": "228 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Ohrförmigen Seitling (Pleurocybella porrigens), führen Sie dabei fünf wichtige bestimmungsrelevante Merkmale an.   (5)",
+    "answer": "Hut weiß im Alter gilbend, 2 - 10 cm, auch bereift, muschelförmig, zungenförmig, stiellos angewachsen, gerne dachziegelartig übereinander wachsend. Hutrand oft nach unten eingerollt.\nStiel fehlt. \nLamellen weiß, später gilbend. Sporenfarbe weiß.\nFleisch weiß, alt gelblich, zäh. Geruch pilzig. \nVorkommen an Nadelholz, an Todholzästen - Folgezersetzer."
+  },
+  {
+    "id": 229,
+    "question": "229 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Grünling (Tricholoma equestre), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "5-12 cm; H. grüngelb bis ockergelb; feine fuchsige Schüppchen auf Hh.; Hh. feucht schmierig bis schleimig, trocken klebrig; Rand lange eingebogen; L. leuchtend gelb; S. heller als H.; S. meist tief im Boden steckend; F. weißlich bis blassgelb, unter Hh. kräftiger gelb; Geruch stark mehlig-gurkig; sandiger Boden unter Kiefern"
+  },
+  {
+    "id": 230,
+    "question": "230 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Zimtfarbigen Weichporling (Hapalopilus nidulans), führen Sie dabei fünf wichtige bestimmungsrelevante Merkmale an.   (5)",
+    "answer": "Hut 3 bis 10 cm, ungezont, zimtfarben, relativ breit angewachsen. \nKein Stiel ausgewachsen vom Holzstamm waagrecht abstehend. \nPoren zimtbraun bis gelbbraun. Sporenfarbe weißlich bis hellbräunlich. \nFleisch weich, zusammengedrückt Flüssigkeit abgebend\nGeruch pilzig. \nVorkommen meist Laubholz, Folgezersetzer, Weißfäuleauslöser\nReagiert mit Lauge (Seife) und wird violett,"
+  },
+  {
+    "id": 231,
+    "question": "231 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Orangefuchsigen Raukopf (Cortinarius orellanus), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut 3 bis 6 cm , Form jung konisch bis glockig später konvex bis abgeflacht und schwach gebuckelt. Farbe satt orange bis kupfer oder rostbraun. Oberfläche matt fein samtfilzig. \nStiel zylindrisch gegen Basis verjüngt, Oberfläche auf gelben Grund längs rötlich braun überfasert.\nLamellen jung orangeocker später rostbraun, breit, breit am Stiel angewachsen.  Sporenfarbe rostbraun. \nFleisch  cremfarben bis gelblich. Geruch schwach rettichartig. \nVorkommen meist in  Laubwäldern, wärmeliebend. Mykorrizapilz."
+  },
+  {
+    "id": 232,
+    "question": "232 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Kegelhütigen Knollenblätterpilz (Amanita virosa), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 4-7 cm weiß ohne Velumflocken, lange kegelförmig bleibend, klebrige Huthaut, \nStiel zylindrisch Basis keulig knollig mit angedrückter häutiger weißer Scheide. Oberfläche auf weißem Grund weiß längsfasserig aufgerissen. Ring hängend häutig, weiß bis gelblich oft zerissen.\nLamellen relativ engstehend weiß mit cremfarbigem Hauch, frei, Schneiden flockig. Sporenpulverfarbe weiß.\nFleisch weiß, Geruch unangenehm schärflich, rettichartig.  \nVorkommen vor allem in Nadelwäldern auf frischen, sauren und nährstoffarmen Böden. Mykorrizapilz."
+  },
+  {
+    "id": 233,
+    "question": "233 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Dottergelben Klumpfuß (Cortinarius vitellinus), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut  Oberfläche stark schleimig. Farbe goldgelb mit ocker, rot oder schwarzbraunen Flecken. Gelbe fädige Cortina.\nStiel zylindrisch, Basis mit +/- gerandeter Knolle. Oberfläche Stiel gelblich, meistens eine Ringzone bildent\nLamellen jung gelb später orangegelb, ausgebuchtet angewachsen. Sporenfarbe rostbraun.\nFleisch zitronengelb. Geruch unangenehm pfefferartig stechend. \nVorkommen meisst gesellig in Nadel oder Mischwälder bei Tanne oder Fichte. Mykorrizapilz."
+  },
+  {
+    "id": 234,
+    "question": "234 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Gifthäubling (Galerina marginata agg.), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut:  1,5-2,5 cm jung halbkugelig, später konvex bis abgeflacht Oberfläche matt glatt bis etwas glänzend , hygrophan -feucht rötlich bis ockerbraun trocken gelbocker\nStiel: zylindrisch, Oberfläche über dem Ring auf ockerlichem Grund weißlich bereift, darunter auf braunem Grund weißlich überfasert (Silberfäden), Ring vergänglich\nLamellen: jung hellocker später rostbraun am Stiel angewachsen bis leicht herablaufend Schneiden fein weißflockig, Sporen rotbraun\nFleisch: hellocker bis braun  Geruch: mehlartig  \nStandort:  Meist auf totem Nadelholz, selten Laubholz, gesellig"
+  },
+  {
+    "id": 235,
+    "question": "235 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Ziegelroten Risspilz (Inosperma erubescens), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 4-12cm, glockig mit stumpfem Buckel, Oberfläche stark radial eingerissen in der Mitte   mit ziegelroten Flecken oder alt gänzlich ziegelrot gefärbt. Rand jung stark eingerollt und mit weißlichen Velumfasern besetzt.  \nStiel: zylindrisch, weiß mit der Zeit wie der ganze Fruchtkörper rötend. \nLamellen: jung weißlich, dann schmutzig beige , alt rosa bis olivbraun, schmal am Stiel angeheftet,  Sporenfarbe: erdbraun \nFleisch: weißlich, und im Schnitt und bei Druck leicht rötend Geruch: schwach spermaartig oder nach vergorenen Früchten.\nStandort: Einzeln bis gruppenweise in Laubwäldern oder Parkanlagen auf nährstoffreichen Böden"
+  },
+  {
+    "id": 236,
+    "question": "236 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) die Frühjahrslorchel (Gyromitra esculenta agg.), führen Sie dabei fünf wichtige bestimmungsrelevante Merkmale an.   (5)",
+    "answer": "Hut: 3-8cm kastanienbraun, hirnartig gewunden, \nStiel: weißlich, hohl, kammerig feinkörnig, \nSporenpulver weißlich bis cremefarben\nFleisch: weißlich brüchig wachsartig, Geruch würzig pilzig, \nVorkommen: Nadelwald, oft Kiefer gern sandigem Boden bei Holzabfällen und Rindenmulch, Frühjahrspilz, Folgezersetzer"
+  },
+  {
+    "id": 237,
+    "question": "237 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Spitzgebuckelten Raukopf (Cortinarius rubellus), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 2-7 cm jung konisch, spitzkegelig, später glockig bis abgeflacht, meistens mit ausgeprägtem +- spitzem Buckel, Oberfläche filzig, fasrig orange- bis rotbraun, Randzone oft heller bis gelblich, Rand lange heruntergebogen, glatt bis wellig. \nStiel: zylindrisch, brüchig, Oberfläche auf rostbraunen Grund gelblich gegürtelt bis genattert. Stiel: Basis leicht verdickt, spindelig.\nLamellen: jung ockerbraun, später rostbraun, ausgebuchtet angewachsen mit Zwischenlamellen, Sporenpulverfarbe: rostbraun\nFleisch: ockerbraun, Geruch: schwach rettichartig, \nVorkommen: meist gesellig in feuchtem moorigen Nadelwälder bei Fichte oder Kiefer, auf sauren Böden"
+  },
+  {
+    "id": 238,
+    "question": "238 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Königsfliegenpilz (Amanita regalis), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 4-16 cm braun, gelbbraun, mit gelblichen Velumflocken, Oberfläche glänzend, feucht schmierend, \nStiel: hellgelb mit bräunlich gegürtelter warziger knolliger Basis mit grobflockigen gürtelförmigen Ringzonen,  Ring: weiß schlapp herabhängend. \nLamellen: weiß bis hellgelb, dicht stehend, Freiblättler, Schneiden flockig. Sporenpulverfarbe : weiß\nFleisch: weiß, unter der Huthaut gelb/gelbbraun gelbgrün \nStandort: Nadelwald gerne Fichte, saurer Boden"
+  },
+  {
+    "id": 239,
+    "question": "239 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Fleischbraunen Schirmling (Lepiota brunneoincarnata), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut:  1,5 - 3,5 cm, \nStiel: 1 - 2 x 0,2 - 0,3 cm, \nLamellen: frei, jung weiß, später zitronen- bis kanariengelb\nFleisch:  weiß, Geruch etwas säuerlich, mehlig\nVorkommen: Ganzjährig in Blumenkästen und Gewächshäuser"
+  },
+  {
+    "id": 240,
+    "question": "240 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Fleischrosa Schirmling (Lepiota subincarnata), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 3-5cm weißlich mit rosabräunlichen Schuppen \nStiel: weißlich mit schnell vergänglicher, faseriger Ringzone, darunter hellbräunlich, rotbräunlich.\nLamellen: weiß bis hellgelb mit rosaton. frei, manchmal Schneiden rosalich, Sporenpulver weiß\nFleisch weißlich Geruch obstartig. \nVorkommen: Mischwald, Parks,"
+  },
+  {
+    "id": 241,
+    "question": "241 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den \nGelbblättrigen Schirmling (Lepiota elaiophylla), führen Sie dabei 10 wichtige \nbestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut:1-4cm, jung glockig später aufgeschirmt mit kleinem Buckel in der Mitte, Mitte und Hutschuppen oliv- bis dunkelbraun auf geblichem Untergrund, Rand ungerieft\nStiel: 3-6 cm, 0,2-0,4 cm dick, zylindrisch, gelb,  mit Flockengürteln in Hutfarbe, an der Basis oft mit rötlichen Flecken, Myzel weiß\nLamellen: weißlich,später gelb, frei, nicht gedrängt, Schneiden fein bewimpert, mit  Zwischenlamellen   \nFleisch:  dünn, weiß, gelb im Hut, Geruch schwach säuerlich, mehlig\nVorkommen: Ganzjährig in Blumentöpfen und Gewächshäusern (wärmeliebend - ursprünglich aus Ceylon)"
+  },
+  {
+    "id": 242,
+    "question": "242 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Duftenden Trichterling (Paralepistopsis/Clitocybe amoenolens), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 2-8cm hellbraun, weißlich bis kastanienbraun , jung leicht gebuckelt später trichterförmig, Hutrand kremplingsartig. Im Zentrum meist dunkler und mit rötlich braunen Wasserflecken. \nStiel hellbraun, bis weißlich, zylindrisch, nie knollig. Mycelreste weiß niemals rötlich\nLamellen weiß bis hellbraun dicht stehend, herablaufend einige gegabelt. \nGeruch: Jasmin, überreife Birnen, obstartig \nVorkommen: Mischwald, gerne bei Laubbäumen, wäremeliebend"
+  },
+  {
+    "id": 243,
+    "question": "243 Beschreiben Sie ausführlich (Hut, Stiel, Hymenophor, Trama, Ökologie) den Igelwulstling (Amanita solitaria), führen Sie dabei 10 wichtige bestimmungsrelevante Merkmale an.   (10)",
+    "answer": "Hut: 3-13cm weißlich im Alter gelblich, auch mit grünlichen Hauch, abwischbare pyramidenförmige Schüppchen , Rand glatt\nStiel: weißlich mit grünlichem Hauch, Ring faserig filzig oberseits geirieft, häutig, Knolle mit Warzengürtel, rübenartig ohne Scheide \nLamellen: weißlich frei wirkend im Alter gelblich auch mit grünlichem Hauch, Sporen: hell, grünlich-gelblich\nFleisch: weißlich Geruch: Medizinschrank \nVorkommen: Laubwald, kalkreiche Standorte, wärmeliebend"
+  },
+  {
+    "id": 244,
+    "question": "244 Nennen Sie zwei essbare und zwei giftige Pilzarten mit fleischrosa Sporenpulver.   (4)",
+    "answer": "Essbar: alle Scheidlinge,Rehbrauner Dachpilz, Schild-Rötling, Mehlräsling\nGiftig: Riesenrötling, Stahlblauer Rötling, Frühlingsrötling"
+  },
+  {
+    "id": 245,
+    "question": "245 Nennen Sie zwei essbare und zwei giftige Pilzarten mit weißem bis cremefarbenem Sporenpulver.   (4)",
+    "answer": "Essbar: Frauentäubling, Hallimasch, Parasol, Pfifferling\nGiftig: grüner Knollenblätterpilz, Pantherpilz, Tigerritterling."
+  },
+  {
+    "id": 246,
+    "question": "246 Nennen Sie zwei essbare und zwei giftige Pilzarten mit rost- bis graubraunem Sporenpulver.   (4)",
+    "answer": "Essbar: Schleiereule, Reifpilz\nGiftig:Dottergelbe Klumpfuß, orangefuchsiger Rauhkopf, Spitzgebuckelte Rauhkopf"
+  },
+  {
+    "id": 247,
+    "question": "247 Nennen Sie zwei essbare und zwei giftige Pilzarten mit dunklem (dunkel-, violettbraun bis schwarz) Sporenpulver.   (4)",
+    "answer": "Essbar: Rauchblättriger Schwefelkopf, Wiesenchampignon\nGiftig: grünblättriger Schwefelkopf, Karbolegerling."
+  },
+  {
+    "id": 248,
+    "question": "248 Welche Sporenpulverfarbe haben die Schnecklinge (Hygrophorus)?   (1)",
+    "answer": "Weiß"
+  },
+  {
+    "id": 249,
+    "question": "249 Welche Sporenpulverfarbe haben die Häublinge (Galerina)?   (1)",
+    "answer": "Rostfarben"
+  },
+  {
+    "id": 250,
+    "question": "250 Welche Sporenpulverfarbe haben die Faserlinge (Psathyrella)?   (1)",
+    "answer": "Schwärzlich"
+  },
+  {
+    "id": 251,
+    "question": "251 Welche Sporenpulverfarbe haben die Schüpplinge (Pholiota)?   (1)",
+    "answer": "Ocker bis rostbraun"
+  },
+  {
+    "id": 252,
+    "question": "252 Welche Sporenpulverfarbe haben die Schwefelköpfe (Hypholoma)?   (1)",
+    "answer": "Dunkelbraun-lila"
+  },
+  {
+    "id": 253,
+    "question": "253 Welche Sporenpulverfarbe haben die Scheidlinge (Volvariella)?   (1)",
+    "answer": "Rosa"
+  },
+  {
+    "id": 254,
+    "question": "254 Welche Sporenpulverfarbe haben die Scheidenstreiflinge (Amanita sect. Vaginatae)?   (1)",
+    "answer": "Weiß bis cremefarbig"
+  },
+  {
+    "id": 255,
+    "question": "255 Welche Sporenpulverfarbe haben die Knollenblätterpilze (Amanita )?   (1)",
+    "answer": "Weiß"
+  },
+  {
+    "id": 256,
+    "question": "256 Welche Sporenpulverfarbe haben die Egerlinge (Agaricus)?   (1)",
+    "answer": "Kakaobraun"
+  },
+  {
+    "id": 257,
+    "question": "257 Welche Sporenpulverfarbe haben die Riesenschirmlinge (Macrolepiota)?   (1)",
+    "answer": "Weiß"
+  },
+  {
+    "id": 258,
+    "question": "258 Welche Sporenpulverfarbe haben die Kahlköpfe (Psilocybe)?   (1)",
+    "answer": "Dunkelbraun/pupurbraun\nviolettbraun bis schwarzviolett"
+  },
+  {
+    "id": 259,
+    "question": "259 Welche Sporenpulverfarbe haben die Trichterlinge (Clitocybe)?   (1)",
+    "answer": "Weiß"
+  },
+  {
+    "id": 260,
+    "question": "260 Welche Sporenpulverfarbe haben die Dickröhrlinge (Boletus)?   (1)",
+    "answer": "Olivbraun"
+  },
+  {
+    "id": 261,
+    "question": "261 Welche Sporenpulverfarbe haben die Kremplinge (Paxillus)?   (1)",
+    "answer": "Olivbraun"
+  },
+  {
+    "id": 262,
+    "question": "262 Welche Sporenpulverfarbe hat das Kuhmaul (Gomphidius glutinosus)?   (1)",
+    "answer": "Schwarzbraun"
+  },
+  {
+    "id": 263,
+    "question": "263 Durch welches Verfahren können Sie die Farbe von Sporenpulver feststellen? Bitte beschreiben Sie die Vorgehensweise.   (5)",
+    "answer": "Sporenabwurfpräparat: die Pilzhüte werden mit dem Hymenium nach unten auf das Papier gelegt und anschließend abgedeckt, damit die Sporen nicht fortgeweht werden."
+  },
+  {
+    "id": 264,
+    "question": "264 Welche Ernährungsweise haben die Ritterlinge (Tricholoma)?   (1)",
+    "answer": "Mykorrhiza"
+  },
+  {
+    "id": 265,
+    "question": "265 Welche Ernährungsweise haben die Faserlinge (Psathyrella)?   (1)",
+    "answer": "Folgezersetzer: auf dem Erdboden, auf Holz, Brandstellen und Dung."
+  },
+  {
+    "id": 266,
+    "question": "266 Welche Ernährungsweise haben die Häublinge (Galerina)?   (1)",
+    "answer": "Folgerzersetzer"
+  },
+  {
+    "id": 267,
+    "question": "267 Welche Ernährungsweise haben die Röhrlinge?   (1)",
+    "answer": "Mykorrhiza"
+  },
+  {
+    "id": 268,
+    "question": "268 Welche Ernährungsweise haben die Schirmlinge (Lepiota)?    (1)",
+    "answer": "Folgezersetzer"
+  },
+  {
+    "id": 269,
+    "question": "269 Welche Ernährungsweise haben die Pfifferlinge (Cantharellus)?   (1)",
+    "answer": "Mykorrhiza"
+  },
+  {
+    "id": 270,
+    "question": "270 Welche Ernährungsweise haben die Tintlinge (Coprinus s.l.)?   (1)",
+    "answer": "Saprophyten"
+  },
+  {
+    "id": 271,
+    "question": "271 Was verstehen Sie unter humanpathogenen Pilzen? Nennen Sie bitte ein Beispiel.   (2)",
+    "answer": "Pilze, die den Menschen schädigen: Hautpilz, Fusspilz. Sie leben von der organischen Substanz des Menschen."
+  },
+  {
+    "id": 272,
+    "question": "272 Nennen Sie zwei Porlinge, die an Buche vorkommen.   (2)",
+    "answer": "Zunderschwamm, Zinnober-Tramete, Schmetterlingstramete"
+  },
+  {
+    "id": 273,
+    "question": "273 Nennen Sie zwei Porlinge, die an Eiche vorkommen.   (2)",
+    "answer": "Eichenwirrling, Leberreischling, Eichen Feuerschwamm"
+  },
+  {
+    "id": 274,
+    "question": "274 Nennen Sie zwei Porlinge, die an Birke vorkommen.   (2)",
+    "answer": "Birkenporling , schiefer Schillerporling (=Chaga)"
+  },
+  {
+    "id": 275,
+    "question": "275 Nennen Sie zwei Porlinge, die an Fichte vorkommen.   (2)",
+    "answer": "Rotrandiger Baumschwamm, Blauer Saftporling"
+  },
+  {
+    "id": 276,
+    "question": "276 Was sind coprophile Pilze?   (1)",
+    "answer": "Pilzarten, die vorzugsweise oder ausschließlich auf teirischen Exkrementen wachsen (z.B. Dung, Mist..)"
+  },
+  {
+    "id": 277,
+    "question": "277 Nennen Sie zwei auf Pilzen parasitierende Pilzarten mit ihrem Wirt.   (4)",
+    "answer": "Parasitischer Röhrling  auf dem Kartoffelbovist \nParasitischer Scheidling auf der Nebelkappe"
+  },
+  {
+    "id": 278,
+    "question": "278 Nennen Sie 2 Substrate auf denen Kernkeulen (Cordyceps s.l.) parasitieren können.   (4)",
+    "answer": "Zungen-Kernkeule auf Hirschtrüffeln , andere auf Insekten."
+  },
+  {
+    "id": 279,
+    "question": "279 Nennen Sie vier Pilzarten, die mit Buche Mykorrhiza bilden können.   (4)",
+    "answer": "Herbsttrompete, Süßlicher Milchling, Buchen-Speitäubling, Gallen-Täubling, Strubbelkopfröhrling"
+  },
+  {
+    "id": 280,
+    "question": "280 Nennen Sie vier Pilzarten, die mit Eiche Mykorrhiza bilden können.   (4)",
+    "answer": "Eichen-Rotkappe , Sommer-Steinpilz , Grüner Knollenblätterpilz, Eichen-Milchling,Schwarzhütiger Steinpilz, Alba-Trüffel"
+  },
+  {
+    "id": 281,
+    "question": "281 Nennen Sie vier Pilzarten, die mit Birke Mykorrhiza bilden können.   (4)",
+    "answer": "Birkenpilz, Gelbe-Graustieltäubling, Grasgrüner Täubling, Birken-Reizker, Birkenspeitäubling"
+  },
+  {
+    "id": 282,
+    "question": "282 Nennen Sie vier Pilzarten, die mit Fichte Mykorrhiza bilden können.   (4)",
+    "answer": "Fliegenpilz, Echter Steinpilz, Fichtenreizker, Gallen-Röhrling, grauer Wulstling"
+  },
+  {
+    "id": 283,
+    "question": "283 Sie finden einen Pilz mit Hut, Stiel und poriger Fruchtschicht auf einem Baumstumpf wachsend. Welche Art könnte es sein? Nennen Sie zwei Möglichkeiten.   (2)",
+    "answer": "Winterporling, Maiporling"
+  },
+  {
+    "id": 284,
+    "question": "284 Sie finden Goldröhrlinge (Suillus grevellei) und Butterpilze (Suillus luteus). Welche Baumarten erwarten Sie bei welchen Pilzen?   (2)",
+    "answer": "Goldröhrlinge: Lärche \nButterpilze: Kiefer."
+  },
+  {
+    "id": 285,
+    "question": "285 Was liefert der Pilz der Pflanze bei einer Mykorrhiza?   (2)",
+    "answer": "Nährstoffe und Wasser."
+  },
+  {
+    "id": 286,
+    "question": "286 Was verstehen Sie unter Ekto-Mykorrhiza?   (2)",
+    "answer": "Symbiose zwischen Pflanzen und Pilzen, wobei die Pilzhyphen in die pflanzlichen Wurzel, aber nicht in die Zelle eindringen (Ekto=außen)."
+  },
+  {
+    "id": 287,
+    "question": "287 Was verstehen Sie unter Endo-Mykorrhiza?    (2)",
+    "answer": "Symbiose zwischen Pflanzen und Pilzen, wobei die Pilzhyphen in die pflanzlichen Wurzelzellen – genauer zwischen Zellwand und Plasmamembran – eindringen (Endo = innen). Kommt selten vor."
+  },
+  {
+    "id": 288,
+    "question": "288 Was liefert die Pflanze dem Pilz bei einer Mykorrhiza?   (2)",
+    "answer": "Kohlenhydrate."
+  },
+  {
+    "id": 289,
+    "question": "289 Nennen Sie drei Pilzarten, die speziell in Auwäldern vorkommen.   (3)",
+    "answer": "Speisemorchel,Annemonenbecherling, Scharlachroter Prachtbecherling, Morchelbecherling"
+  },
+  {
+    "id": 290,
+    "question": "290 Nennen Sie drei Pilzarten, die speziell in Mooren zu finden sind.   (3)",
+    "answer": "Moor-Lacktrichterling, Moor-Hallimasch,Moor-Klumpfuß"
+  },
+  {
+    "id": 291,
+    "question": "291 Nennen Sie drei Pilzarten, die speziell auf Magerrasen vorkommen.   (3)",
+    "answer": "Schwärzender-Saftling, Kirschroter Saftling, Wiesen Ellerling"
+  },
+  {
+    "id": 292,
+    "question": "292 Nennen Sie drei Pilzarten, die Sie speziell in Buchenwäldern finden können.   (3)",
+    "answer": "Buchen Speitäubling, Herbsttrompete, Sommersteinpilz,Frauentäubling,Satansröhrling"
+  },
+  {
+    "id": 293,
+    "question": "293 Nennen Sie drei Pilzarten, die Sie speziell in Eichenwäldern finden können.   (3)",
+    "answer": "Eichen-Rotkappe, Eichen-Milchling, Schmutzbecherling"
+  },
+  {
+    "id": 294,
+    "question": "294 Nennen Sie drei Pilzarten, die speziell in Kiefernwäldern zu finden sind.   (3)",
+    "answer": "Sand-Röhrling, Buckel-Täubling, Edel-Reizker, Butterpilz"
+  },
+  {
+    "id": 295,
+    "question": "295 Nennen Sie drei Pilzarten, die speziell in Fichtenwäldern zu finden sind.   (3)",
+    "answer": "Fichtenreizker, Graublättrige Schwefelkopf, echte Steinpilz, rotrandiger Baumschwamm, Fichtenrotkappe"
+  },
+  {
+    "id": 296,
+    "question": "296 Nennen Sie drei Pilzarten, die Sie speziell in Tannenwäldern finden können.   (3)",
+    "answer": "Lachs-Reizker, grubiger Tannenmilchling, Tannenstachelbart"
+  },
+  {
+    "id": 297,
+    "question": "297 Pilze ernähren sich wie Menschen und Tiere. Wie nennt man das?   (1)",
+    "answer": "Heterotroph= fremdernährend. Sie können ihre Nahrung durch Fotosynthese nicht selbst herstellen, was man als autotroph bezeichnet."
+  },
+  {
+    "id": 298,
+    "question": "298 Wie nennt man den Abbau von Lignin im Holz durch Pilze?   (1)",
+    "answer": "Weißfäule."
+  },
+  {
+    "id": 299,
+    "question": "299 Wie nennt man den Abbau von Zellulose im Holz durch Pilze?   (1)",
+    "answer": "Braunfäule"
+  },
+  {
+    "id": 300,
+    "question": "300 Nennen Sie 5 parasitische Pilzarten.   (5)",
+    "answer": "Parasitischer Röhrling: schmarotzt auf dem Kartoffelbovist, \nParasitischer Scheidling: schmarotzt auf der Nebelkappe, \nHallimasch: schmarotzt auf Bäumen, kann aber auch saprophytisch leben,\nKrause Glicke: schmarotzt an Kiefer\nSparriger Schüppling: schmarotzt am Fuß stehender Bäume und ruft Weißfäule hervor.\nHier lassen sich viele konsolenartig wachsenden Baumpilze anführen, die auch lebende Bäume anfallen: Zunderschwamm, Schwefelporling, Eichhase..."
+  },
+  {
+    "id": 301,
+    "question": "301 Was sind Saprobionten? Nennen Sie ein Pilzbeispiel.   (3)",
+    "answer": "Folgezersetzer, die abgestorbenes, organisches Material zersetzen. \nWiesenchampignon, Stockschwämmchen"
+  },
+  {
+    "id": 302,
+    "question": "302 Kann man den Falten-Tintling (Coprinopsis atramentaria) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Aus Sicherheitsgründen sollte man das nicht machen, da er das Coprinus-Syndrom hervorruft, wenn man zwei Tage vor dem Pilzverzehr und drei Tage danach Alkohol zu sich genommen hat,"
+  },
+  {
+    "id": 303,
+    "question": "303 Ist der Butterpilz (Suillus luteus) ein Speisepilz? Wenn ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Ja, aber die Huthaut sollte abgezogen werden und ausreichend lange erhitzen. Erstmal wenige probieren, da er öfters zu Unverträglichkeiten führt."
+  },
+  {
+    "id": 304,
+    "question": "304 Ist der Grünling (Tricholoma equestre) ein Speisepilz? Wenn ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, er führt zum Equestre-Syndrom"
+  },
+  {
+    "id": 305,
+    "question": "305 Kann man den Fuchsigen Rötelritterling (Lepista flaccida) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, sollte nicht mehr freigegeben werden. Es gibt einen ungeklärten Fall einer muscarinartigen Symptomatik (DGFM-Liste mit uneinheitlichem Speisewert). Auch kann er mit dem wohlriechenden Trichterling  verwechselt werden kann, der auch bei uns auf dem Vormarsch ist. Aufgrund der Acromelsäure, die in dem wohlriechenden Trichterling enthalten ist, können heftige Vergiftungen in Form von schmerzhaften Hautauschlägen erfolgen"
+  },
+  {
+    "id": 306,
+    "question": "306 Kann man die Nebelkappe (Clitcybe nebularis) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, er ruft oft Unverträglichkeiten hervor"
+  },
+  {
+    "id": 307,
+    "question": "307 Kann man die Stinkmorchel (Phallus impudicus) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Hexenei ist essbar - ausgewachsener stinkender Pilz will keiner essen"
+  },
+  {
+    "id": 308,
+    "question": "308 Kann man den Keulenfußtrichterling (Ampulloclitocybe clavipes) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, Acetaldehyd-Syndrom, es darf kein Alkohol 2 Tage vor und nach der Pilzmahlzeit getrunken werden."
+  },
+  {
+    "id": 309,
+    "question": "309 Kann man den Hallimasch (Armillaria ostoyae) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Roh ist der Pilz tödlich giftig, er muss 15-20 Minuten stark erhitzt werden. Kochwasser wegschütten."
+  },
+  {
+    "id": 310,
+    "question": "310 Kann man den Muschelseitling (Panellus serotinus) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, er schmeckt nicht"
+  },
+  {
+    "id": 311,
+    "question": "311 Kann man den Wolligen Milchling (Lactarius vellereus) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "Nein, es handelt sich um einen scharfen Milchling, der Magen-Darm-Vergiftungen auslöst."
+  },
+  {
+    "id": 312,
+    "question": "312 Kann man den Klebrigen Hörnling (Calocera viscosa) zum Essen freigeben: nein, ja, mit welchen Einschränkungen?   (2)",
+    "answer": "In geringen Mengen unschädlich; ziemlich unverdaulich da gummiartig und er schmeckt nach gar nichts."
+  },
+  {
+    "id": 313,
+    "question": "313 Wie beurteilen Sie den Speisewert aller echten Trüffeln (Tuber sp.)?   (1)",
+    "answer": "Giftig ist vermutlich keine der der Tuber-Arten, aber zu kulinarischen Zwecken sind nur wenige geeignet."
+  },
+  {
+    "id": 314,
+    "question": "314 Ihnen werden zu einer Pilzberatung schmächtige, weiße Seitlinge vorgelegt. Der Ratsuchende konnte zum Substrat keine Angaben machen. Geben Sie diese frei? Bitte begründen Sie kurz Ihre Antwort.   (2)",
+    "answer": "Nein. Es könnte sich um um den Ohrförmigen Seitling handeln, der bei Niereninsuffizienz tödlich sein kann. Er wächst immer auf Nadelholz."
+  },
+  {
+    "id": 315,
+    "question": "315 Wie beurteilen Sie den Speisewert von gilbenden Champignons?   (2)",
+    "answer": "Gilbende Champignons, die nach Anis riechen sind essbar während gilbende Champigons, die nach Karbol riechen magen-darm-giftig sind."
+  },
+  {
+    "id": 316,
+    "question": "316 Wie beurteilen Sie den Speisewert von bräunlichen, hygrophanen Trichterlingen mit Anis-Geruch?   (1)",
+    "answer": "Es könnte sich hierbei um den giftigen weißen oder fleischbräunlichen Anis-Trichterling handeln. Der essbare Grüne-Anis-Trichterling sollte im verblassten Zustand nicht freigegeben werden."
+  },
+  {
+    "id": 317,
+    "question": "317 Gibt es essbare Ritterlinge? Wenn ja nennen Sie ein Beispiel.   (2)",
+    "answer": "Ja. Schwarzfaseriger-Ritterling und Gilbender-Erdritterling"
+  },
+  {
+    "id": 318,
+    "question": "318 Wie beurteilen Sie den Speisewert von fleischigen Stachelpilzen mit orangegelben bis -rötlichen Hutfarben?   (1)",
+    "answer": "Es handelt sich um gut essbare Semmelstoppelpilze"
+  },
+  {
+    "id": 319,
+    "question": "319 Sind alle tödlich giftigen Pilzarten Mykorrhizapilze? Bitte begründen Sie Ihre Antwort.   (1)",
+    "answer": "Nein, der Gifthäubling und der fleischrosa Schirmling sind Saprobionten."
+  },
+  {
+    "id": 320,
+    "question": "320 Gibt es giftige Röhrlinge mit weißen oder gelben Poren? Falls ja, nennen Sie zwei Beispiele.   (3)",
+    "answer": "Der Schönfuß-Röhrling ist magen-darm-giftig und der Wurzelnde-Bitter-Röhrling ist es ebenfalls."
+  },
+  {
+    "id": 321,
+    "question": "321 Wie beurteilen Sie den Speisewert aller Scheidenstreiflinge (Amanita subgen. Amanita sect. Vaginatae)?   (1)",
+    "answer": "Sind essbar, sofern sie eindeutig bestimmt worden sind. Doppelgänger ist beispielsweise der Isabellenfarbige Wulstling."
+  },
+  {
+    "id": 322,
+    "question": "322 In die Beratung wird ein 30 cm großer Pilz mit genattertem Stiel und beweglichem Ring gebracht. Um welche Art handelt es sich und geben Sie ihn frei?   (2)",
+    "answer": "Ja, es handelt sich um den Parasolpilz"
+  },
+  {
+    "id": 323,
+    "question": "323 Nennen Sie drei bittere Vertreter der Röhrlinge.   (3)",
+    "answer": "Schönfußröhrling, Gallenröhrling, Wurzelnder-Bitterröhrling."
+  },
+  {
+    "id": 324,
+    "question": "324 Ihnen wird ein großer Korb mit Grünlingen (Tricholoma equestre agg.) zu einer Beratung vorgelegt. Nennen Sie drei Argumente mit denen Sie den Ratsuchenden vom Verzehr abhalten!   (3)",
+    "answer": "Der Pilz führt - in großen Mengen genossen - zur Muskelauflösung (Rhabdomyolyse). \nEs hat bereits Todesfälle gegeben. \nDer Pilz steht auf der Giftpilzliste der DGFM\nDer Pilz ist eine besonders geschützte Art nach Bundesartenschutzverordnung"
+  },
+  {
+    "id": 325,
+    "question": "325 Ein Pilzsammler bringt ihnen 2 Kisten mit über 5 kg alten, vermadeten Steinpilzen in die Beratung. Was sagen Sie ihm?   (5)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Steinpilze pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Auch sollte er alte Pilze nicht essen. Er sollte alte Pilze zum Absporen im Wald lassen."
+  },
+  {
+    "id": 326,
+    "question": "326 Aus welchen Gründen empfehlen Sie den Verzehr von rohen Pilzen nicht? Nennen Sie drei.   (3)",
+    "answer": "1. Das Erhitzen erleichtert die Verdauung. \n2. Mikroorganismen werden abgetötet. \n3. Hitzeinstabile Giftstoffe werden zerstört."
+  },
+  {
+    "id": 327,
+    "question": "327 Auf welche Gefahren weisen Sie im Zusammenhang mit Pilzverzehr hin?   (5)",
+    "answer": "1. Unechte Pilzvergiftung durch zersetztes Eiweiß, \n2. Pilzvergiftung durch Rohverzehr, \n3. giftige Doppelgänger.\n4. Da Pilze schwer verdaubar, nicht in zu große Mengen essen."
+  },
+  {
+    "id": 328,
+    "question": "328 Ihnen wird ein großer Korb mit Samtfußkremplingen zur Beratung gebracht. Geben Sie diese zum Verzehr frei? Begründen Sie Ihre Antwort.   (2)",
+    "answer": "Ja, aber: Roh giftig, muss entbittert werden, individuelle Unverträglichkeiten möglich; geschmacklich nicht interessant"
+  },
+  {
+    "id": 329,
+    "question": "329 Nennen Sie drei Dinge, die Sie bei der Zubereitung von Speisepilzen beachten müssen.   (3)",
+    "answer": "1. Ausreichend erhitzen, außer bei Champignons und Steinpilzen. \n2. Keine alten, verdorbenen Pilze verwenden, \n3. Pilzart auf das Rezept abstimmen, z.B.: Schopftintlinge kochen und nicht braten.\n4. Bei manchen Pilzen Huthaut abziehen oder Stiele entfernen."
+  },
+  {
+    "id": 330,
+    "question": "330 Nennen Sie drei Merkmale, woran Sie überständige Fruchtkörper erkennen.   (3)",
+    "answer": "1. Druckprobe, speziell bei Röhrlingen: der Pilz sollte dem Fingerdruck widerstehen. \n2. Der Pilz darf keinen Verwesungsgeruch oder Schimmelbefall aufweisen. \n3. Wenn Lamellen und Röhren schon sehr von Sporenpulverfarbe eingefärbt sind (z.B. Champignon schwarz, Steinpilz olivgrün)\n4. Zu sehr aufgeschirmt bei Lamellenpilzen"
+  },
+  {
+    "id": 331,
+    "question": "331 Nennen Sie drei Merkmale, woran Sie einen frischen Champignon (Agaricus) erkennen.   (3)",
+    "answer": "1. Der Ring ist noch geschlossen bis zum Hutrand, oder es sind noch Velumreste am Hutrand vorhanden\n2. Es dürfen keine Druckstellenflächen vorhanden sein, \n3. Die Lamellen sollten noch rosa und nicht vollständig schwarz gefärbt sein.\n4. Hut noch halbkugelig und nicht zu weit aufgeschirmt."
+  },
+  {
+    "id": 332,
+    "question": "332 Sie haben als zukünftiger Pilzsachverständiger die Verpflichtung, sich regelmäßig weiterzubilden. In welchen Zeitabständen sollten Sie mindestens an einer Weiterbildung teilnehmen?   (1)",
+    "answer": "Alle fünf Jahre,"
+  },
+  {
+    "id": 333,
+    "question": "333 Als künftiger Pilzsachverständiger haben Sie gegenüber der DGfM die Verpflichtung, jährlich Rechenschaft über Ihre Tätigkeit abzulegen. Wo finden Sie die Vorlage für den Jahresbericht?   (1)",
+    "answer": "Im Internet, auf den Seiten der DGfM"
+  },
+  {
+    "id": 334,
+    "question": "334 Welche Vorteile bringt für Sie als PSV eine Mitgliedschaft in der DGfM?   (2)",
+    "answer": "Juristischer Schutz (Versicherung), DGfM-Mitteilungen,"
+  },
+  {
+    "id": 335,
+    "question": "335 Quer über den Forstweg in Ihrem Wald ist ein rot-weißes Plastikband gespannt, ansonsten sind keine weiteren Hinweisschilder vorhanden. Was bedeutet das für Sie als Pilzsucher?   (1)",
+    "answer": "Das Betreten ist verboten wahrscheinlich wegen Baumfällarbeiten."
+  },
+  {
+    "id": 336,
+    "question": "336 Sie erhalten einen Telefonanruf eines Ratsuchenden, der Ihnen die in seinem Garten wachsenden Pilze beschreibt („Hut weiß“ und „Lamellen jung rosa, alt dunkelbraun“) und um Bestätigung seiner Bestimmung als Champignons bittet. Wie verhalten Sie sich?   (2)",
+    "answer": "Telefonisch werden grundsätzlich keine Pilzbestimmungen  durchgeführt"
+  },
+  {
+    "id": 337,
+    "question": "337 In einem Vergiftungsfall schickt Ihnen das Krankenhaus Handybilder des in Frage kommenden Pilzes. Wie verhalten Sie sich?   (3)",
+    "answer": "Eine vorläufige Auskunft ist möglich, letztlich ist aber das Realobjekt ausschlaggebend."
+  },
+  {
+    "id": 338,
+    "question": "338 Sie sprechen einen Supermarktleiter auf die offensichtlich verdorbenen Pfifferlinge an. Muss dieser daraufhin die Ware aus dem Verkehr nehmen? Begründen Sie Ihre Antwort.   (2)",
+    "answer": "Nein, aber er sollte die Einwände zur Kenntnis nehmen. Als PSV habe ich keine Polizeigewalt und kann nur berraten (Möglichkeit: Meldung bei WKD)"
+  },
+  {
+    "id": 339,
+    "question": "339 Auf ihrer Exkursion sammeln Teilnehmer psilocybinhaltige Pilze. Wie reagieren Sie darauf?  (2)",
+    "answer": "Ich weise auf das Psilocybin-Syndrom hin, der Pilz wird nicht freigegeben."
+  },
+  {
+    "id": 340,
+    "question": "340 Ihnen werden eindeutige Bilder von Maronenröhrlingen (Imleria badia) zugeschickt, mit der Bitte um Bestätigung zur Essensfreigabe. Wie verhalten Sie sich?   (2)",
+    "answer": "Eine Freigabe ist nicht möglich."
+  },
+  {
+    "id": 341,
+    "question": "341 Gibt es giftige Porlinge? Falls ja, bitte ein Beispiel nennen.   (2)",
+    "answer": "Der Zimtfarbige Weichporling ist giftig."
+  },
+  {
+    "id": 342,
+    "question": "342 Gibt es tödlich giftige Röhrlinge? Wenn ja, bitte ein Beispiel nennen.   (1)",
+    "answer": "Nein, ein gesunder Mensch kann nur gastrointestinal geschädigt werden."
+  },
+  {
+    "id": 343,
+    "question": "343 Wie lautet die Täublingsregel und für welche anderen Pilzgruppen gilt diese auch?   (2)",
+    "answer": "Alle mild schmeckenden Täublinge (Russula) sind essbar. (Das Pilzstück sollte nicht verschluckt werden.) Die Regel gilt auch für Milchlinge (Lactarius)."
+  },
+  {
+    "id": 344,
+    "question": "344 Auf welche Punkte weisen Sie Exkursionsteilnehmer zu Beginn einer Exkursion hin (drei Punkte nennen)?   (3)",
+    "answer": "Ich gebe ein Übersicht über das Exkusionsgelände. \nPilze müssen vollständig  incl. kompletter Stielbasis entnommen werden. \nDie Pilze sollten sachgerecht gesammelt werden (Korb, unvermatscht...)\nRauchen zwischen März und Oktober im Wald verboten"
+  },
+  {
+    "id": 345,
+    "question": "345 Wie lautet die Stäublingsregel und welcher ähnliche Bauchpilz könnte zu kritischen Verwechslungen führen?   (2)",
+    "answer": "Alle Stäublinge, die im Inneren weiß sind, können gesammelt werden. \nKartoffelboviste können in sehr jungem Zustand ebenfalls sehr weiß aussehen."
+  },
+  {
+    "id": 346,
+    "question": "346 Zur Pilzberatung kommt eine Person, die in ihrem Korb 3 kg Wiesenellerlinge (Cuphophyllus pratensis) hat. Was erzählen Sie ihr?   (2)",
+    "answer": "Ich weise darauf hin, dass die Pilze geschützt sind und in Zukunft nicht mehr gesammelt werden dürfen. (Wiesenelerlinge gehörte mal zu Hygrocybe, die alle streng geschützt sind)"
+  },
+  {
+    "id": 347,
+    "question": "347 Zur Pilzberatung kommt eine Person mit einem Korb voller Stockschwämmchen-Hüte (Kuehneromyces mutabilis) Was erzählen Sie ihr?   (2)",
+    "answer": "Ohne Stiele ist eine Verwechslung mit dem Gifthäubling möglich. Daher ist eine Freigabe nicht möglich."
+  },
+  {
+    "id": 348,
+    "question": "348 Zur Pilzberatung kommt eine Person, die in ihrem Korb drei Dutzend Täublinge in verschiedenen Farben hat. Was erzählen Sie ihr?   (2)",
+    "answer": "Ich weise sie auf die Täublingsregel hin."
+  },
+  {
+    "id": 349,
+    "question": "349 Warum sollen Pilze immer gut durchgegart werden? Bitte zwei Gründe nennen.   (2)",
+    "answer": "Mögliche Giftstoffe – wie Hämolysine beim Hallimasch – werden zerstört und Bakterien, Insekten, etc. abgetötet."
+  },
+  {
+    "id": 350,
+    "question": "350 Welches Sammelgefäß empfehlen Sie für Pilze und welches auf keinen Fall?  (2)",
+    "answer": "Korb, keine Plastikbeutel, diese beschleunigen den Pilzeiweißzerfall."
+  },
+  {
+    "id": 351,
+    "question": "351 Sind Täublinge mit rotem Hut immer scharf? Begründen Sie Ihre Antwort. 2",
+    "answer": "Nein, der Apfeltäubling und Speisetäubling sind mild."
+  },
+  {
+    "id": 352,
+    "question": "352 Auf welchem Holz wächst das Stockschwämmchen?   (1)",
+    "answer": "Vorwiegend auf Laubholz."
+  },
+  {
+    "id": 353,
+    "question": "353 Was gilt in Naturschutzgebieten hinsichtlich der Mitnahme von Pilzen und Beeren, die man ohne den Weg zu verlassen erreichen kann?   (1)",
+    "answer": "Es liegt ein vollständiges Sammelverbot vor."
+  },
+  {
+    "id": 354,
+    "question": "354 Welche giftigen/bitteren Röhrlinge haben ein Stielnetz? Nennen Sie drei Arten.  (3)",
+    "answer": "Schönfußröhrling, Gallenröhrling, Wurzelnder-Bitterröhrling, Satansröhrling"
+  },
+  {
+    "id": 355,
+    "question": "355 Nennen Sie drei handelsübliche Zuchtpilze!   (3)",
+    "answer": "Champignon, Austernseitling, Shitake"
+  },
+  {
+    "id": 356,
+    "question": "356 Welcher Warengruppe sind Pilze im Groß- und Einzelhandel zugeordnet?   (1)",
+    "answer": "Gemüse"
+  },
+  {
+    "id": 357,
+    "question": "357 Woran erkennen Sie alte Pilze? Nennen Sie bitte drei Kriterien.  (3)",
+    "answer": "An der matschigen Konsistenz, \nder Pilzfleischverfärbung, \nSchimmelbefall und \ndem unangenehmen Geruch."
+  },
+  {
+    "id": 358,
+    "question": "358 Nennen Sie drei Hauptbestandteile eines Pilzfruchtkörpers.   (3)",
+    "answer": "Stiel, Hut und Fruchtschicht."
+  },
+  {
+    "id": 359,
+    "question": "359 Was ist ein Exsikkat und wozu dient es?   (2)",
+    "answer": "Eine getrocknete Pilzprobe. Es dient als Anschauungsmaterial und zur weiteren Untersuchung."
+  },
+  {
+    "id": 360,
+    "question": "360 Was verstehen Sie unter einem dichotomen Schlüssel?   (2)",
+    "answer": "Ein Schlüssel zur Artenbestimmung, wobei jeweils zwei Möglichkeiten (dichotom=zweigliedrig) angeboten werden."
+  },
+  {
+    "id": 361,
+    "question": "361 Nennen Sie drei so genannte Vitalpilze.   (3)",
+    "answer": "Birkenporling, Chaga-Pilz, Judasohr"
+  },
+  {
+    "id": 362,
+    "question": "362 Nennen Sie zwei Pflichten, die Sie als PSV der DGfM gegenüber haben.   (2)",
+    "answer": "Sie müsen einen Jahresbericht schreiben und alle fünf Jahre an einem geeigneten Fortbildungskurs teilnehmen."
+  },
+  {
+    "id": 363,
+    "question": "363 Welche Gesetze und Vorschriften sind von Ihnen bei Pilzwanderungen zu beachten?   (2)",
+    "answer": "Bundesnaturschutzgesetz, Bundesartenschutzverordnung, Landeswaldgesetz, Lebensmittelgesetz."
+  },
+  {
+    "id": 364,
+    "question": "364 Welche Fruchtkörper empfehlen Sie nicht zum Verzehr zu sammeln. Nennen Sie vier Punkte.   (4)",
+    "answer": "Zu alte Pilze (matschig, überständig...)\nPilze mit Schimmelbefall,\nPilze, die man nicht eindeutig bestimmen kann,\nPilze, die neben Strasse vorkommen (verunreinigt)"
+  },
+  {
+    "id": 365,
+    "question": "365 Mit welchen Lebensmitteln sind Pilze und ihre Handhabung vergleichbar?   (2)",
+    "answer": "Fleisch, da beide eiweißhaltig und verderblich."
+  },
+  {
+    "id": 366,
+    "question": "366 Darf ein Pilzgericht wieder aufgewärmt werden? Begründen Sie Ihre Antwort.   (2)",
+    "answer": "Ja. Dass Pilze nicht aufgewärmt werden sollen, kommt noch aus der Zeit, als die Reste nicht gut gekühlt werden konnten"
+  },
+  {
+    "id": 367,
+    "question": "367 Wie oft und in welcher Menge empfehlen Sie Ratsuchenden den Verzehr von Waldpilzen, ohne durch radioaktive Belastung Schaden zu nehmen?   (2)",
+    "answer": "Von bestimmten Pilten (z.B. Maronen, Semmelstoppelpilzen) sollten in stark belasteten Gebieten nicht mehr als 250g pro Woche verzehrt werden."
+  },
+  {
+    "id": 368,
+    "question": "368 Was ist laut Waldschutzgesetz zwischen März und November im Wald untersagt?   (1)",
+    "answer": "Rauchen -wegen der Waldbrandgefahr. Kein offenes Feuer."
+  },
+  {
+    "id": 369,
+    "question": "369 Welche Empfehlung geben Sie Ratsuchenden zur Lagerung von Pilzen? Nennen Sie drei Punkte.   (3)",
+    "answer": "Die Pilze sollten kühl, luftig und dunkel gelagert werden."
+  },
+  {
+    "id": 370,
+    "question": "370 Nennen Sie drei Pilzarten, die häufig von Schimmelpilzen befallen werden.   (3)",
+    "answer": "Rotfußröhrling, \nSteinpilz\nMarone"
+  },
+  {
+    "id": 371,
+    "question": "371 Im vorgelegten Sammelgut finden sich neben grünen Speisetäublingen auch Hüte von Grünen Knollenblätterpilzen (Amanita phalloides). Wie verhalten Sie sich?   (3)",
+    "answer": "Kleinste Mengen von A. phalloides können schwerwiegende Vergiftungen hervorrufen. Daher muss das gesamte Sammelgut verworfen werden."
+  },
+  {
+    "id": 372,
+    "question": "372 Bei gesammelten Stockschwämmchen finden Sie auch Gifthäublinge (Galerina marginata agg.). Wie verhalten Sie sich?",
+    "answer": "Kleinste Mengen von Gifthäubling können schwerwiegende Vergiftungen hervorrufen. Daher muss das gesamte Sammelgut verworfen werden."
+  },
+  {
+    "id": 373,
+    "question": "373 Sie erhalten einen Anruf von einem aufgeregten Pilzsammler, der gerade weiße Lamellenpilze gegessen hat und jetzt vermutet, Knollenblätterpilze zu sich genommen zu haben. Wie gehen Sie vor?   (5)",
+    "answer": "1. Beruhigen und soll sich zur Sicherheit in ärztliche Behandlung  begeben und Giftnotrufzentrale verständigen. \n2. Folgende Fragen klären: Wann gegessen? Wer hat sonst noch davon gegessen?\n3. Ich lasse mir Abbildungen des Pilzes oder der Pilzreste zuschicken.\n4. Ich werde versuchen die Pilze am Realobjekt zu bestimmen. \n5. Testverfahren nach Wieland durchführen: Mit einer alten (geeigneten) Zeitung und 20%iger HCl (Salzsäure). Wenn ein grüner Knollenblätterpilz vorliegt, entsteht ein bläulicher Fleck."
+  },
+  {
+    "id": 374,
+    "question": "374 Wie sollten frische Pilze transportiert und gelagert werden?   (4)",
+    "answer": "Luftig, kühl und dunkel."
+  },
+  {
+    "id": 375,
+    "question": "375  Ein Ratsuchender legt Ihnen in der Pilzberatung eine bunt gemischte Sammlung von ca. 3 kg Frischpilzen vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Ich sortiere die Pilze systematisch und beurteile anschließend den Speisewert. Dabei weise ich auf die Sammelbeschränkung (1kg) hin."
+  },
+  {
+    "id": 376,
+    "question": "376 Ein Ratsuchender legt Ihnen in der Pilzberatung 120 Fruchtkörper vom Kahlen Krempling (Paxillus involutus agg.) vor. Welche Empfehlungen geben Sie?   (3)",
+    "answer": "Kahler Krempling ruft das Paxillus-Syndrom hervor und kann nicht freigegeben werden."
+  },
+  {
+    "id": 377,
+    "question": "377 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar eines Ziegenfußporlings (Albatrellus pes-caprae) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Guter Speisepilz, der allerdings ganzjährig geschützt ist. Er darf vom Ratsuchenden nicht gesammelt werden. Das wird ihm mitgeteilt."
+  },
+  {
+    "id": 378,
+    "question": "378 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar eines Kammporlings (Albatrellus cristatus) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Der Pilz ist ungenießbar und auch streng geschützt laut Bundesartenschutzgesetz und darf nicht gesammelt werden."
+  },
+  {
+    "id": 379,
+    "question": "379 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar eines Schafporlings (Albatrellus ovinus) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Möglicher Speisepilz, der allerdings ganzjährig geschützt ist. Er darf vom Ratsuchenden nicht gesammelt werden. Das wird ihm mitgeteilt."
+  },
+  {
+    "id": 380,
+    "question": "380 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar eines Semmelporlings (Albatrellus confluens) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Möglicher Speisepilz, der allerdings im Alter bitter schmeckt und ganzjährig geschützt ist. Er darf vom Ratsuchenden nicht gesammelt werden. Das wird ihm mitgeteilt."
+  },
+  {
+    "id": 381,
+    "question": "381 Ein Ratsuchender legt Ihnen in der Pilzberatung mehrere Exemplare des Kirschroten Saftlings (Hygrocybe coccinea) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Die Pilze haben einen geringen Speisewert, wenig Fleisch und sind streng geschützt. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 382,
+    "question": "382 Ein Ratsuchender legt Ihnen in der Pilzberatung mehrere Exemplare des Erlengrüblings (Gyrodon lividus) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Pilz ist streng geschüzt. Er darf nicht gesammelt werden. Das wird dem Ratsuchenden mitgeteilt. Ausserdem ist der Erlengrübling giftverdächtig (Paxillussyndrom?). Der Pilz kann nicht freigegeben werden."
+  },
+  {
+    "id": 383,
+    "question": "383 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar des Königsröhrlings (Butyriboletus regius) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Der Pilz ist zwar essbar, aber nach Bundesartenschutzverordnung streng geschüzt. Er darf nicht gesammelt werden. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 384,
+    "question": "384 Ein Ratsuchender legt Ihnen in der Pilzberatung ein Exemplar eines Granatroten Saftlings (Hygrocybe punicea) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "Die Pilze haben einen geringen Speisewert, wenig Fleisch und sind streng geschützt."
+  },
+  {
+    "id": 385,
+    "question": "385 Ein Ratsuchender legt Ihnen in der Pilzberatung 37 stattliche Steinpilze (Boletus edulis) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Steinpilze pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 386,
+    "question": "386 Ein Ratsuchender legt Ihnen in der Pilzberatung 54 verschieden große Birkenpilze (Leccinium scabrum agg.) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Birkenpilze pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 387,
+    "question": "387 Ein Ratsuchender legt Ihnen in der Pilzberatung 54 verschieden große Espenrotkappen (Leccinium albostipitatum) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Espenrotkappen pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 388,
+    "question": "388 Ein Ratsuchender legt Ihnen in der Pilzberatung ca. 3 kg Pfifferlinge (Cantharellus cibarius agg.) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Pfifferlinge pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 389,
+    "question": "389 Ein Ratsuchender legt Ihnen in der Pilzberatung ca. 3 kg Trompetenpfifferlinge (Cantharellus tubaeformis) vor. Wie verhalten Sie sich?   (3)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Trompetenpfifferlinge pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen. Das wird dem Ratsuchenden mitgeteilt."
+  },
+  {
+    "id": 390,
+    "question": "390 Was empfehlen Sie für den Verzehr von Austernseitling (Pleurotus ostratus), Parasol (Macrolepiota procera agg.) und Perlpilz (Amanita rubescens)?   (3)",
+    "answer": "Diese Arten sind roh giftig und müssen 15-20 Minuten durchgängig erhitzt werden. Bei Parasol und Austernseitling Stiel nicht essbar (zäh) Beim Perlpilz Huthaut abziehen."
+  },
+  {
+    "id": 391,
+    "question": "391 Welche Daten sind für eine Ankündigung Ihrer Pilzexkursion unabdingbar?   (6)",
+    "answer": "Wann? Wo? Kosten? Wie erfolgt die Anmeldung? Was muß mitgebracht werden?"
+  },
+  {
+    "id": 392,
+    "question": "392 Was sollten die Teilnehmer Ihrer Pilzexkursion unbedingt dabeihaben?   (3)",
+    "answer": "Korb, Wetterfeste Kleidung, Pilzmesser mit Bürste und Lupe, falls vorhanden"
+  },
+  {
+    "id": 393,
+    "question": "393 Wo können Sie Ihre Pilzberatungen öffentlichkeitswirksam ankündigen? Nennen Sie drei Möglichkeiten.   (3)",
+    "answer": "Presse, Mitteilungen der Gemeinde... Internet."
+  },
+  {
+    "id": 394,
+    "question": "394 Nennen Sie drei Möglichkeiten, wie Sie sich aktiv in der DGfM einbringen können.   (3)",
+    "answer": "Pilzfloristische Tätigkeit / Dokumentierung bemerkenswerter Funde. \nPilzkartierung, \nÖffentlichkeitsarbeit, \nAusstellungen, Schulungen."
+  },
+  {
+    "id": 395,
+    "question": "395 Was verstehen Sie unter einem Speisepilz?   (3)",
+    "answer": "Ein Pilz, der auf der Positivliste-Speisepilze der DGfM vermerkt ist."
+  },
+  {
+    "id": 396,
+    "question": "396 Ihnen wird ein Korb nur mit Pilzhüten, die Sie sicher als Egerlingshüte (Agaricus sp.) bestimmen können, zur Beratung vorgelegt. Wie verhalten Sie sich? Geben Sie diese zum Verzehr frei und wenn ja warum?   (1)",
+    "answer": "Nein, da man an der Stielbasis unterscheiden kann, ob es sich um einen giftigen Champignon handelt."
+  },
+  {
+    "id": 397,
+    "question": "397 Ihnen wird zur Beratung ein Korb mit Fahlen Röhrlingen (Hemileccinum impolitum) vorgelegt. Was sagen Sie dem Ratsuchenden?   (1)",
+    "answer": "Der Pilz ist essbar. Er steht auf der Roten Liste (RL3), Daher sollte er geschützt werden."
+  },
+  {
+    "id": 398,
+    "question": "398 Nennen Sie drei Pilzgattungen, die lt. Bundesartenschutzverordnung (BArtSchV, Anl 1) besonders geschützt sind und in Deutschland nicht gesammelt werden dürfen.   (3)",
+    "answer": "Bodenporlinge, Trüffel, Saftlinge"
+  },
+  {
+    "id": 399,
+    "question": "399 Nennen Sie drei Pilzarten, die lt. Bundesartenschutzverordnung (BArtSchV, Anl 1) besonders geschützt sind und in Deutschland nicht gesammelt werden dürfen.   (3)",
+    "answer": "Ziegenfußporling, Königsröhrling, Kaiserling\n\nAnhängsel Röhrling, Schwarzhütiger Steinpilz"
+  },
+  {
+    "id": 400,
+    "question": "400 Nennen Sie drei Pilzarten, die lt. Bundesartenschutzverordnung (BArtSchV, §2 Abs 1) besonders geschützt sind und in Deutschland trotzdem in geringer Menge zum eigenen Verbrauch gesammelt werden dürfen.   (3)",
+    "answer": "Echter Steinpilz, Morchel, Birkenpilz, Pfifferling, Schweinsohr, Brätling"
+  },
+  {
+    "id": 401,
+    "question": "401 Nennen Sie zwei Pilzgattungen, die lt. Bundesartenschutzverordnung (BArtSchV, §2 Abs 1) besonders geschützt sind und in Deutschland trotzdem in geringer Menge zum eigenen Verbrauch gesammelt werden dürfen.   (2)",
+    "answer": "alle Raufüße, alle Morcheln, alle Pfifferlinge"
+  },
+  {
+    "id": 402,
+    "question": "402 Unter welchen Voraussetzungen dürfen in einem Privatwald Pilze gesammelt werden?   (1)",
+    "answer": "Wenn dieser nicht umzäunt und nicht in einem Naturschutzgebiet liegt"
+  },
+  {
+    "id": 403,
+    "question": "403 Auf welchen Flächen dürfen keine Pilze gesammelt werden?   (3)",
+    "answer": "Im Naturschutzgebiet, Naturdenkmal, Nationalpark, Bannwald – unabhängig von der Pilzart. Eingezäunter Privatwald"
+  },
+  {
+    "id": 404,
+    "question": "404 Was versteht man in Bezug auf Pilze unter einer \"Roten Liste\" und welche Bedeutung hat sie für den Natur- und Artenschutz?   (2)",
+    "answer": "Hier werden Pilze aufgelistet, die bedroht oder gefährdet sind, diese Liste beinhaltet keine juristische Verbindlichkeit wie die Bundesartenschutzverordnung."
+  },
+  {
+    "id": 405,
+    "question": "405 Welche Einschränkungen muss der Pilzsammler in Bezug auf Rote Liste-Arten beachten?   (1)",
+    "answer": "Es liegt hier ein moralischer Apell vor, der nicht justiziabel ist."
+  },
+  {
+    "id": 406,
+    "question": "406 Wie lautet die Kernaussage des Bundesnaturschutzgesetzes (BNatSchG, §44) bezüglich der Vermarktung besonders geschützter Pilzarten z. B. Steinpilze (Boletus edulis)?   (1)",
+    "answer": "Besonders geschützte Arten dürfen nicht vermarktet werden"
+  },
+  {
+    "id": 407,
+    "question": "407 Welche Sammelbeschränkung ist auch für Arten zu beachten, die weder gefährdet noch geschützt sind?   (1)",
+    "answer": "Für den Eigenbedarf darf gesammelt werden, also max. 2 Kilo - wer mehr Pilze als für den Eigenbedarf ernten will, bedarf einer besonderen Genehmigung , die bei der unteren Naturschutzbehörde gegen Zahlung einer Gebühr erlangt werden kann. Es darf nicht in Naturschutzgebieten, Naturparks, eingezäunte Privatwälder und Naturdenkmäler gesammelt werden."
+  },
+  {
+    "id": 408,
+    "question": "408 Nennen Sie drei Arten/Gattungen die nach der Bundesartenschutzverordnung geschützt sind, jedoch für den Eigenbedarf gesammelt werden dürfen.   (3)",
+    "answer": "Fichten Steinpilz (Dickfußröhrling), echter Pfifferling (Leistlinge),  \nEspenrotkappe (Raufüße), Speisemorchel (Morcheln)"
+  },
+  {
+    "id": 409,
+    "question": "409 Erläutern Sie, ob Sie selbst gesammelte Pfifferlinge (Cantharellus cibarius agg.) an ein Restaurant verkaufen dürfen.   (1)",
+    "answer": "Nein, da laut Bundesartenschutzverordnung geschützt und nur für den Eigenbedarf in geringen Mengen gesammelt werden darf."
+  },
+  {
+    "id": 410,
+    "question": "410 Erläutern Sie, ob Sie in Ihrem eigenen Garten Trüffeln (Tuber spec.) sammeln/ausgraben dürfen.   (1)",
+    "answer": "Nein, man darf diese nur sammeln, wenn man z.B. einen geimpften Baum gesetzt hat und diese somit gezüchtet hat."
+  },
+  {
+    "id": 411,
+    "question": "411 Erläutern Sie, ob Sie selbst angebaute Trüffel (Tuber) vermarkten dürfen.   (1)",
+    "answer": "Nein, man darf diese nur zum Eigenbedarf nutzen."
+  },
+  {
+    "id": 412,
+    "question": "412 Erläutern Sie, ob Sie Morcheln (Morchella) in unbegrenzter Menge zum Essen sammeln dürfen.   (1)",
+    "answer": "In Deutschland dürfen in der Regel nur 1kg Morcheln pro Person gesammelt werden (Geringe Menge für den eigenen Bedarf). Ansonsten können Geldstrafen ausgesprochen werden. Die Kontrolle kann durch einen Förster erfolgen."
+  },
+  {
+    "id": 413,
+    "question": "413 Erläutern Sie, ob Sie Königsröhrlinge (Butyriboletus regius) zum Essen sammeln dürfen.   (1)",
+    "answer": "Nein, diesse sind streng geschützt laut Bundesartenverordnung"
+  },
+  {
+    "id": 414,
+    "question": "414 Was ist bezüglich der Menge an gesammelten Pilzen zu beachten, selbst wenn diese nicht laut Bundesartenschutzverordnung (BArtSchV) besonders geschützt sind?   (1)",
+    "answer": "Für den Eigenbedarf darf gesammelt werden, also max. 2 Kilo - wer mehr Pilze als für den Eigenbedarf ernten will, bedarf einer besonderen Genehmigung , die bei der unteren Naturschutzbehörde gegen Zahlung einer Gebühr erlangt werden kann"
+  },
+  {
+    "id": 415,
+    "question": "415 Welche Einschränkungen für den Pilzsammler sind speziell in einem Naturpark zu beachten?   (1)",
+    "answer": "Im Gegensatz zum Nationalpark darf im Naturpark Pilze gesammelt werden, sofern keine gesonderten Regeln bestehen."
+  },
+  {
+    "id": 416,
+    "question": "416 Welche Einschränkungen für den Pilzsammler sind speziell in einem Nationalpark zu beachten?   (1)",
+    "answer": "Es gilt Sammelverbot."
+  },
+  {
+    "id": 417,
+    "question": "417 Nennen Sie 3 Hauptursachen, warum Pilzarten im Rückgang befindlich bzw. vom Aussterben bedroht sind.   (3)",
+    "answer": "Vernichtung des Lebensraumes (Biotop), \nÜberdüngung, \nKlimawandel, z.B. Temperaturveränderungund Wassermangel."
+  },
+  {
+    "id": 418,
+    "question": "418 Erläutern Sie, ob Sie selbst gesammelte Speisemorcheln (Morchella esculenta) auf dem Markt verkaufen dürfen.   (1)",
+    "answer": "Nein - geschützte Pilze dürfen nicht vermarktet werden"
+  },
+  {
+    "id": 419,
+    "question": "419 Ein Pilzsammler bringt einen Korb mit verschiedenen Saftlingen in die Beratung. Was sagen Sie ihm?   (2)",
+    "answer": "Die Pilze haben einen geringen Speisewert, wenig Fleisch und sind wegen ihrer Seltenheit streng geschützt. Unter ihnen sind einige schwach giftige Arten."
+  },
+  {
+    "id": 420,
+    "question": "420 Was ist zu beachten, wenn ein Förster die von Ihnen gesammelte Pilzmenge kontrollieren möchte?   (1)",
+    "answer": "Ein Förster darf das und ein Jäger nicht."
+  },
+  {
+    "id": 421,
+    "question": "421 Der Verlust von Lebensraum und Habitaten gehört zu den wichtigsten Gründen, warum Pilzarten stark im Rückgang begriffen oder sogar vom Aussterben bedroht sind. Nennen Sie zwei weitere Gründe.   (2)",
+    "answer": "Klimawandel und Überdüngung"
+  },
+  {
+    "id": 422,
+    "question": "422 Wie können Sie als PSV aktiv zum Pilzschutz beitragen?   (3)",
+    "answer": "Pilzfloristische Tätigkeit / Dokumentierung bemerkenswerter Funde. \nPilzkartierung, \nÖffentlichkeitsarbeit, \nAusstellungen, Schulungen."
+  },
+  {
+    "id": 423,
+    "question": "423 Was hat jeder laut Bundesnaturschutzgesetz zu beachten, um zu der Verwirklichung der Ziele des Naturschutzes und der Landschaftspflege beizutragen?   (1)",
+    "answer": "Jeder soll  sich so verhalten, dass Natur und Landschaft nicht mehr als nach den Umständen unvermeidbar beeinträchtigt werden. Z.B. Schonungen nicht betreten, keine Pilze in Naturschutzgebieten sammeln,..."
+  },
+  {
+    "id": 424,
+    "question": "424 Was ist zu beachten, wenn Sie in Deutschland Trüffel (Tuber) sammeln wollen?   (1)",
+    "answer": "Man braucht eine Ausnahmegenemigung"
+  },
+  {
+    "id": 425,
+    "question": "425 Nennen Sie vier Pilzarten, die Ihnen in einer Birkenallee begegnen können.   (4)",
+    "answer": "Birkenpilz, Birkenporling, Birkentäubling=Grasgrüne Täubling, Gelbe Graustieltäubling, Birken-Milchling"
+  },
+  {
+    "id": 426,
+    "question": "426 Nennen Sie vier Pilzarten, die Ihnen im sauren Fichtenwald begegnen können.   (4)",
+    "answer": "Fichten-Steinpilz, Maronen-Röhrling, Trompeten-Pfifferling, Gallen-Röhrling, Spitzgebuckelter Rauhkopf"
+  },
+  {
+    "id": 427,
+    "question": "427 Nennen Sie vier Pilzarten, die Ihnen auf einer extensiv beweideten Wiese (ohne Bäume) begegnen können.   (4)",
+    "answer": "Kirschroter Saftling, Kegelieger Saftling, Schneeweißer Ellerling, Wiesen-Ellerling, schwärzender Saftling, blauer Wiesenrötling"
+  },
+  {
+    "id": 428,
+    "question": "428 Nennen Sie vier Pilzarten, die Ihnen im Kalk-Buchenwald begegnen können.   (4)",
+    "answer": "Schärflicher Ritterling \nHerbttrompete, \nBuchenschleimrübling, \nSatans- Röhrling ,Schleiereule, Herkuleskeule, rosa Rettichhelmling"
+  },
+  {
+    "id": 429,
+    "question": "429 Anhand ihrer Ernährungsweise kann man Pilze in drei große Gruppen einteilen. Wie heißen diese? Nennen Sie jeweils ein Beispiel.   (6)",
+    "answer": "Mykorrhiza Pilze: Fliegenpilz \nParasiten: Hallimasch \nSaprophyten: grünblättrige Schwefekopf"
+  },
+  {
+    "id": 430,
+    "question": "430 Nennen Sie drei parasitische Pilzarten und ihre Wirte.   (6)",
+    "answer": "Parasitischer Röhrling auf Kartoffelbovist \nParasitischer Scheidling auf Nebelkappen, \nKernkeule auf Ameise\nKrause Glucke an Kiefer (parasitär und/oder saprophytisch)"
+  },
+  {
+    "id": 431,
+    "question": "431 Nennen Sie drei Tierarten, denen Pilze als wichtige Nahrungsquelle oder Lebensraum dienen.   (3)",
+    "answer": "Gallfliegen, Schnaken, Käfer legen ihre Eier in das Pilzfleisch. \nMäuse, Schnecken, Wildschweine fressen Pilze."
+  },
+  {
+    "id": 432,
+    "question": "432 Nennen Sie zwei Porlinge, die fast ausschließlich nur an einem Substrat (Baumart)    vorkommen und die jeweiligen Substrate.   (4)",
+    "answer": "Birkenporling - Birke, \nKlapperschwamm - Eiche oder Eicherersatz Edelkastanie, \nEichen – Zungenporling  - Eiche."
+  },
+  {
+    "id": 433,
+    "question": "433 Nennen Sie drei Folgezersetzer, die an verschiedenen Substraten vorkommen können und typischerweise häufig an bereits stark abgebautem Holz zu finden sind.   (3)",
+    "answer": "Aniszähling\nBreitblättriger Holzrübling,\nGrünspanträuschling\nGrünblättriger Schwefelkopf,Dachpilz"
+  },
+  {
+    "id": 434,
+    "question": "434 Erläutern Sie den Begriff Hypogäen. Nennen Sie ein Beispiel.   (2)",
+    "answer": "Pilze, die unter (Hypo) der Erde (gäe) vorkommen. Perigod-Trüffel"
+  },
+  {
+    "id": 435,
+    "question": "435 Was ist eine Flechte und welche Pilzgruppe ist hauptsächlich daran beteiligt?   (2)",
+    "answer": "Eine Symbiose zwischen (überwiegend) Grünalgen und (überwiegend) Ascomyceten."
+  },
+  {
+    "id": 436,
+    "question": "436 Erläutern Sie den Begriff Symbiose und nennen Sie ein Beispiel.   (2)",
+    "answer": "Zusammenspiel unterschiedlicher Arten zum gegenseitigen Nutzen: Pilz und Baum (Mykorrhiza)."
+  },
+  {
+    "id": 437,
+    "question": "437 Was sind phytoparasitische Kleinpilze? Nennen Sie dazu die drei Hauptgruppen (Beispiele).   (4)",
+    "answer": "Kleinpilze, die Pflanzen befallen - Rostpilze, Brandpilze, Mehltau"
+  },
+  {
+    "id": 438,
+    "question": "438 Was verstehen Sie unter Braunfäule, was unter Weißfäule? Nennen Sie dazu jeweils eine Pilzart.   (4)",
+    "answer": "Pilze, die Zellulose abbauen, lassen Lignin übrig und führen zu Braunfäule (Schwefelporling). Pilze, die Lignin abbauen, lassen Zellulose übrig und führen zu Weißfäule (Zunderschwamm)."
+  },
+  {
+    "id": 439,
+    "question": "439 Nennen Sie drei Arten von Mykorrhiza-Pilzen mit ihren jeweiligen bevorzugten Baumpartnern.   (6)",
+    "answer": "Gold-Röhrling - Lärche \nBirkenspeitäubling - Birke\nGallentäubling - Buche\nLachsreizker - Weißtanne"
+  },
+  {
+    "id": 440,
+    "question": "440 Erläutern Sie die wichtige ökologische Bedeutung der Pilze im Naturhaushalt anhand von drei Beispielen.   (3)",
+    "answer": "Als Mykorrhizapartner verbessern sie das Baumwachstum, \nals Saprophyten zerkleinern sie totes organisches Material -> z.B. Weißfäule (Abbau Lignin) und Braunfäule (Abbau Zellulose)\ndient als Nahrungsquelle von verschiedenen Tieren"
+  },
+  {
+    "id": 441,
+    "question": "441 Nennen und erläutern Sie die verschiedenen Strategien zur Ernährungsweise der Pilze.   (6)",
+    "answer": "Da Pilze heterotroph sind benötigen sie organische Stoffe als Energielieferanten. Diese können sie als Mykorrhizapilze von Bäumen bekommen oder als Saprophyten durch Abbau von toten, organischen Stoffen. Als Parasiten können sie auch lebende organische Substanz angreifen."
+  },
+  {
+    "id": 442,
+    "question": "442 Nennen Sie drei Speisepilze, die an Holz wachsen.   (3)",
+    "answer": "Stockschwämmchen, Graublättriger Schwefelkopf, Austernseitling."
+  },
+  {
+    "id": 443,
+    "question": "443 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Tanne (Abies alba) erkennen und von einer Fichte (Picea abies) unterscheiden können.   (2)",
+    "answer": "T: Biegsame Nadeln waagrecht nach links und rechts, an der Spitze sind diese leicht eingedellt oder flach, so dass diese nicht pieksen, F: spiralförmig um Zweig, pieksen\nT: Unterseite mit weißen Streifen, \nT: die Zapfen stehen aufrecht. F: hängend, länglich"
+  },
+  {
+    "id": 444,
+    "question": "444 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Fichte (Picea abies) erkennen und von einer Kiefer (Pinus sylvestris) unterscheiden können.   (2)",
+    "answer": "Die spitzen und pieksenden Nadeln der Fichte sind spiralig angeornet. An der abgerissenen Nadel verbleibt ein brauner Rest. \nDie Nadeln der Kiefer wachsen meistens in Bündeln von 2 bis 5 Nadeln. \nDie Zapfen der Kiefer sind schief eiförmig mit Stiel.\nDie Zapfen der Fichte eher länglich zylindrisch."
+  },
+  {
+    "id": 445,
+    "question": "445 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Wald-Kiefer (Pinus sylvestris) erkennen und von einer Tanne (Abies alba) unterscheiden können.   (2)",
+    "answer": "Kiefer: Jeweils zwei lange Nadeln sind unten verbunden, die Rinde ist bräunlichrot, kleine Kiefernzapfen, \nTanne: hat waagrecht nach links und rechts stehende stumpfe Nadeln mit weissen Streifen auf Unterseite. \nKiefernadeln sind länger als Tannennadeln.\nZapfen: Kiefer: kleiner, rund mit Spitze // Tanne: etwas bauchig walzenförmig"
+  },
+  {
+    "id": 446,
+    "question": "446 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Lärche (Larix decidua) erkennen und von einer Fichte (Picea abies) unterscheiden können.   (2)",
+    "answer": "Die Nadeln der Lärche sind hellgrün, weisen in alle Richtungen. An einem Kurztrieb befinden sich 10 bis 60 Nadelblätter. \nFichtennadeln sind spiralförmig um einen Zweig\nDie Lärche ist sommergrün, wirft also im Winter ihre Nadeln ab. \nFichte behält ihre Nadeln im Winter\nDie Lärche hat sehr kleine ovale Zapfen, die Fichte fast walzenförmige"
+  },
+  {
+    "id": 447,
+    "question": "447 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Eibe (Taxus baccata) erkennen und von einer Fichte (Picea abies) unterscheiden können.   (2)",
+    "answer": "Nadeln: E: glänzend, leicht verformbar // F: starr, pieksen \nFrüchte: E: Samen mit roten Fruchtmantel umgeben // F: längliche Zapfen"
+  },
+  {
+    "id": 448,
+    "question": "448 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Birke (Betula sp.) erkennen und von einer Hainbuche (Carpinus betulus) unterscheiden können.   (2)",
+    "answer": "Borke: Birke: weiß, runzelig Hainbuche:dünn, glatt, grau\nBlätter: Birke: herzförmig rhombisch, Hainbuche: eiförmig zugespitzt"
+  },
+  {
+    "id": 449,
+    "question": "449 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Buche (Fagus sylvatica) erkennen und von einer Eiche (Quercus sp.) unterscheiden können.   (2)",
+    "answer": "Buche hat graubraune, glatte Borke, \nBlatt fast ganzrandig, eiförmig, \nBucheckerfrucht. \nEiche hat runzellige Borke, \ntypisches Eichblatt und\nEichel als Frucht."
+  },
+  {
+    "id": 450,
+    "question": "450 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Eiche (Quercus sp.) erkennen und von einer Edelkastanie (Castanea sativa) unterscheiden können.   (2)",
+    "answer": "Eiche : Das Blatt ist eiförmig gebuchtet Eichblatt, \nEichel-Frucht. \nKastanie: Blätter gezackt 10 bis 20 cm lang und und 3 bis 6 cm breit. \nFrüchte glänzende und dunkelbraun in einem stacheligen Fruchtbecher."
+  },
+  {
+    "id": 451,
+    "question": "451 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Hainbuche (Carpinus betulus) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Hainbuche: Blätter eiförmig, doppelt gesägt. Hainbuche Blätter stark geriffelt und gesägt. Buche:leicht  geriffelt und nur wenig gesägt\nHainbuchenfrüchte sind grün und wachsen in Traubenform\nBuche Früchte sind die Bucheckern"
+  },
+  {
+    "id": 452,
+    "question": "452 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Esche (Fraxinus exelsior) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Rinde: E: Netzborke B: glatt \nBlätter: E: wechselständig gefiedert B: Eiförmig zugespitzt \nFucht: E: geflügelte Nussfrüchte B: Bucheckern"
+  },
+  {
+    "id": 453,
+    "question": "453 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Espe (Populus tremula) erkennen und von einer Eiche (Quercus sp.) unterscheiden können.   (2)",
+    "answer": "Stamm: Espe:silbergrau Eiche: runzelige dicke Borke\nBlätter: Espe: rundliche langstielige Blätter - zittern in Wind wie Espenlaub, Eiche: Eichblatt\nFrucht: Espe:kleine Samen, Eiche: Eichel"
+  },
+  {
+    "id": 454,
+    "question": "454 Nennen Sie zwei wichtige Merkmale, an denen Sie einen Ahorn (Acer sp.) erkennen und von einer Eiche (Quercus sp.) unterscheiden können.   (2)",
+    "answer": "Blatt: Ahorn Das Blatt ist handförmig, fünfspaltig, Eiche : Eichblatt\nFrucht: Ahorn: geflügelte Nussfrucht, Eiche: Eichel"
+  },
+  {
+    "id": 455,
+    "question": "455 Nennen Sie zwei wichtige Merkmale, an denen Sie Erlen (Alnus sp.) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Rinde: E: dunkelgrau und rissig, B: glatt und grau.\nFrüchte E: Zapfenartig  B: Bucheckern \nBlätter: E: rundlich, an Spitze gestutzt B: eiförmig"
+  },
+  {
+    "id": 456,
+    "question": "456 Nennen Sie zwei wichtige Merkmale, an denen Sie eine Edelkastanie (Castanea sativa) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Edelkastanie: Baum mit kurzem Stamm, \ndunkelgrauer Borke, \nkurzgestielten Blättern, länglich lanzettlich, fest, scharf gesägt. \nStacheliege Kastanienfrüchte. \nBuche: Bucheckern \n,Blatt eiförmig und zugespitzt."
+  },
+  {
+    "id": 457,
+    "question": "457  Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Rosskastanie (Aesculus hippocastanum) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Rosskastanie: Äste braunfilzig,\nBlätter langestielt, handförmig. \nSamen: Kastanie. \nBuche: Bucheckern, \nBlatt eiförmig und zugespitzt."
+  },
+  {
+    "id": 458,
+    "question": "458 Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Vogelkirsche (Prunus avium) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Rinde: V: glänzende Ringelborke, B: glatt \nBlätter: V: oval lanzettlich, gesägt, B: eiförmig zugespitzt \nFrucht: V: kleine Kirschen B: Bucheckern"
+  },
+  {
+    "id": 459,
+    "question": "459 Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Linde (Tilia sp.) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Blätter: L: unsymmmetrisch herzförmig B: eiförmig zugespitzt \nFrüchte: L: kleine Nussfrüchte mit Flügel B: Bucheckern"
+  },
+  {
+    "id": 460,
+    "question": "460 Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Weide (Salix sp.) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Äste: Wiede: dünn biegsam, Buche: fest\nBlätter Weide: breit eiförmig oder lanzettlich,Nervatur hervortretend B: eiförmig zugespitzt\nRinde:W: längsrissige Borke, B: glatt"
+  },
+  {
+    "id": 461,
+    "question": "461 Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Ulme (Ulmus sp.) erkennen und von einer Buche (Fagus sylvatica) unterscheiden können.   (2)",
+    "answer": "Blätter: U: unsymmetrisch, doppelt gesägt B: eiförmig zugespitzt\nFrüchte: U: geflügelte Samen B: Bucheckern\nUlme: Blüht vor Blattentwicklung"
+  },
+  {
+    "id": 462,
+    "question": "462 Erläutern Sie zwei wichtige Merkmale, an denen Sie eine Hasel (Corylus allevana) erkennen und von einer Hainbuche (Carpinus betulus) unterscheiden können.   (2)",
+    "answer": "Blätter: Hasel: breit zugespitzt Hainbuche: eiförmig zugespitzt\nBlüten und Früchte: Hasel:lange Kätzchen, Haselnuß Hainbuche:Kätzchen, dreiflügeliche Nuss wächst in Traubenform"
+  },
+  {
+    "id": 463,
+    "question": "463 Nennen Sie je zwei Pilzarten, die vorwiegend auf saurem Boden bzw. auf basischem Untergrund vorkommen.   (4)",
+    "answer": "Saurer Boden: Marone, Reifpilz\nBasischer Boden: Specht-Tintling, Mönchskopf"
+  },
+  {
+    "id": 464,
+    "question": "464 Nennen Sie drei spezielle Habitate (Pflanzengesellschaften kein Holz oder Waldboden!) und jeweils eine Pilzart, die dort typischerweise vorkommt.   (6)",
+    "answer": "Trockenhabitat: Wetterstern  \nFeuchthabitat: Maggipilz \nMagerwiesen: Kirschroter Saftlig"
+  },
+  {
+    "id": 465,
+    "question": "465 Nennen Sie zwei Pilzarten, deren Vorkommen unabhängig vom ph-Wert des Bodens ist.   (2)",
+    "answer": "Gold-Röhrling \nButterpilz\nSemmelstoppelpilz"
+  },
+  {
+    "id": 466,
+    "question": "466 Nennen Sie je eine Zeigerpflanze für saure Standorte und basischen Untergrund.   (2)",
+    "answer": "Sauer: Heidelbeere, Heidekraut \nBasisch: Seidelbast, Gelbes Windröschen"
+  },
+  {
+    "id": 467,
+    "question": "467 Nennen Sie je eine Zeigerpflanze für magere und nährstoffreiche Standortbedingungen.   (2)",
+    "answer": "Mager: Kriechender Hahnenfuß, Hungerblümchen\nNährstoffreich: Brennessel"
+  },
+  {
+    "id": 468,
+    "question": "468 Nennen Sie je eine Zeigerpflanze für feuchte/nasse und extrem trockene Standorte.   (2)",
+    "answer": "Feucht: Gänsefingerkraut, Hängende-Segge\nTrocken: Kleine-Habichtskraut, Hasen-Klee"
+  },
+  {
+    "id": 469,
+    "question": "469 Nennen Sie je eine Zeigerpflanze für Schatten und vollsonnige Standorte.   (2)",
+    "answer": "Schattig: Waldmeister \nSonnig: Sonnenblume"
+  },
+  {
+    "id": 470,
+    "question": "470 Nennen Sie drei Möglichkeiten, wie Pilzsporen verbreitet werden können, bitte mit Beispielarten.   (6)",
+    "answer": "Durch Insekten: Stinkmorchel, \ndurch Rot-Schwarzwild: Trüffel, \ndurch den Wind: Das ist der Normalfall bei Russula, Boletus, Cortinarius ..."
+  },
+  {
+    "id": 471,
+    "question": "471 Nennen Sie drei typische Pilzarten, die Sie im Januar finden können.   (3)",
+    "answer": "Austernseitling, Samtfußrübling, Frostschneckling, Judasohr"
+  },
+  {
+    "id": 472,
+    "question": "472 Nennen Sie drei typische Pilzarten, die Sie im April finden können.    (3)",
+    "answer": "Schildrötling, Speisemorchel, Frühjahrsgiftlorchel"
+  },
+  {
+    "id": 473,
+    "question": "473 Nennen Sie drei Bedingungen, die erfüllt sein müssen, damit ein Pilzmycel wachsen kann.   (3)",
+    "answer": "Temperatur, Wasser, Bodenbeschaffenheit müssen günstig sein. \nEs muss eine Nährstoffquelle vorhanden sein: Bei Mykorrhizapilzen stellen Pflanzen die organischen Stoffe zur Verfügung, bei Saprobionten wird tote, organische Substanz zersetzt."
+  },
+  {
+    "id": 474,
+    "question": "474 Nennen Sie drei Bedingungen, die erfüllt sein müssen, damit ein Pilzmycel Fruchtkörper bilden kann.   (3)",
+    "answer": "Viele Pilze findet man nur zu bestimmten Jahreszeiten. \nDie Wasserverhältnisse müssen stimmen. Trockenheit oder Staunässe verhindern das Pilzwachstum. Die Temperatur muss stimmen. Bei zu hoher oder niedriger Temperatur stellen viele Pilze ihr Wachsstum ein."
+  },
+  {
+    "id": 475,
+    "question": "475 Nennen Sie jeweils zwei Pilzarten, die vorwiegend an Laub- bzw. an Nadelholz wachsen.   (4)",
+    "answer": "Laubholz: Saitenstieliger Knoblauchschwindling, Zunderschwamm, Austernseitling\nNadelholz: Gifthäubling, graublättriger Schwefelkopf"
+  },
+  {
+    "id": 476,
+    "question": "476 Nennen Sie jeweils zwei Pilzarten, die Weiß- bzw. Braunfäule verursachen.   (4)",
+    "answer": "Weißfäule: Eichhase , Zunderschwamm, Austernseitling \nBraunfäule:  Eichenwirrling , Schwefelporling, Leberreischling"
+  },
+  {
+    "id": 477,
+    "question": "477 Nennen Sie eine saprobiontische Pilzart, die auf Zapfen wächst.   (1)",
+    "answer": "Ohrlöffel-Stacheling , Fichten-Zapfenrübling"
+  },
+  {
+    "id": 478,
+    "question": "478 Was ist Geotropismus und welche Art des Geotropismus ist bei Pilzen verbreitet?   (2)",
+    "answer": "Eine gezielte Wachstumsbewegung (tropismus) unter dem Einfluss der Erdanziehungskraft (Geo). Am meisten ist verbreitet, dass das Hymenium Richtung Erde also nach unten zeigt.\nWenn beispielsweise eine Buche mit einem Zunderschwamm umkippt, dann richtet sich Zunderschwamm neu so aus, dass die Poren nicht seitlich, sondern nach unten fallen."
+  },
+  {
+    "id": 479,
+    "question": "479 Was sind Nematoden und was haben sie mit Pilzen zu tun?   (2)",
+    "answer": "Nematoden sind längliche, weißliche Fadenwürmer. Sie werden von fleischfressenden Pilzen – z. B. dem Schopftintling oder vom Riesenträuschling – als Eiweißquelle aufgenommen."
+  },
+  {
+    "id": 480,
+    "question": "480 Nennen Sie fünf Mykorrhizapilze, die jeweils an eine Baumart gebunden sind sowie die zugehörige Baumart.   (10)",
+    "answer": "Lärche:  Gold-Röhrling \nBirke: Birkenreizker\nWeißtanne: Lachsreizker \nEspe: Espen-Rotkappe\nKiefer: Sand-Röhrling"
+  },
+  {
+    "id": 481,
+    "question": "481 Wie verbreiten sich Pilze? Nennen Sie 2 Beispiele.   (2)",
+    "answer": "Geschlechtlich durch Sporen und ungeschlechtlich durch unterirdisches Mycelwachstum oder durch Konidien. Die Sporen können vom Wind verbreitet werden wie beim Kartoffelbovist  oder durch Insekten wie beim Stinkmorchel."
+  },
+  {
+    "id": 482,
+    "question": "482 Wie verbreiten sich Trüffel trotz ihrer hypogäischen Lebensweise?   (1)",
+    "answer": "Sie werden von Säugetieren wie Rot- oder Schwarzwild verbreitet."
+  },
+  {
+    "id": 483,
+    "question": "483 Nennen Sie zwei für den Menschen potentiell tödlich giftige Pilzarten, die an Holz wachsen.   (2)",
+    "answer": "Gifthäubling, Zimtfarbener Weichporling, Ohrförmiger Seitling"
+  },
+  {
+    "id": 484,
+    "question": "484 Nennen Sie zwei halluzinogen wirkende Pilzarten.   (2)",
+    "answer": "Grüngebuckelter Risspilz, Fliegenpilz\nKubanischer Kahlkopf, Graugrüner Dachpilz"
+  },
+  {
+    "id": 485,
+    "question": "485 Nach Verzehr von unbekannten Risspilzen treten u.a. Halluzinationen und Wahnvorstellungen auf. Welcher Giftstoff ist dafür verantwortlich?   (1)",
+    "answer": "Psilocybin in geringeren Mengen Psilocin."
+  },
+  {
+    "id": 486,
+    "question": "486 Nennen Sie alle tödlich giftigen Porlinge.   (1)",
+    "answer": "Zimtfarbener Weichporling"
+  },
+  {
+    "id": 487,
+    "question": "487 Nennen Sie zwei giftige Röhrlinge.   (2)",
+    "answer": "Satansröhrling, Schönfuß-Röhrling"
+  },
+  {
+    "id": 488,
+    "question": "488 Nennen Sie drei Giftpilze, die auf Holz wachsen.   (3)",
+    "answer": "Gifthäubling, Zimtfarbener Weichporling, Ölbaumpilz , Grünblättriger Schwefelkopf"
+  },
+  {
+    "id": 489,
+    "question": "489 Ihnen wird ein Korb mit Morcheln (Morchella sp.) zu einer Untersuchung vorgelegt. Auf welche möglichen Gefahren weisen Sie hin?   (2)",
+    "answer": "Es kann zum neurologischen Morchella-Syndrom (Gleichgewichtsproblem, Muskelzittern) aber auch zu gastrointestinalen Problemen kommen. Außerdem ausreichend erhitzen und nicht zu viele essen."
+  },
+  {
+    "id": 490,
+    "question": "490 Sind Pilze, die angenehm nach etwas Essbarem riechen, grundsätzlich essbar?   (1)",
+    "answer": "Nein."
+  },
+  {
+    "id": 491,
+    "question": "491 Bitte nennen Sie je zwei Beispiele für essbare und für giftige Schlauchpilze.   (4)",
+    "answer": "Essbar: Speisemorchel, Spitzmorchel, \nGiftig: Frühjahrsgiftlorchel, Riesenlorchel"
+  },
+  {
+    "id": 492,
+    "question": "492 Beschreiben Sie die Phasen einer typischen Pantherpilz (Amanita pantherina)-Vergiftung.   (3)",
+    "answer": "Latenzzeit: 15 Min. bis 4h, volle Symptomatik nach etwa 2-3h\nSymptome: Rauschzustände, Schwindelgefühl, Gangunsicherheit, erweiterte Pupillen, Sehstörungen, Erregungszustände, Tobsucht, Gefäßveränderung, Krämpfe, optische und akkustische Halluzinationen \nSymptome hängen vom gesundheitlichen Zustand des Vergifteten ab!\nVergiftungen enden selten tödlich, Symptome klingen nach wenigen Tagen wieder ab\nGiftstoffe: Ibotensäure,  Muscazon, Muscimol \nGegengift: Physostigmin"
+  },
+  {
+    "id": 493,
+    "question": "493 Beschreiben Sie die Phasen einer typischen Vergiftung nach dem Verzehr des Grünen Knollenblätterpilzes (Amanita phalloides).    (3)",
+    "answer": "Latenzzeit: 8 bis 24h, seltener auch schon nach 6h, nach 2 Tagen oft scheinbare Besserung\nSymptome: Heftige Brechdurchfälle, Dehydrierung, durch Blockade lebenswichtiger Synthesevorgänge irreversible Schädigung der Leber. Tod durch Leberkoma oder Folgekrankheiten.\nGifte: Amatoxine Phallotoxine Virotoxine"
+  },
+  {
+    "id": 494,
+    "question": "494 Wie lange kann die Latenzzeit bei gastrointestinalem Syndrom sein?   (1)",
+    "answer": "15 Minuten bis 4 Stunden."
+  },
+  {
+    "id": 495,
+    "question": "495 Welche Syndrome können Risspilze (Inocybe) auslösen? Beschreiben Sie kurz die wichtigsten Symptome.   (4)",
+    "answer": "Muscarin-Syndrom:\nLatenzzeit:15 Min. bis maximal 2h\nSymptome:Speichelfluss, Tränensekretion, Pupillenverengung, starke Sehstörungen, Blutdruckabfall und verlangsamter Puls, Erbrechen, Durchfall, Magenkoliken\nGift: Muscarin\n\nPsilocybin-Syndrom:\nLatenzzeit: 15 Min bis 4h\nSymptome:Entspricht einer Psychose. Sonderbare Verzerrungen, Missempfindungen, Halluzinationen, Angstzustände, Schwindel, Kopfschmerzen, gestörtes Raum- und Zeitempfinden. Traumwelt, Märchenlandschaft.\nGift: Psilocybin und Psilocin"
+  },
+  {
+    "id": 496,
+    "question": "496 Wie äußert sich das Morchella-Syndrom und in welchen Fällen kann es auftreten?   (3)",
+    "answer": "Latenzzeit:Lang, in Einzelfällen bis zu 12 Stunden.\nSymptome:Erbrechen, Durchfälle, Schweißausbrüche, Schwindel, Koordinationsstörungen, Sehstörungen, zentralnervöse Störungen mit gutartigem Verlauf, spätestens nach 24-36Std. Normalisierung.\nAlle Morcheln und Verpeln sind besonders auch roh giftig. Die Vergiftungserscheinungen treten auch bei getrockneten Exemplaren auf.\nDer oben geschilderte Vergiftungsverlauf tritt nahezu ausschließlich nach übermäßigem Verzehr in Erscheinung."
+  },
+  {
+    "id": 497,
+    "question": "497 Bei welchen Pilzen kann es zu Vergiftungserscheinungen bei zeitgleichem Alkoholgenuss kommen? Bitte nennen Sie zwei Arten aus zwei verschiedenen Gattungen.   (2)",
+    "answer": "Falten-Tintling , Keulenfußtrichterling"
+  },
+  {
+    "id": 498,
+    "question": "498 Bei einem Patienten treten starke Schmerzen der Oberschenkelmuskulatur sowie braun gefärbter Urin auf. Welcher Pilz könnte dies ausgelöst haben und wie nennt man diese Symptomatik medizinisch?   (2)",
+    "answer": "Grünling , Equestre-Syndrom."
+  },
+  {
+    "id": 499,
+    "question": "499 Was verstehen Sie unter Rhabdomyolyse? Nennen Sie eine Pilzart, die dieses Syndrom auslöst.   (2)",
+    "answer": "Rhabdomyolyse ist der Abbau der quergestreiften Skelettmuskulatur durch den Grünling, wenn dieser sehr reichlich verzehrt wurde."
+  },
+  {
+    "id": 500,
+    "question": "500 Nennen Sie drei Pilzarten, die roh giftig und erst in ausreichend gegartem Zustand ungiftig sind.   (3)",
+    "answer": "Marone, Perlpilz, Flockenstieliger Hexenröhrling, Hallimasch"
+  },
+  {
+    "id": 501,
+    "question": "501 Nennen Sie drei Pilzarten, die besonders hoch radioaktiv belastet sein können.   (3)",
+    "answer": "Marone, Lacktrichterling, Frostschneckling, Semmelstoppelpilze, Rotfußröhrlinge"
+  },
+  {
+    "id": 502,
+    "question": "502 Was ist Mutterkorn (Claviceps purpurea agg.)? Wo kommt es vor? Welches Organ greift der enthaltene Giftstoff an?   (3)",
+    "answer": "Das Pilzgeflecht vom Mutterkorn bildet auf einem Getreidekorn ein Dauermycel (Sklerotium), dieses enthält Giftstoffe (Ergotamin und Ergotoxin), welche die peripheren Blutgefäße schädigen und zum Absterben bringen, was mit einem starken Kribbeln verbunden ist."
+  },
+  {
+    "id": 503,
+    "question": "503 Sie als PSV werden von jemandem angerufen, der angibt, zwei Stunden zuvor selbstgesammelte Pilze verzehrt zu haben und nun Magen-Darm-Beschwerden zeigt. Beschreiben Sie Ihre Handlungsweise und geben Sie dabei die Reihenfolge der Handlungen an.   (3)",
+    "answer": "Ärztliche Hilfe: ggf. Krankenhaus, Giftinformationszentrum, keine Hausmittel, dann beruhigen, Fragen (wie lange, welche Sympt., wer, wie viel, was gesammelt, wie gegart)\nReste sichern und identifizieren\nMeldung und Dokumentation\n1. Arzt oder Giftnotrufzentrale informieren\n2. Pilzreste sichern (Putzreste, Reste der Mahlzeit, sogar Erbrochenes)\n3. Keine Hausmittel anwenden\n4. Wichtige Fragen :\n- Wer hat von den Pilzen gegessen? Bei den Beteiligten gleiche oder keine Symptome?\n- Wann wurden die Pilze verzehrt? \n- Welche Beschwerden sind wann in welcher Reihenfolge aufgetreten? \n- Nimmt betroffene Person Medikament ein - welche?"
+  },
+  {
+    "id": 504,
+    "question": "504 Nennen Sie vier verschiedene Vergiftungssyndrome durch Pilze und die Arten dazu.   (8)",
+    "answer": "1. Phalloides-Syndrom (grüner Knollenblätterpilz, Gifthäubling), \n2. Orellanus-Syndrom (spitzgebuckelter Raukopf, orangefuchsiger Raukopf), \n3. Muscarin-Syndrom (Ziegelroter Risspilz),\n4. Pantherina-Syndrom (Pantherpilz), \n5. Equestre-Syndrom (Grünling),"
+  },
+  {
+    "id": 505,
+    "question": "505 Gibt es kontaktgiftige Pilzarten? Wenn ja, nennen Sie ein Beispiel.   (1)",
+    "answer": "Nein"
+  },
+  {
+    "id": 506,
+    "question": "506 Was verstehen Sie unter Latenzzeit? Nennen Sie eine Pilzart, bei der diese Tage bis Wochen beträgt.   (2)",
+    "answer": "Das ist die Zeit von der Pilzaufnahme bis zu den ersten Symptomen. \nSpitzgebuckelter Raukopf."
+  },
+  {
+    "id": 507,
+    "question": "507 Schließen Brechdurchfälle, die bereits nach einer Stunde einsetzen, eine Amanitin-Vergiftung aus? Begründen Sie ihre Antwort.   (2)",
+    "answer": "Das Phalloides-Syndrom setzt frühestens nach 4 Stunden ein. Es könnte aber auch eine doppelte Pilzvergiftung vorliegen."
+  },
+  {
+    "id": 508,
+    "question": "508 Was verstehen Sie unter einer unechten Pilzvergiftung? Nennen Sie 2 Beispiele.   (4)",
+    "answer": "Sie wird durch überständige, verdorbene oder zu vielen Pilze hervorgerufen. Pilzvergiftung aufgerufen durch z.B.:\nNicht ausreichend durcherhitzten Pilzen (bei roh giftigen Arten, z.B. Hallimasch)\nverdorbene Pilze (z.B. Röhrlinge mit Goldschimmel)\nNocebo-Effekt (eingebildete Pilzvergiftung)"
+  },
+  {
+    "id": 509,
+    "question": "509 Was verstehen Sie unter Hämolyse? Nennen Sie zwei Pilzarten, die diese auslösen können.   (3)",
+    "answer": "Zerstörung von Roten Blutkörperchen durch \n1.) pilzeigenes Hämolysin, das durch ausreichendes Erhitzen zerstört wird. Z.B. bei Perlpilz, Austernseitling.\n2.) Verzehr von vielen kahlen Kremplingen über Jahre hinweg kann zu Immunhämolyse führen (Paxillus-Syndrom)"
+  },
+  {
+    "id": 510,
+    "question": "510 Bei welchem Vergiftungssyndrom färbt sich der Urin violett und durch welchen Pilz wird das hervorgerufen?   (2)",
+    "answer": "Beim Polyporsäure-Syndrom. Es wird durch die Polyporsäure des Zimtfarbenen Weichporlings hervorgerufen."
+  },
+  {
+    "id": 511,
+    "question": "511 Welche Vergiftungssymptome können nach dem Verzehr von Risspilzen (Inocybe) auftreten? Nennen Sie die dazugehörigen Giftstoffe.   (4)",
+    "answer": "Musarin-Syndrom (Muscarin): Schweißausbruch, Speichelfluss, Tränenfluss, Puls langsam, enge Pupille, Sehstörung, Brechdurchfälle\nPsilocybin-Syndrom (Psilocybin, Psilocin): Benommenheit, Schwindel, Unruhe, Gleichgewichtsstörungen, Magen-Darm-Symptomatik, Tobsucht, Rauschzustand, Hallizunationen"
+  },
+  {
+    "id": 512,
+    "question": "512 Nennen Sie je 2 Speise- und Giftpilze, die zur Gattung der Schleierlinge (Cortinarius) gehören.   (4)",
+    "answer": "Speisepilze: Schleiereule, Semmelgelber Schleimkopf\nGiftpilze: spitzgebuckelter Raukopf, Dottergelber Klumpfuß"
+  },
+  {
+    "id": 513,
+    "question": "513 Nennen Sie eine Pilzart, welche das Paxillus-Syndrom auslöst.   (1)",
+    "answer": "Kahler Krempling"
+  },
+  {
+    "id": 514,
+    "question": "514 Nennen Sie drei Gattungen, die, außer Kahlköpfen, Psilocybin enthalten können.   (3)",
+    "answer": "Düngerling (Paneolus), Risspilz (Inocybe), Dachpilz (Pluteus)"
+  },
+  {
+    "id": 515,
+    "question": "515 Ein Ratsuchender, der Pilze gegessen hat, meldet sich telefonisch bei Ihnen wegen eines möglichen Pilzvergiftungsfalls. Was raten Sie?   (3)",
+    "answer": "1. Arzt oder Giftnotrufzentrale informieren\n2. Pilzreste sichern (Putzreste, Reste der Mahlzeit, sogar Erbrochenes)\n3. Keine Hausmittel anwenden\n4. Wichtige Fragen :\n- Wer hat von den Pilzen gegessen? Bei den Beteiligten gleiche oder keine Symptome?\n- Wann wurden die Pilze verzehrt? \n- Welche Beschwerden sind wann in welcher Reihenfolge aufgetreten? \n- Nimmt betroffene Person Medikament ein - welche?"
+  },
+  {
+    "id": 516,
+    "question": "516 Nennen Sie eine Pilzart, die Orellanin enthält. Welches Organ wird durch dieses Gift geschädigt?   (2)",
+    "answer": "spitzgebuckelter Raukopf, Dottergelber Klumpfuß. Niere."
+  },
+  {
+    "id": 517,
+    "question": "517 Nennen Sie eine Pilzart, die Ibotensäure enthält. Welches Organ wird durch dieses Gift beeinträchtigt?   (2)",
+    "answer": "Pantherpilz, das Nervensystem."
+  },
+  {
+    "id": 518,
+    "question": "518 Nennen Sie eine Pilzart, die Psilocybin enthält. Welches Organ wird durch dieses Gift beeinträchtigt?   (2)",
+    "answer": "Spitzkegeliger Kahlkopf , Nervengift, schädigt Gehirn und ZNS."
+  },
+  {
+    "id": 519,
+    "question": "519 Nennen Sie eine Pilzart, die Amanitin enthält. Welches Organ wird durch dieses Gift geschädigt?   (2)",
+    "answer": "grüner Knollenblätterpilz, Leber."
+  },
+  {
+    "id": 520,
+    "question": "520 Nennen Sie eine Pilzart, die Muscarin enthält. Welches Organ wird durch dieses Gift geschädigt, beeinträchtigt?   (2)",
+    "answer": "Ziegelroter Risspilz, das vegetative Nervensystem, Gehirn, der Gastrointestinaltrakt."
+  },
+  {
+    "id": 521,
+    "question": "521 Nennen Sie eine Pilzart, die Gyromitrin enthält. Welches Organ wird durch dieses Gift geschädigt?   (2)",
+    "answer": "Frühjahrsgiftlorchel, ZNS, Gastrointestinaltrakt, Leber und Niere."
+  },
+  {
+    "id": 522,
+    "question": "522 Nennen Sie eine Pilzart, die Muscimol und Ibotensäure enthält. Welches Organ wird durch diese Gifte beeinträchtigt?   (2)",
+    "answer": "Pantherpilz: Ibotensäure wird in das wirksamere Muscimol umgewandelt, das vegetative Nervensystem, das Großhirn (Halluzinationen), selten Darm."
+  },
+  {
+    "id": 523,
+    "question": "523 Nennen Sie eine Pilzart, die einen hohen Gehalt an Hämolysin besitzt. Welches Organ wird durch dieses Gift geschädigt?   (2)",
+    "answer": "Perlpilz (roh), die roten Blutkörperchen werden zerstört."
+  },
+  {
+    "id": 524,
+    "question": "524 Durch welche in Pilzen enthaltene Giftstoffe wird die menschliche Niere geschädigt?   (2)",
+    "answer": "Orellanin, Gyromitrin, Polyporsäure"
+  },
+  {
+    "id": 525,
+    "question": "525 Nennen Sie eine Pilzart, die ein Nervengift enthält. Wie heißt der Giftstoff?   (2)",
+    "answer": "Spitzkegeliger Kahlkopf, Psilocybin"
+  },
+  {
+    "id": 526,
+    "question": "526 Nennen Sie drei Pilzarten, die Magen-Darm-wirksame Toxine enthalten.   (3)",
+    "answer": "1. Karbolegerling\n2. Riesenrötling \n3. Grünblättriger Schwefelkopf"
+  },
+  {
+    "id": 527,
+    "question": "527 Nennen Sie eine Pilzart, die Hämolysine enthält. Wie verläuft eine Vergiftung? Wie bezeichnet man dieses Syndrom?   (5)",
+    "answer": "Beim Rohverzehr von Austerseitling ,Perlpilz oder Schwefelporling . \nHämolytisches Syndrom. Dabei werden die roten Blutkörperchen angegriffen und  zersetzt."
+  },
+  {
+    "id": 528,
+    "question": "528 Beschreiben Sie das Orellanus-Syndrom. Wie lange beträgt die Latenzzeit?   (4)",
+    "answer": "Latenzzeit:Tage bis Wochen, seltener 4-24h\nSymptome:Brechdurchfälle, Durst, Nierenschmerzen, verminderte Urinproduktion, Kopfschmerzen. Nach mehreren Tagen Tod durch Niereninsuffizienz und irreversible Nierenschäden."
+  },
+  {
+    "id": 529,
+    "question": "529 Welche Pilzarten können Vergiftungssymptome auslösen, die bereits unmittelbar beim oder nach dem Herunterschlucken auftreten können. Wie bezeichnet man diese Symptomatik?   (2)",
+    "answer": "Prinzipiell können alle Pilze bei bestimmtem Menschen unmittelbar nach dem Genuss ein Allergie auslösen, insbesonder Schmierröhrlinge oder Hallimasch. Indigestions Syndrom."
+  },
+  {
+    "id": 530,
+    "question": "530 Unter welchen Bedingungen lösen coprinhaltige Pilze Vergiftungen aus? Nennen Sie zwei Pilzarten, die diesen Stoff enthalten.   (2)",
+    "answer": "Bei Aufnahme von Alkohol - zwei Tage vor Pilzgenuss bis drei Tagen danach. \nFaltentintling und Spechttintling (Keulenfuß-Trichterling - anderer Giftstoff)"
+  },
+  {
+    "id": 531,
+    "question": "531 Welche Voraussetzungen müssen erfüllt sein, damit eine Vergiftung durch den Ohrförmigen Seitling (Pleurocybella porrigens) eintritt?   (2)",
+    "answer": "Bei gestörter Nierenfunktion."
+  },
+  {
+    "id": 532,
+    "question": "532 Nennen Sie zwei Pilzgattungen, in denen es Arten gibt, die Psilocybin enthalten.   (2)",
+    "answer": "Kahlköpfe, Risspilze, Dachpilze"
+  },
+  {
+    "id": 533,
+    "question": "533 Nennen Sie bitte zwei Gattungen, in denen Arten mit toxikologisch relevanten Mengen Muscarin vorkommen.   (2)",
+    "answer": "Risspilze, Trichterlinge, Helmlinge"
+  },
+  {
+    "id": 534,
+    "question": "534 Nennen Sie zwei Pilzarten, die Orellanin enthalten.   (2)",
+    "answer": "Orangefuchsiger Raukopf , Spitzgebuckelter Raukopf"
+  },
+  {
+    "id": 535,
+    "question": "535 Nennen Sie zwei Pilzarten, die Ibotensäure enthalten. Welche Symptome ruft sie hervor?   (4)",
+    "answer": "Pantherpilz, Fliegenpilz\nPantherpilz-Syndrom (Nervengifte)\nLatenzzeit:15 Min. bis 4h, volle Symptomatik nach etwa 2-3h\nSymptome:Rauschzustände, Schwindelgefühl, Gangunsicherheit, erweiterte Pupillen, Sehstörungen, Erregungszustände, Tobsucht, Gefäßveränderung, Krämpfe, optische und akkustische Halluzinationen \nSymptome hängen vom gesundheitlichen Zustand des Vergifteten ab!\nVergiftungen enden selten tödlich, Symptome klingen nach wenigen Tagen wieder ab"
+  },
+  {
+    "id": 536,
+    "question": "536 Nennen Sie drei Amanitin-haltige Pilzarten aus drei verschiedenen Gattungen.   (3)",
+    "answer": "grüner Knollenblätterpilz, Fleischrosa Schirmling, Gifthäubling"
+  },
+  {
+    "id": 537,
+    "question": "537 Was sind Hämolysine und in welchen Pilzarten kommen sie vor? Nennen Sie zwei Beispiele.   (3)",
+    "answer": "Es sind Stoffe, die die Roten-Blutkörperchen (Häm) auflösen (lyse). \nAusternseitling, Perlpilz,"
+  },
+  {
+    "id": 538,
+    "question": "538 Ordnen Sie den Giftstoffen a) Orellanin, b) Ibotensäure und c) Psilocybin je eine Pilzart zu, die diese beinhalten, und je ein menschliches Organ, das dadurch geschädigt, bzw. beeinträchtigt wird.   (6)",
+    "answer": "a) Orellanin: Orangefuchsiger Rauhkopf (Niere), \nb) Ibotensäure: Pantherpilz (Gehirn), \nc) Psilocybin: Spitzkegeliger Kahlkopf (Gehirn)."
+  },
+  {
+    "id": 539,
+    "question": "539 Ordnen Sie den Giftstoffen a) Amanitin, b) Polyporsäure und c) Muscarin je eine Pilzart zu, die diese beinhalten und je ein menschliches Organ, das dadurch geschädigt wird.   (6)",
+    "answer": "a) Amanitin: Grüner Knollenblätterpilz (Leber)\nb) Polyporsäure: Weichporlinge (Niere)\nc) Muscarin: Rettichhelming (Gehirn)"
+  },
+  {
+    "id": 540,
+    "question": "540 Ordnen Sie den Giftstoffen a) Gyromitrin, b) Muscimol und c) Psilocybin je eine Pilzart zu, die diese beinhalten und je ein menschliches Organ, das dadurch geschädigt, bzw. beeinträchtigt wird.   (6)",
+    "answer": "a) Gyromitrin: Frühjahrsgiftlorchel  (ZNS, Leber, Niere) \nb) Muscimol: Pantherpilz (ZNS), \nc) Psilocybin: Mexikanischer Kahlkopf (Gehirn)"
+  },
+  {
+    "id": 541,
+    "question": "541 Nennen Sie 2 Schirmlingsarten (Lepiota sp.), welche Amanitin enthalten.   (2)",
+    "answer": "Fleischrosa Giftschirmling, Fleischbräunliche Schirmling"
+  },
+  {
+    "id": 542,
+    "question": "542 Benennen Sie 3 Untergattungen der Schleierlinge (Cortinarius).   (3)",
+    "answer": "Phlegmacium (Klumpfüße und Schleimköpfe), \nDermocybe (Hautköpfe), \nLeprocybe (Rauköpfe), , \nMyxacium (Schleimfüße), \nCortinaria (Schleierlinge)."
+  },
+  {
+    "id": 543,
+    "question": "543 Wie wichtig ist die Fruchtkörperform für die Verwandtschaftsbeziehung (Systematik) der Pilze? Belegen Sie Ihre Antwort mit einem Beispiel.   (2)",
+    "answer": "Nicht wichtig.  \nWetterstern Boletales, Rötender Erdstern Geastrales."
+  },
+  {
+    "id": 544,
+    "question": "544 Was sind Bauchpilze? Nennen Sie zwei Beispiele.   (3)",
+    "answer": "Bauchpilze entwickeln ihre Sporen im Inneren des Fruchtkörpers. \nBeispiele sind Kartoffelbovist, Flaschenstäubling, Riesenbovist."
+  },
+  {
+    "id": 545,
+    "question": "545 In welche Ordnung gehören die Kremplinge?   (1)",
+    "answer": "Boletales=Dickröhrlingsartige"
+  },
+  {
+    "id": 546,
+    "question": "546 Wie setzt sich ein wissenschaftlicher Name zusammen?   (1)",
+    "answer": "Aus der Gattungsbezeichnung (z.B. Amanita) und der Artbeschreibung (z.B. phalloides). Diese binäre Nomenklatur gilt für alle Organismen und geht auf Linne zurück."
+  },
+  {
+    "id": 547,
+    "question": "547 Welches ist die kleinste taxonomische Einheit?   (1)",
+    "answer": "Art"
+  },
+  {
+    "id": 548,
+    "question": "548 Sind Schleimpilze echte Pilze? Nennen Sie ein Beispiel für einen Schleimpilz.   (2)",
+    "answer": "Nein, sie bilden neben den Pilzen und den Pflanzen eine eigene Gruppe. \nGelbe Lohblüte"
+  },
+  {
+    "id": 549,
+    "question": "549 Die Frühjahrs-Lorchel (Gyromitra esculenta agg.) und der Pfifferling (Cantharellus cibarius agg.) gehören systematisch zwei völlig unterschiedlichen Pilzklassen an. Nennen Sie diese und beschreiben Sie kurz ihre grundlegende Unterscheidung.    (6)",
+    "answer": "Lorchel ist Ascomycet (In einer schlauchartigen Zelle werden in der Regel acht Sporen gebildet), \nPfifferling Basidiomycet (Am Ende einer Ständerzelle werden in der Regel an vier Ständer vier Sporen gebildet)."
+  },
+  {
+    "id": 550,
+    "question": "550 Warum heißen Ascomyceten/Schlauchpilze so? Bitte stellen Sie ihre Antwort auch als Skizze dar.   (3)",
+    "answer": "In einer Schlauchartigen Zelle werden in der Regel acht Sporen gebildet."
+  },
+  {
+    "id": 551,
+    "question": "551 Warum heißen Basidiomyceten/Ständerpilze so? Bitte stellen Sie ihre Antwort auch als Skizze dar.   (3)",
+    "answer": "Am Ende einer Ständerzelle (Basidie) werden an in der Regel vier Ständer vier Sporen gebildet."
+  },
+  {
+    "id": 552,
+    "question": "552 Was versteht man unter Taxonomie?   (1)",
+    "answer": "Wissenschaftliche Systemlehre. Aufteilung des Reiches der Pilze in Gruppen, ganz oben Klassen (-mycetes), Ordnungen (-ales), Familien (-aceae), Gattungen, Arten"
+  },
+  {
+    "id": 553,
+    "question": "553 Wie lautet der Fachbegriff für Ständerpilze?   (1)",
+    "answer": "Basidiomycet"
+  },
+  {
+    "id": 554,
+    "question": "554 Wie lautet der Fachbegriff für Schlauchpilze?   (1)",
+    "answer": "Ascomycet."
+  }
+]

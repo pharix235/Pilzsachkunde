@@ -1,0 +1,9 @@
+{
+  "name": "PilzCoach – Pilzkunde Lernkarten",
+  "short_name": "PilzCoach",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f2e7",
+  "theme_color": "#344d38",
+  "description": "Digitale Karteikarten zur Pilzkunde"
+}
